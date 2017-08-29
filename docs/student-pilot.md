@@ -6,7 +6,7 @@ The dashboard is displayed by default when logging in to MedLearn.  If you navig
 
 **Please NOTE:**  Dashboard and Assessment & Evaluation functions in MedLearn will only show learning events and course-related functions that are specific to the pilot course.  Continue to use ArizonaMed for functions related to other courses.
 
-![Default Dashboard](https://dl.boxcloud.com/api/2.0/internal_files/216428307696/versions/228701404656/representations/png_paged_2048x2048/content/1.png?access_token=1!yZxDpqNMduvapZ-bwPUC-vVUvT-5uHXfm4shR96gsS8k5p9aFm2ggM0ec84XSOrHM021dRAIza9lTu_z9iWSLv_pA138q84M2Wwn20kqE8jj43GokLr2mwlyRwWkrm37fuk641_RhzvQjxHgvmCQJL3ZDOMNqU7RqE0m_A62lYcDmSNvgrBn7kn0x-TU4H7o2IzwPXyou8TMb7EFb_RKYMSaWNVSRRn_J0z7LjVsjRGPIKBl2NB90JAEkqC8ukc8J1QanGfkBcqluoNhpTX_18agEFqd8vZyBftXWHPUJMOgH_nX7seD54Goi5Hoc6jqAPfcNQwUG5FGomahQNf2S3D6Cufd7ax_Ap1dcSyj1vmj96rXKf_09ms9LNV805pu7fP5uhhEF1yOWg-a&box_client_name=box-content-preview&box_client_version=1.6.2)
+![Default Dashboard](./images/Intro_Student.png)
 
 #### 1.1 Notices
 Faculty and staff are able to post messages for student information.  Once posted, messages are shown on the dashboard.
@@ -28,7 +28,7 @@ Learning events for each of the courses are displayed on the student calendar.  
   * Pay special attention to the texts in the **Attendance** and **Professional Attire** fields
 * Click on the **Event Resources** link to access learning materials
 
-[[https://arizona.box.com/s/4o4esx22q25vut0vs774uqypo4htls52]]
+  ![Review Learning Event](https://dl.boxcloud.com/api/2.0/internal_files/216430162979/versions/228703336739/representations/png_paged_2048x2048/content/1.png?access_token=1!VopQ4w7kIUUEoSKCVnk2wFLw2_UPKoCto4CcrYBmBUfvHiKpl8fW7s0wIoO41xdcIDiCxKgeu7inQHEOY8c3lS9xdHTyAhMEoo8uYfKlbZsZyZ0qLcCwRmjwCwJhyVrZW39vVh2xJVlamSSu43Qxfga7uc_HYkSPxSDh1hEijNkx_y0xHsaSJNIKIq8lpWwaJ7vd_2fvQ0FIwzXBtfk3PVPw2V4Zukg4cif4LbrJDNdTbBllq52UPUfkLFNXKArJWl_vCY3ex0Y7XnZ7WBv90on3sFSP9tGsFdVFPRUQG0lc5ziA0V9opLRzrSNpSY-s8UTM-z6pFjtTB7thgerghlHYptq2o6DQ9ShXypJaDNzmvfKho6_xl5jQPDTDAjHNQVfHtLQulZhe_KKs&box_client_name=box-content-preview&box_client_version=1.6.2)
 
 #### 1.3 View Enrolled Courses
 * Click the **Courses** tab
@@ -58,7 +58,7 @@ Students are able to submit feedback for specified courses directly from their d
 ### 2  Student Profile
 Individual student-related information is maintained in the student profile.
 
-[[https://arizona.box.com/s/oqgx8xwa27pj8xtdnrnv27ed12tk0f19]]
+![Student Profile](https://dl.boxcloud.com/api/2.0/internal_files/216430380268/versions/228703562220/representations/png_paged_2048x2048/content/1.png?access_token=1!SBl6OlKCYwWbR9fqThKsnZETfGpM8k8L7DUr9bwipez7Xbx7QDCEH4qEcq5to7OsQbxfoC462vXGL6YNyaUs83q0tZEVzi-oJ84wW33VUD_kUT2inqSbuUY0ZALfOyQ-EY6TEyLLGrjruaIK0Zkylm9Kb9x-z_uPBYe6WQo2lgsxgJ-Qk_VfzPgEW67Gv160K5OKtlz-x15Lf_ENP9E05Md4_AbXi8JxluxBIhDjGTorlmZEZPwCDV0SumNyaYhd9CWekYdywfHl98tXRXwSUHJB9awNEliXuRQCP34Rdt-TvqsWh8Z-Ku05gfA5p97EhaBbrQQDXI8zA0wp98fR7GQPjKq2Xtdd_KF-QFxh081u_A9DOGEXfzLymwDeVhmq6KOt5eDPsJfhQF4w&box_client_name=box-content-preview&box_client_version=1.6.2)
 
 * Refer to the top, right portion of the screen
 * Click your name to be directed to your profile
@@ -69,7 +69,7 @@ Individual student-related information is maintained in the student profile.
 
 #### 2.1 View Grades
 
-[[https://arizona.box.com/s/ervmq3f29iut2srt1kk1vcf3k6c9w9pg]]
+![View Grades](https://dl.boxcloud.com/api/2.0/internal_files/216430740638/versions/228703942302/representations/png_paged_2048x2048/content/1.png?access_token=1!RrGvu_UVzCLVZ3N48DubrgIyq4LH1nW-Bvgy4LFaOu9j-yLoF_7okqxhG-JtWGgYZnh7L8PfD6LFbyGv5eAxiKHxS-yf7OSwlYId6d7f4qAaZvvW7_7jueJvCbpGkKrHsGm-wa6wslOQAK_N2BnYTRzF6Kmd_P_CWzdtUIiBmIBLQurwr6-AB3W1NuFP6Yog798aZ2D9Ymarh4FT9qoPjgI7zlDDLnynsaT_XqoAxGbmIjwKxcwagc25w_UphzkigdBOBPi4_PuQ0JvMTQEa-iAZfehfrT9zKuuWipkpTji6O5UbyvHl-u4hInzR1piw5NZBLpusmfpo3_Gr1QT9FT7fJEORWqMEeEKgd2WXGVbETBLjCBZwb4H4QbTHDXzokCmRAMJ5SzyzE_yk&box_client_name=box-content-preview&box_client_version=1.6.2)
 
 * Click the **My Gradebooks** link in the left menu
 * A list of courses and corresponding grades is displayed
@@ -103,7 +103,7 @@ The Attendance Policy is located on the COM-T website at http://medicine.arizona
 
 ### 3  Submit Assessments and Evaluations
 
-[[https://arizona.box.com/s/rt73955wou7ii1ujg0pl2wkcxqbkzvaf]]
+![Submit Assessments and Evaluations](https://dl.boxcloud.com/api/2.0/internal_files/216431053461/versions/228704267925/representations/png_paged_2048x2048/content/1.png?access_token=1!61suUNTsJZwoMQgCz9zsLXXHib01DnDvoLOT_7asJMRGg9y9ao0NpUcJEj8Ej55WL6z933DIrJMj_X2T0GFoaIrTBqhdThBxslkYyur6OkgR8ycx9zB3LjOAl8lQhZ-9Sc-L15iIZNcAsN6GlQgFcy2DThh3RgjJrD4on-Fcat0FeF951I6SHyxiJ1VFhfF5KZLH4HpThpEBXEysbxpT_n_ixSRn2aIjIm3Fb0gKn49gzxiaeB6T5oIO7fwi8hxUrXccObtOKuw7uWLBYLW5Z8RDEXAMk_50b26LFukLrVXnlfCCIO0XCWcWdGibKWIjj6RFhruZwu2LLRkQ5Kzo-LFJ4ojFV9kLlY9HuFZwLmMjEN7uIL5x80DOyQ5P-EeVO82yYci4ahiUuD0j&box_client_name=box-content-preview&box_client_version=1.6.2)
 
 * Refer to the top, right portion of the screen
 * Click the **Assessment & Evaluation** link to be directed to student assessments
