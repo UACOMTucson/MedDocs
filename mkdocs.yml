@@ -1,0 +1,9 @@
+site_name: MedDocs
+
+pages:
+  - Home: 'index.md'
+  - MedLearn:
+    - NS Pilot Student Guide: 'student-pilot.md'
+    - NS Pilot Coordinator Guide: 'coordinator-pilot.md'
+
+theme: readthedocs
