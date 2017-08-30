@@ -28,7 +28,7 @@ Learning events for each of the courses are displayed on the student calendar.  
   * Pay special attention to the texts in the **Attendance** and **Professional Attire** fields
 * Click on the **Event Resources** link to access learning materials
 
-  ![Review Learning Event](https://dl.boxcloud.com/api/2.0/internal_files/216430162979/versions/228703336739/representations/png_paged_2048x2048/content/1.png?access_token=1!VopQ4w7kIUUEoSKCVnk2wFLw2_UPKoCto4CcrYBmBUfvHiKpl8fW7s0wIoO41xdcIDiCxKgeu7inQHEOY8c3lS9xdHTyAhMEoo8uYfKlbZsZyZ0qLcCwRmjwCwJhyVrZW39vVh2xJVlamSSu43Qxfga7uc_HYkSPxSDh1hEijNkx_y0xHsaSJNIKIq8lpWwaJ7vd_2fvQ0FIwzXBtfk3PVPw2V4Zukg4cif4LbrJDNdTbBllq52UPUfkLFNXKArJWl_vCY3ex0Y7XnZ7WBv90on3sFSP9tGsFdVFPRUQG0lc5ziA0V9opLRzrSNpSY-s8UTM-z6pFjtTB7thgerghlHYptq2o6DQ9ShXypJaDNzmvfKho6_xl5jQPDTDAjHNQVfHtLQulZhe_KKs&box_client_name=box-content-preview&box_client_version=1.6.2)
+  ![Review Learning Event](./images/ReviewLearningEvent_Student.png)
 
 #### 1.3 View Enrolled Courses
 * Click the **Courses** tab
@@ -58,7 +58,7 @@ Students are able to submit feedback for specified courses directly from their d
 ### 2  Student Profile
 Individual student-related information is maintained in the student profile.
 
-![Student Profile](https://dl.boxcloud.com/api/2.0/internal_files/216430380268/versions/228703562220/representations/png_paged_2048x2048/content/1.png?access_token=1!SBl6OlKCYwWbR9fqThKsnZETfGpM8k8L7DUr9bwipez7Xbx7QDCEH4qEcq5to7OsQbxfoC462vXGL6YNyaUs83q0tZEVzi-oJ84wW33VUD_kUT2inqSbuUY0ZALfOyQ-EY6TEyLLGrjruaIK0Zkylm9Kb9x-z_uPBYe6WQo2lgsxgJ-Qk_VfzPgEW67Gv160K5OKtlz-x15Lf_ENP9E05Md4_AbXi8JxluxBIhDjGTorlmZEZPwCDV0SumNyaYhd9CWekYdywfHl98tXRXwSUHJB9awNEliXuRQCP34Rdt-TvqsWh8Z-Ku05gfA5p97EhaBbrQQDXI8zA0wp98fR7GQPjKq2Xtdd_KF-QFxh081u_A9DOGEXfzLymwDeVhmq6KOt5eDPsJfhQF4w&box_client_name=box-content-preview&box_client_version=1.6.2)
+![Student Profile](./images/Profile_Student.png)
 
 * Refer to the top, right portion of the screen
 * Click your name to be directed to your profile
@@ -69,7 +69,7 @@ Individual student-related information is maintained in the student profile.
 
 #### 2.1 View Grades
 
-![View Grades](https://dl.boxcloud.com/api/2.0/internal_files/216430740638/versions/228703942302/representations/png_paged_2048x2048/content/1.png?access_token=1!RrGvu_UVzCLVZ3N48DubrgIyq4LH1nW-Bvgy4LFaOu9j-yLoF_7okqxhG-JtWGgYZnh7L8PfD6LFbyGv5eAxiKHxS-yf7OSwlYId6d7f4qAaZvvW7_7jueJvCbpGkKrHsGm-wa6wslOQAK_N2BnYTRzF6Kmd_P_CWzdtUIiBmIBLQurwr6-AB3W1NuFP6Yog798aZ2D9Ymarh4FT9qoPjgI7zlDDLnynsaT_XqoAxGbmIjwKxcwagc25w_UphzkigdBOBPi4_PuQ0JvMTQEa-iAZfehfrT9zKuuWipkpTji6O5UbyvHl-u4hInzR1piw5NZBLpusmfpo3_Gr1QT9FT7fJEORWqMEeEKgd2WXGVbETBLjCBZwb4H4QbTHDXzokCmRAMJ5SzyzE_yk&box_client_name=box-content-preview&box_client_version=1.6.2)
+![View Grades](./images/ViewGrades_Student.png)
 
 * Click the **My Gradebooks** link in the left menu
 * A list of courses and corresponding grades is displayed
@@ -103,7 +103,7 @@ The Attendance Policy is located on the COM-T website at http://medicine.arizona
 
 ### 3  Submit Assessments and Evaluations
 
-![Submit Assessments and Evaluations](https://dl.boxcloud.com/api/2.0/internal_files/216431053461/versions/228704267925/representations/png_paged_2048x2048/content/1.png?access_token=1!61suUNTsJZwoMQgCz9zsLXXHib01DnDvoLOT_7asJMRGg9y9ao0NpUcJEj8Ej55WL6z933DIrJMj_X2T0GFoaIrTBqhdThBxslkYyur6OkgR8ycx9zB3LjOAl8lQhZ-9Sc-L15iIZNcAsN6GlQgFcy2DThh3RgjJrD4on-Fcat0FeF951I6SHyxiJ1VFhfF5KZLH4HpThpEBXEysbxpT_n_ixSRn2aIjIm3Fb0gKn49gzxiaeB6T5oIO7fwi8hxUrXccObtOKuw7uWLBYLW5Z8RDEXAMk_50b26LFukLrVXnlfCCIO0XCWcWdGibKWIjj6RFhruZwu2LLRkQ5Kzo-LFJ4ojFV9kLlY9HuFZwLmMjEN7uIL5x80DOyQ5P-EeVO82yYci4ahiUuD0j&box_client_name=box-content-preview&box_client_version=1.6.2)
+![Submit Assessments and Evaluations](./images/AssessmentsEvaluations_Student.png)
 
 * Refer to the top, right portion of the screen
 * Click the **Assessment & Evaluation** link to be directed to student assessments
