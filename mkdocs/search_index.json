@@ -116,13 +116,23 @@
             "title": "2. Courses"
         },
         {
+            "location": "/Coordinator-Courses/#courses",
+            "text": "MedLearn provides two views of course details:  The Learner View (default) and the Administrator View.  Both are selected from the Display Style box in the left menu.",
+            "title": "Courses"
+        },
+        {
             "location": "/Coordinator-EditCourses/",
-            "text": "Edit Courses\n\n\n\n\nEditing courses is used to add the course director, course coordinator, associated faculty, MeSH Keywords, course objectives, additional tags (e.g. Vocabulary), enrollment, course description, director\u2019s message, and course resources:\n\n Click the \nCourses\n tab\n\n Click on the applicable course\n\n Select \nAdministrator View\n from the left display style menu\n\n The \nSetup\n tab is open by default\n* Click other tabs to enter \nContent\n, \nEnrollment\n, \nGroups\n, \nGradebook\n and/or \nReports",
+            "text": "Edit Courses\n\n\n\n\nEditing courses is used to add the course director, course coordinator, associated faculty, MeSH Keywords, course objectives, additional tags (e.g. Vocabulary), enrollment, course description, director\u2019s message, and course resources:\n\n\n\n\nClick the \nCourses\n tab\n\n\nClick on the applicable course\n\n\nSelect \nAdministrator View\n from the left display style menu\n\n\nThe \nSetup\n tab is open by default\n\n\nClick other tabs to enter \nContent\n, \nEnrollment\n, \nGroups\n, \nGradebook\n and/or \nReports",
             "title": "2.1. Edit Courses"
         },
         {
+            "location": "/Coordinator-EditCourses/#edit-courses",
+            "text": "Editing courses is used to add the course director, course coordinator, associated faculty, MeSH Keywords, course objectives, additional tags (e.g. Vocabulary), enrollment, course description, director\u2019s message, and course resources:   Click the  Courses  tab  Click on the applicable course  Select  Administrator View  from the left display style menu  The  Setup  tab is open by default  Click other tabs to enter  Content ,  Enrollment ,  Groups ,  Gradebook  and/or  Reports",
+            "title": "Edit Courses"
+        },
+        {
             "location": "/Coordinator-CourseSetup/",
-            "text": "Course Setup\n\n\n\n\n\n\nClick the \nCourses\n tab\n\n\nClick on the applicable course\n\n\nSelect \nAdministrator View\n from the left display style menu\n\n\nThe \nSetup\n tab is open by default\n\n\nEnter \nCourse Contacts\n information\n\n\nAttach \nCourse Keywords\n (A.K.A. MeSH Terms)\n\n\nAttach \nCourse Objectives\n and \nAdditional Tags\n (A.K.A. Vocabulary)\n\n\nPress the \nShow Curriculum Tag Sets\n button\n\n\nA list of categories will be shown\n\n\nSelect the appropriate course objectives and/or vocabularies\n\n\nIt/they will be added to the course\n\n\nPress the \nHide Curriculum Tag Sets\n button to collapse the list\n\n\nVerify \nCourse Enrollment\n\n\nEnrolling students in a course is a multi-step process. \nMake sure you click save before navigating away from the course you are editing.\n\n\nFirst, you need to create a \nCourse List\n cohort (Admin / Manage Cohorts / Add New Cohort)\n\n\nOnce the course list is created, return to the course you are working on and select the appropriate \nEnrollment Period\n from the dropdown menu. The selected period will display in the \nActive Periods\n section.\n\n\n\n\nIn the active periods section click Add Audience, and attach the appropriate course list.\n\n\n\n\n\n\nPress the \nSave\n button. This will direct you to the \nContent\n tab.",
+            "text": "Course Setup\n\n\n\n\n\n\nClick the \nCourses\n tab\n\n\nClick on the applicable course\n\n\nSelect \nAdministrator View\n from the left display style menu\n\n\nThe \nSetup\n tab is open by default\n\n\nEnter \nCourse Contacts\n information\n\n\nAttach \nCourse Keywords\n (A.K.A. MeSH Terms)\n\n\nAttach \nCourse Objectives\n and \nAdditional Tags\n (A.K.A. Vocabulary)\n\n\nPress the \nShow Curriculum Tag Sets\n button\n\n\nA list of categories will be shown\n\n\nSelect the appropriate course objectives and/or vocabularies\n\n\nIt/they will be added to the course\n\n\nPress the \nHide Curriculum Tag Sets\n button to collapse the list\n\n\n\n\n\n\n\n\nVerify \nCourse Enrollment\n\n\n\n\nEnrolling students in a course is a multi-step process. \nMake sure you click save before navigating away from the course you are editing.\n\n\nFirst, you need to create a \nCourse List\n cohort (Admin / Manage Cohorts / Add New Cohort)\n\n\nOnce the course list is created, return to the course you are working on and select the appropriate \nEnrollment Period\n from the dropdown menu. The selected period will display in the \nActive Periods\n section.\n\n\nIn the active periods section click Add Audience, and attach the appropriate course list.\n\n\n\n\n\n\n\n\nPress the \nSave\n button. This will direct you to the \nContent\n tab.",
             "title": "2.1.1. Course Setup"
         },
         {
@@ -162,13 +172,23 @@
         },
         {
             "location": "/Coordinator-LearningEventSetup/",
-            "text": "Learning Event Setup\n\n\n\n\nReturn to the main screen\n\n\nClick the \nLearning Events\n tab\n\n\nSearch for a specific learning event\n\n\n\n\n\n\n\n\nClick the \nSetup\n tab\n\n\nYou can edit the event title, date and time, location, event type, and other fields\n\n\nIt is important to setup the Associated Faculty correctly, as this impacts teaching effort/credit\n\n\nAuthor = faculty/staff member that \ncreates\n learning material\n\n\nEditor = faculty/staff member that \nupdates\n learning material\n\n\nFaculty = facilitators or additional lab faculty helping/facilitating an event\n\n\nLecturer = faculty/staff member actually \nteaching\n in front of the class\n\n\nYou can also indicate if an event is required attendance, podcasted, or professional dress, if any event equipment is necessary, and the audience of the event",
+            "text": "Learning Event Setup\n\n\n\n\nReturn to the main screen\n\n\nClick the \nLearning Events\n tab\n\n\nSearch for a specific learning event\n\n\n\n\n\n\n\n\nClick the \nSetup\n tab\n\n\nYou can edit the event title, date and time, location, event type, and other fields\n\n\nIt is important to setup the Associated Faculty correctly, as this impacts teaching effort/credit\n\n\nAuthor = faculty/staff member that \ncreates\n learning material\n\n\nEditor = faculty/staff member that \nupdates\n learning material  * Faculty = facilitators or additional lab faculty helping/facilitating an event    \n\n\nLecturer = faculty/staff member actually \nteaching\n in front of the class\n\n\n\n\n\n\nYou can also indicate if an event is required attendance, podcasted, or professional dress, if any event equipment is necessary, and the audience of the event",
             "title": "3.2. Setting Up Learning Events"
         },
         {
+            "location": "/Coordinator-LearningEventSetup/#learning-event-setup",
+            "text": "Return to the main screen  Click the  Learning Events  tab  Search for a specific learning event     Click the  Setup  tab  You can edit the event title, date and time, location, event type, and other fields  It is important to setup the Associated Faculty correctly, as this impacts teaching effort/credit  Author = faculty/staff member that  creates  learning material  Editor = faculty/staff member that  updates  learning material  * Faculty = facilitators or additional lab faculty helping/facilitating an event      Lecturer = faculty/staff member actually  teaching  in front of the class    You can also indicate if an event is required attendance, podcasted, or professional dress, if any event equipment is necessary, and the audience of the event",
+            "title": "Learning Event Setup"
+        },
+        {
             "location": "/Coordinator-LearningEventAddContent/",
-            "text": "Add Content to Learning Events\n\n\n\n\nReturn to the main screen\n\n\nClick the \nLearning Events\n tab\n\n\nSearch for a specific learning event\n\n\n\n\n\n\n\n\nClick the \nContent\n tab\n\n\nSet-up information is displayed\n\n\nAdd an \nEvent Description\n\n\nAdd \nRequired Preparation\n if applicable\n\n\nAttach \nKeywords\n (A.K.A. MeSH Terms)\n\n\nClick the link to \u201crelease all keywords\u201d on the learner view\n\n\nEnter \nEvent Objectives\n\n\nClick the link to \u201crelease all objectives\u201d on the learner view\n\n\nPress the \nMap Additional Objectives\n button to attach the applicable event objectives or additional tags (e.g. vocabulary)\n\n\nPress the \nAdd a Resource\n button to add resources\n\n\nThe \nAdd Event Resource\n wizard will open\n\n\nInformation required is based on the type of learning resource selected\n\n\nClick the \nNext Step\n button to advance through the screens\n\n\nAn on-screen message will be displayed when the resource is complete\n\n\nClose\n the screen or\n\n\nPress the \nAttach another Resource\n button to continue",
+            "text": "Add Content to Learning Events\n\n\n\n\nReturn to the main screen\n\n\nClick the \nLearning Events\n tab\n\n\nSearch for a specific learning event\n\n\n\n\n\n\n\n\nClick the \nContent\n tab\n\n\nSet-up information is displayed\n\n\nAdd an \nEvent Description\n\n\nAdd \nRequired Preparation\n if applicable\n\n\nAttach \nKeywords\n (A.K.A. MeSH Terms)\n\n\nClick the link to \u201crelease all keywords\u201d on the learner view\n\n\n\n\n\n\nEnter \nEvent Objectives\n\n\nClick the link to \u201crelease all objectives\u201d on the learner view    * Press the \nMap Additional Objectives\n button to attach the applicable event objectives or additional tags (e.g. vocabulary)\n\n\n\n\n\n\nPress the \nAdd a Resource\n button to add resources\n\n\nThe \nAdd Event Resource\n wizard will open\n\n\nInformation required is based on the type of learning resource selected   \n\n\nClick the \nNext Step\n button to advance through the screens \n\n\n\n\n\n\nAn on-screen message will be displayed when the resource is complete\n\n\nClose\n the screen or\n\n\nPress the \nAttach another Resource\n button to continue",
             "title": "3.3. Adding Content to Learning Events"
+        },
+        {
+            "location": "/Coordinator-LearningEventAddContent/#add-content-to-learning-events",
+            "text": "Return to the main screen  Click the  Learning Events  tab  Search for a specific learning event     Click the  Content  tab  Set-up information is displayed  Add an  Event Description  Add  Required Preparation  if applicable  Attach  Keywords  (A.K.A. MeSH Terms)  Click the link to \u201crelease all keywords\u201d on the learner view    Enter  Event Objectives  Click the link to \u201crelease all objectives\u201d on the learner view    * Press the  Map Additional Objectives  button to attach the applicable event objectives or additional tags (e.g. vocabulary)    Press the  Add a Resource  button to add resources  The  Add Event Resource  wizard will open  Information required is based on the type of learning resource selected     Click the  Next Step  button to advance through the screens     An on-screen message will be displayed when the resource is complete  Close  the screen or  Press the  Attach another Resource  button to continue",
+            "title": "Add Content to Learning Events"
         },
         {
             "location": "/Coordinator-FacultyNotes/",
@@ -176,19 +196,39 @@
             "title": "3.4. Faculty Notes"
         },
         {
+            "location": "/Coordinator-FacultyNotes/#faculty-notes",
+            "text": "Block directors and coordinators have the ability to add  learning event-specific notes that are only visible to faculty.   Return to the main screen  Click the  Learning Events  tab  Search for a specific learning event     Click the  Faculty Notes  tab  Press the  Add Faculty Note  button  Add the  Faculty Note  in the box provided  Press the  Add  button",
+            "title": "Faculty Notes"
+        },
+        {
             "location": "/Coordinator-TakeAttendance/",
             "text": "Take Attendance\n\n\n\n\nReturn to the main screen\n\n\nClick the \nLearning Events\n tab\n\n\nSearch for a specific learning event\n\n\n\n\n\n\nThe default method of taking attendance is to manually indicate students who are in attendance\n\n\n\n\nClick the \nAttendance\n tab\n\n\nIndicate all students who attended the session (checkbox next to each name)\n\n\nThey will automatically be saved to the database\n\n\nPress the \nDownload CSV\n button to obtain a copy of the attendance\n\n\nIf a student is absent without an excused absence request already entered, you will still need to submit an absence report for unexcused students",
             "title": "3.5. Taking Attendance"
         },
         {
+            "location": "/Coordinator-TakeAttendance/#take-attendance",
+            "text": "Return to the main screen  Click the  Learning Events  tab  Search for a specific learning event    The default method of taking attendance is to manually indicate students who are in attendance   Click the  Attendance  tab  Indicate all students who attended the session (checkbox next to each name)  They will automatically be saved to the database  Press the  Download CSV  button to obtain a copy of the attendance  If a student is absent without an excused absence request already entered, you will still need to submit an absence report for unexcused students",
+            "title": "Take Attendance"
+        },
+        {
             "location": "/Coordinator-EventHistoryStatistics/",
-            "text": "Event History & Statistics\n\n\nhanges to events including: a description of the change, who made the change, date and time are stored in the \nHistory\n tab.\n\n Return to the main screen\n\n Click the \nLearning Events\n tab\n* Search for a specific learning event\n\n\n\n\nSelect the \nHistory\n tab\n* All changes will be listed\n\n\nEvent \nStatistics\n show who and how many times an event has been viewed.",
+            "text": "Event History & Statistics\n\n\nhanges to events including: a description of the change, who made the change, date and time are stored in the \nHistory\n tab.\n\n\n\n\nReturn to the main screen\n\n\nClick the \nLearning Events\n tab\n\n\nSearch for a specific learning event\n\n\n\n\n\n\nSelect the \nHistory\n tab\n\n\n\n\nAll changes will be listed\n\n\n\n\nEvent \nStatistics\n show who and how many times an event has been viewed.",
             "title": "3.6. Event History & Statistics"
         },
         {
+            "location": "/Coordinator-EventHistoryStatistics/#event-history-statistics",
+            "text": "hanges to events including: a description of the change, who made the change, date and time are stored in the  History  tab.   Return to the main screen  Click the  Learning Events  tab  Search for a specific learning event    Select the  History  tab   All changes will be listed   Event  Statistics  show who and how many times an event has been viewed.",
+            "title": "Event History & Statistics"
+        },
+        {
             "location": "/Coordinator-DeleteLearningEvents/",
-            "text": "Delete Learning Events\n\n\n\n\nReturn to the main screen\n\n\nClick the \nLearning Events\n tab\n\n\nSelect \nAdministrator View\n from the left menu or\n\n\nSelect Filter\n(s) to locate the events (\u201csessions\u201d) corresponding to your course\n\n\nDefine results by \nDay\n, \nWeek\n, \nMonth\n or \nYear\n\n\nUse the <> to advance the date\n\n\nUse the calendar icon to select a specific date\n\n\nThe list of events will be displayed\n\n\nPlace a check in the box next to the target event\n\n\nPress the \nDelete Selected\n button followed by the \nConfirm Removal\n button",
+            "text": "Delete Learning Events\n\n\n\n\nReturn to the main screen\n\n\nClick the \nLearning Events\n tab\n\n\nSelect \nAdministrator View\n from the left menu or\n\n\nSelect Filter\n(s) to locate the events (\u201csessions\u201d) corresponding to your course\n\n\nDefine results by \nDay\n, \nWeek\n, \nMonth\n or \nYear\n\n\nUse the < > to advance the date\n\n\nUse the calendar icon to select a specific date\n\n\n\n\n\n\nThe list of events will be displayed\n\n\nPlace a check in the box next to the target event\n\n\nPress the \nDelete Selected\n button followed by the \nConfirm Removal\n button",
             "title": "3.7. Delete Learning Events"
+        },
+        {
+            "location": "/Coordinator-DeleteLearningEvents/#delete-learning-events",
+            "text": "Return to the main screen  Click the  Learning Events  tab  Select  Administrator View  from the left menu or  Select Filter (s) to locate the events (\u201csessions\u201d) corresponding to your course  Define results by  Day ,  Week ,  Month  or  Year  Use the < > to advance the date  Use the calendar icon to select a specific date    The list of events will be displayed  Place a check in the box next to the target event  Press the  Delete Selected  button followed by the  Confirm Removal  button",
+            "title": "Delete Learning Events"
         },
         {
             "location": "/Coordinator-CreateLearningEvents/",
@@ -196,9 +236,19 @@
             "title": "3.8. Create Learning Events"
         },
         {
+            "location": "/Coordinator-CreateLearningEvents/#new-learning-events",
+            "text": "Return to the main screen     Click the  Learning Events  tab  Select  Administrator View  from the left menu  Click  Add New Event  Select the course from the  Select Course  dropdown  Assign an  Event Title  Select an  Event Type  Add all pertinent information requested on the screen  Refer to the  After Saving  field to select the next function  Press the  Save  button to be directed to the next function",
+            "title": "New Learning Events"
+        },
+        {
             "location": "/Coordinator-ILMs/",
             "text": "Independent Learning Modules (ILMs)\n\n\nIn MedLearn you will create ILMs the same way as learning events. You will need to enter a date for the ILM. Select the most appropriate date, this could either be during the week of the block it is relevant, the due date (if applicable), etc.",
             "title": "4. ILMs"
+        },
+        {
+            "location": "/Coordinator-ILMs/#independent-learning-modules-ilms",
+            "text": "In MedLearn you will create ILMs the same way as learning events. You will need to enter a date for the ILM. Select the most appropriate date, this could either be during the week of the block it is relevant, the due date (if applicable), etc.",
+            "title": "Independent Learning Modules (ILMs)"
         },
         {
             "location": "/Coordinator-Messages/",
@@ -214,6 +264,11 @@
             "location": "/Coordinator-Gradebook/",
             "text": "Gradebook\n\n\n\n\nClick the \nCourses\n tab\n\n\nClick on the applicable course\n\n\nSelect \nAdministrator View\n from the left menu\n\n\nClick the \nGradebook\n tab",
             "title": "6. Gradebook"
+        },
+        {
+            "location": "/Coordinator-Gradebook/#gradebook",
+            "text": "Click the  Courses  tab  Click on the applicable course  Select  Administrator View  from the left menu  Click the  Gradebook  tab",
+            "title": "Gradebook"
         },
         {
             "location": "/Coordinator-UpdatePassingScore/",
@@ -287,23 +342,38 @@
         },
         {
             "location": "/Coordinator-ManageAbsences/",
-            "text": "Manage Absences\n\n\nStudents may be excused from mandatory classroom and clinical activities for cause (e.g. illness, conference presentations, leadership activities, personal passes, etc.).  Course directors and coordinators have the ability to excuse absences.  However, the Associate Dean of Student Affairs (and/or assigns) has the final say.\n\n Click the \nAdmin\n tab > \nManage UA Absences\n\n\n The \nAbsence Requests\n screen will open\n\n A list of absences for the block will be displayed\n  * The list of \nPending\n absences is displayed by default\n  * Click the \nAll Requests\n tab to see a list of all absences\n\n Use the \nSearch\n field to filter the results by:\n  * Student Name\n  * Date\n  * Course\n  * Type\n  * Status\n  * Comments",
+            "text": "Manage Absences\n\n\nStudents may be excused from mandatory classroom and clinical activities for cause (e.g. illness, conference presentations, leadership activities, personal passes, etc.).  Course directors and coordinators have the ability to excuse absences.  However, the Associate Dean of Student Affairs (and/or assigns) has the final say.\n\n\n\n\nClick the \nAdmin\n tab > \nManage UA Absences\n\n\nThe \nAbsence Requests\n screen will open\n\n\nA list of absences for the block will be displayed\n\n\nThe list of \nPending\n absences is displayed by default\n\n\nClick the \nAll Requests\n tab to see a list of all absences\n\n\n\n\n\n\nUse the \nSearch\n field to filter the results by:\n\n\nStudent Name\n\n\nDate\n\n\nCourse\n\n\nType\n\n\nStatus\n\n\nComments",
             "title": "7. Manage Absences"
         },
         {
+            "location": "/Coordinator-ManageAbsences/#manage-absences",
+            "text": "Students may be excused from mandatory classroom and clinical activities for cause (e.g. illness, conference presentations, leadership activities, personal passes, etc.).  Course directors and coordinators have the ability to excuse absences.  However, the Associate Dean of Student Affairs (and/or assigns) has the final say.   Click the  Admin  tab >  Manage UA Absences  The  Absence Requests  screen will open  A list of absences for the block will be displayed  The list of  Pending  absences is displayed by default  Click the  All Requests  tab to see a list of all absences    Use the  Search  field to filter the results by:  Student Name  Date  Course  Type  Status  Comments",
+            "title": "Manage Absences"
+        },
+        {
             "location": "/Coordinator-EnterAbsences/",
-            "text": "Enter Absences\n\n\n\n\nReturn to the main screen\nClick the \nAdmin\n tab > \nManage UA Absences\n\n\nThe \nAbsence Requests\n screen will open\n\n\n\n\n\n\n\n\nPress the \nAdd Absence Request\n button\n\n\nThe \nAdding an Absence Request\n screen will be displayed\n\n\nType the \nStudent Name\n\n\nCorresponding student names will display as letters are being typed\n\n\nEnter a \nStart Date\n and an \nEnd Date\n\n\nA list of required sessions for the time period will be displayed\n\n\nIndicate the sessions for absence reporting by checking the box in the left column\n\n\nSelect an \nAbsence Type\n\n\nAssign an \nAbsence Status\n= Excused or Unexcused absence\n\n\nAdd \nDirector/Coordinator Comments\n\n\nPress the \nSave\n button\n\n\nAbsences are sent to Student Affairs for final decision (Excused or Unexcused)\n\n\nAn email is sent to the student and coordinator after the final decision",
+            "text": "Enter Absences\n\n\n\n\nReturn to the main screen\nClick the \nAdmin\n tab > \nManage UA Absences\n\n\nThe \nAbsence Requests\n screen will open\n\n\n\n\n\n\n\n\nPress the \nAdd Absence Request\n button\n\n\nThe \nAdding an Absence Request\n screen will be displayed\n\n\nType the \nStudent Name\n\n\nCorresponding student names will display as letters are being typed\n\n\n\n\n\n\nEnter a \nStart Date\n and an \nEnd Date\n\n\nA list of required sessions for the time period will be displayed\n\n\nIndicate the sessions for absence reporting by checking the box in the left column\n\n\nSelect an \nAbsence Type\n\n\nAssign an \nAbsence Status\n= Excused or Unexcused absence\n\n\nAdd \nDirector/Coordinator Comments\n\n\nPress the \nSave\n button\n\n\nAbsences are sent to Student Affairs for final decision (Excused or Unexcused)\n\n\nAn email is sent to the student and coordinator after the final decision",
             "title": "7.1. Enter Absences"
         },
         {
-            "location": "/coordinator-ApproveDenyPassDays/",
-            "text": "Approve or Deny Requested Pass Days\n\n\nA \u201cdaily digest\u201d email will be sent when one or more absences, needing your attention, have been requested.\n\n Return to the main screen\n\n Click the \nAdmin\n tab > \nManage UA Absences\n\n* The \nAbsence Requests\n screen will open\n\n\n\n\n\n\nSearch for the request you wish to approve/deny\n\n\nSearches can be done via the \nSearch\n field or by clicking on column headers to sort results\n\n\nPress the corresponding cog wheel icon followed by \nEdit\n\n\nThe \nEditing an Absence Request\n screen will be displayed\n\n\nA list of the applicable sessions is displayed\n\n\nYou have the option to edit the \nAbsence Type\n if necessary\n\n\nSelect an \nAbsence Status\n = Excused or Unexcused absence\n\n\nAdd \nDirector/Coordinator Comments\n\n\nPress the \nSave\n button\n\n\nAbsences are sent to Student Affairs for final decison (Excused or Unexcused)\n\n\nAn email is sent to the student and coordinator after the final decsion",
+            "location": "/Coordinator-EnterAbsences/#enter-absences",
+            "text": "Return to the main screen\nClick the  Admin  tab >  Manage UA Absences  The  Absence Requests  screen will open     Press the  Add Absence Request  button  The  Adding an Absence Request  screen will be displayed  Type the  Student Name  Corresponding student names will display as letters are being typed    Enter a  Start Date  and an  End Date  A list of required sessions for the time period will be displayed  Indicate the sessions for absence reporting by checking the box in the left column  Select an  Absence Type  Assign an  Absence Status = Excused or Unexcused absence  Add  Director/Coordinator Comments  Press the  Save  button  Absences are sent to Student Affairs for final decision (Excused or Unexcused)  An email is sent to the student and coordinator after the final decision",
+            "title": "Enter Absences"
+        },
+        {
+            "location": "/coordinator-ApproveDenyAbsences/",
+            "text": "Approve or Deny Absence Requests\n\n\nA \u201cdaily digest\u201d email will be sent when one or more absences, needing your attention, have been requested.\n\n Return to the main screen\n\n Click the \nAdmin\n tab > \nManage UA Absences\n\n* The \nAbsence Requests\n screen will open\n\n\n\n\n\n\nSearch for the request you wish to approve/deny\n\n\nSearches can be done via the \nSearch\n field or by clicking on column headers to sort results\n\n\nPress the corresponding cog wheel icon followed by \nEdit\n\n\nThe \nEditing an Absence Request\n screen will be displayed\n\n\nA list of the applicable sessions is displayed\n\n\nYou have the option to edit the \nAbsence Type\n if necessary\n\n\nSelect an \nAbsence Status\n = Excused or Unexcused absence\n\n\nAdd \nDirector/Coordinator Comments\n\n\nPress the \nSave\n button\n\n\nAbsences are sent to Student Affairs for final decison (Excused or Unexcused)\n\n\nAn email is sent to the student and coordinator after the final decsion",
             "title": "7.2. Approve or Deny Absence Requests"
         },
         {
             "location": "/Coordinator-DeleteAbsenceRequests/",
-            "text": "Delete Absence Requests\n\n\nStudents are prohibited from changing absence request information once submitted.  If submitted for an incorrect date, the request will need to be deleted and re-entered by the student.\n\n Return to the main screen\n\n Click the \nAdmin\n tab > \nManage UA Absences\n\n* The \nAbsence Requests\n screen will open\n\n\n\n\n\n\nSearch for the request you wish to delete\n\n\nSearches can be done via the \nSearch\n field or by clicking on column headers to sort results\n\n\nPress the corresponding cog wheel icon followed by \nDelete\n\n\nThe \nDelete Absence Request\n screen will be displayed\n\n\nConfirm the absence request by pressing the \nDelete\n button\n\n\nThe request will be removed from the \nPending\n and \nAll Requests\n tabs and will not be forwarded to Student Affairs",
+            "text": "Delete Absence Requests\n\n\nStudents are prohibited from changing absence request information once submitted.  If submitted for an incorrect date, the request will need to be deleted and re-entered by the student.\n\n\n\n\nReturn to the main screen\n\n\nClick the \nAdmin\n tab > \nManage UA Absences\n\n\nThe \nAbsence Requests\n screen will open\n\n\n\n\n\n\n\n\nSearch for the request you wish to delete\n\n\nSearches can be done via the \nSearch\n field or by clicking on column headers to sort results\n\n\n\n\n\n\nPress the corresponding cog wheel icon followed by \nDelete\n\n\nThe \nDelete Absence Request\n screen will be displayed\n\n\nConfirm the absence request by pressing the \nDelete\n button\n\n\nThe request will be removed from the \nPending\n and \nAll Requests\n tabs and will not be forwarded to Student Affairs",
             "title": "7.3. Delete Absence Requests"
+        },
+        {
+            "location": "/Coordinator-DeleteAbsenceRequests/#delete-absence-requests",
+            "text": "Students are prohibited from changing absence request information once submitted.  If submitted for an incorrect date, the request will need to be deleted and re-entered by the student.   Return to the main screen  Click the  Admin  tab >  Manage UA Absences  The  Absence Requests  screen will open     Search for the request you wish to delete  Searches can be done via the  Search  field or by clicking on column headers to sort results    Press the corresponding cog wheel icon followed by  Delete  The  Delete Absence Request  screen will be displayed  Confirm the absence request by pressing the  Delete  button  The request will be removed from the  Pending  and  All Requests  tabs and will not be forwarded to Student Affairs",
+            "title": "Delete Absence Requests"
         }
     ]
 }
