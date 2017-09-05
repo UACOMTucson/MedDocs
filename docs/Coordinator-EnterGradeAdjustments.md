@@ -1,4 +1,4 @@
-# Enter Grade Adjustments
+## Enter Grade Adjustments
 * Begin typing the student’s name in the search field to access the list of students
 * Click the student’s name in the search results
 * Press the **add adjustment** button

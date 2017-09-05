@@ -1,4 +1,4 @@
-### Gradebook
+# Gradebook
 * Click the **Courses** tab
 * Click on the applicable course
 * Select **Administrator View** from the left menu

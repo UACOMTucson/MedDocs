@@ -1,8 +1,9 @@
-### Edit Courses
+## Edit Courses
 
 ![Courses Main](./images/CoursesMain_Coordinator.png)
 
 Editing courses is used to add the course director, course coordinator, associated faculty, MeSH Keywords, course objectives, additional tags (e.g. Vocabulary), enrollment, course description, director’s message, and course resources:
+
 * Click the **Courses** tab
 * Click on the applicable course
 * Select **Administrator View** from the left display style menu

@@ -1,4 +1,4 @@
-# Manually Enter Assessment Scores
+## Manually Enter Assessment Scores
 
 * Refer to the main **Gradebook** screen
 * Click the name of the assessment that is being graded

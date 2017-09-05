@@ -40,7 +40,7 @@ pages:
     - 6.7. Final and Retake Grades: 'Coordinator-FinalAndRetakeGrades.md'
     - 7. Manage Absences: 'Coordinator-ManageAbsences.md'
     - 7.1. Enter Absences: 'Coordinator-EnterAbsences.md'
-    - 7.2. Approve or Deny Absence Requests: 'coordinator-ApproveDenyPassDays.md'
+    - 7.2. Approve or Deny Absence Requests: 'coordinator-ApproveDenyAbsences.md'
     - 7.3. Delete Absence Requests: 'Coordinator-DeleteAbsenceRequests.md'
 
 theme: readthedocs

@@ -1,4 +1,4 @@
-# Import Assessment Scores
+## Import Assessment Scores
 Grades can be imported from ExamSoft, NBME or from a “Generic” form.  This function can also be used where grades have already been uploaded/entered and should be replaced with higher grades.  
 
 **Please NOTE:**  Grades from ExamSoft will not be posted by FTP as in the past. You will have to download them from ExamSoft and import them into MedLearn.

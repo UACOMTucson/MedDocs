@@ -1,4 +1,4 @@
-###	Approve or Deny Requested Pass Days
+###	Approve or Deny Absence Requests
 A “daily digest” email will be sent when one or more absences, needing your attention, have been requested.
 * Return to the main screen
 * Click the **Admin** tab > **Manage UA Absences**

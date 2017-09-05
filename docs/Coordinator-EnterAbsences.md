@@ -1,4 +1,5 @@
-###	Enter Absences
+## Enter Absences
+
 * Return to the main screen
 Click the **Admin** tab > **Manage UA Absences**
 * The **Absence Requests** screen will open
@@ -8,7 +9,7 @@ Click the **Admin** tab > **Manage UA Absences**
 * Press the **Add Absence Request** button
 * The **Adding an Absence Request** screen will be displayed
 * Type the **Student Name**
-  * Corresponding student names will display as letters are being typed
+	* Corresponding student names will display as letters are being typed
 * Enter a **Start Date** and an **End Date**
 * A list of required sessions for the time period will be displayed
 * Indicate the sessions for absence reporting by checking the box in the left column

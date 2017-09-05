@@ -1,4 +1,5 @@
-### New Learning Events
+## New Learning Events
+
 * Return to the main screen
 
 ![Learning Event](./images/LearningEvents_Coordinator.png)

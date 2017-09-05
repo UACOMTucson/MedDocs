@@ -1,4 +1,4 @@
-### Faculty Notes
+## Faculty Notes
 Block directors and coordinators have the ability to add  learning event-specific notes that are only visible to faculty.
 
 * Return to the main screen

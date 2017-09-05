@@ -1,4 +1,4 @@
-# Establish/Update Passing Score
+## Establish/Update Passing Score
 * Return to the main screen
 * Click the **Courses** tab
 * Click on the applicable course

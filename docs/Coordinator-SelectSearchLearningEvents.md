@@ -1,4 +1,4 @@
-# Select (Search) Learning events
+## Select (Search) Learning events
 ![Events Main](./images/EventsMain_Coordinator.png)
 
 * Return to the main screen

@@ -1,4 +1,4 @@
-### Take Attendance
+## Take Attendance
 * Return to the main screen
 * Click the **Learning Events** tab
 * Search for a specific learning event
