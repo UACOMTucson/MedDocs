@@ -10,6 +10,6 @@ MedPortal is the landing page in which students, faculty, and staff enter one sy
 
 MedLearn is UA COM's branded version of Entrada. MedLearn will act as the curriculum and learning management system for students, staff, and faculty.
 
-#MedReports
+<img src="./images/medreports.png" height="100px">
 
 MedReports is where we will create and share reports related to the curriculum.
