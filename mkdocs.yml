@@ -1,0 +1,17 @@
+site_name: MedDocs - Student
+
+pages:
+  - Home: 'index.md'
+  - MedLearn Pilot Student Guide:
+    - 1. Dashboard: 'student-dashboard.md'
+    - 2. Courses: 'student-courses.md'
+    - 3. Grades: 'student-grades.md'
+    - 4. Assignments: 'student-assignments.md'
+    - 5. Assessments & Evaluations: 'student-ae.md'
+    - 6. Absences: 'student-absences.md'
+    - 7. Profile: 'student-profile.md'
+    - 8. iAnnotate: 'iannotate.md'
+    - 9. Notability: 'notability.md'
+    - 10. OneNote: 'onenote.md'
+
+theme: readthedocs
