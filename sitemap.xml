@@ -4,7 +4,7 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2017-10-11</lastmod>
+     <lastmod>2017-11-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,43 +13,61 @@
         
     <url>
      <loc>None/student-dashboard/</loc>
-     <lastmod>2017-10-11</lastmod>
+     <lastmod>2017-11-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/student-courses/</loc>
-     <lastmod>2017-10-11</lastmod>
+     <lastmod>2017-11-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/student-grades/</loc>
-     <lastmod>2017-10-11</lastmod>
+     <lastmod>2017-11-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/student-assignments/</loc>
-     <lastmod>2017-10-11</lastmod>
+     <lastmod>2017-11-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/student-ae/</loc>
-     <lastmod>2017-10-11</lastmod>
+     <lastmod>2017-11-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/student-absences/</loc>
-     <lastmod>2017-10-11</lastmod>
+     <lastmod>2017-11-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/student-profile/</loc>
-     <lastmod>2017-10-11</lastmod>
+     <lastmod>2017-11-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/iannotate/</loc>
+     <lastmod>2017-11-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/notability/</loc>
+     <lastmod>2017-11-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/onenote/</loc>
+     <lastmod>2017-11-15</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
