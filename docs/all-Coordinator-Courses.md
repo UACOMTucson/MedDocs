@@ -1,7 +1,7 @@
 ### Courses
 MedLearn provides two views of course details:  The Learner View (default) and the Administrator View.  Both are selected from the Display Style box in the left menu.
 
-![Courses Main](./images/CoursesMain_Coordinator.png)
+![Courses Main](./images/CoursesMain_Coordinator.png) 
 
 #### Edit Courses
 Editing courses is used to add the course director, course coordinator, associated faculty, MeSH Keywords, course objectives, additional tags (e.g. Vocabulary), enrollment, course description, director’s message, and course resources:
