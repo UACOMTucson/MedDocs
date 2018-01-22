@@ -1,15 +1,17 @@
-# Welcome to MedDocs
+![MedDocs](./images/meddocs.png)
 
-MedDocs is where you will find the latest user guides and documentation for UACOM-T's educational systems. 
+#Welcome to MedDocs!
 
-<img src="./images/MedPortal.png" height="100px">
+**What is MedDocs?**
 
-MedPortal is the landing page in which students, faculty, and staff enter one system that manages the entire educational ecosystem and reporting (e.g. MedLearn, MedReports, OASIS, etc.).
+MedDocs is a repository of resources for College of Medicine-Tucson educational applications and systems. MedDocs contains user guides, illustrations, and video demonstrations. 
 
-<img src="./images/MedLearn.png" height="100px">
+**What applications does MedDocs currently support?**
 
-MedLearn is UA COM's branded version of Entrada. MedLearn will act as the curriculum and learning management system for students, staff, and faculty.
+Currently, MedDocs has resources for MedPortal, MedLearn, and MedReports. MedDocs will continue to expand. 
 
-<img src="./images/medreports.png" height="100px">
+![logos](./images/logos.png)
 
-MedReports is where we will create and share reports related to the curriculum.
+**What if I need additional help?**
+
+Please contact the IT Service Desk. If they are unable to assist you they will forward your request to the Project/Operations Team. [Here is the link to the COM ITS Website](http://medicine.arizona.edu/faculty-staff/offices/information-technology-services).

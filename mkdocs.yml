@@ -1,17 +1,25 @@
-site_name: MedDocs - Student
+site_name: MedDocs for Students
 
 pages:
-  - Home: 'index.md'
-  - MedLearn Pilot Student Guide:
-    - 1. Dashboard: 'student-dashboard.md'
-    - 2. Courses: 'student-courses.md'
-    - 3. Grades: 'student-grades.md'
-    - 4. Assignments: 'student-assignments.md'
-    - 5. Assessments & Evaluations: 'student-ae.md'
-    - 6. Absences: 'student-absences.md'
-    - 7. Profile: 'student-profile.md'
-    - 8. iAnnotate: 'iannotate.md'
-    - 9. Notability: 'notability.md'
-    - 10. OneNote: 'onenote.md'
+- Welcome: "index.md"
+- MedPortal: "01_MedPortal.md"
+- MedLearn: "02_MedLearn.md"
+- MedLearn / Dashboard: "03_MedLearn_Dashboard.md"
+- MedLearn / Curriculum: "04_MedLearn_Curriculum.md"
+- MedLearn / Courses: "05_MedLearn_Courses.md"
+- MedLearn / Course Groups: "12_MedLearn_Groups.md"
+- MedLearn / Learning Events: "06_MedLearn_Events.md"
+- MedLearn / Grades: "10_MedLearn_Grades.md"
+- MedLearn / Assignments: "11_MedLearn_Assignments.md"
+- MedLearn / Assessment & Evaluation (Surveys): "08_MedLearn_AE.md"
+- MedLearn / Absence Requests: "13_MedLearn_Absences.md"
+- MedLearn / Duty Hours: "15_MedLearn_DutyHours.md"
+- MedLearn / Logbook: "16_MedLearn_Logbook.md"
+- MedLearn / MSPE Noteworthy Characteristics: "14_MedLearn_MSPE.md"
+- MedLearn / Profile: "09_MedLearn_Profile.md"
+- MedLearn / People Search: "07_MedLearn_People.md"
+- MedLearn & iAnnotate: "iannotate.md"
+- MedLearn & Notability: "notability.md"
+- MedLearn & OneNote: "onenote.md"
 
 theme: readthedocs
