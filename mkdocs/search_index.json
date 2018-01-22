@@ -1,0 +1,354 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to MedDocs!\n\n\nWhat is MedDocs?\n\n\nMedDocs is a repository of resources for College of Medicine-Tucson educational applications and systems. MedDocs contains user guides, illustrations, and video demonstrations. \n\n\nWhat applications does MedDocs currently support?\n\n\nCurrently, MedDocs has resources for MedPortal, MedLearn, and MedReports. MedDocs will continue to expand. \n\n\n\n\nWhat if I need additional help?\n\n\nPlease contact the IT Service Desk. If they are unable to assist you they will forward your request to the Project/Operations Team. \nHere is the link to the COM ITS Website\n.",
+            "title": "Welcome"
+        },
+        {
+            "location": "/#welcome-to-meddocs",
+            "text": "What is MedDocs?  MedDocs is a repository of resources for College of Medicine-Tucson educational applications and systems. MedDocs contains user guides, illustrations, and video demonstrations.   What applications does MedDocs currently support?  Currently, MedDocs has resources for MedPortal, MedLearn, and MedReports. MedDocs will continue to expand.    What if I need additional help?  Please contact the IT Service Desk. If they are unable to assist you they will forward your request to the Project/Operations Team.  Here is the link to the COM ITS Website .",
+            "title": "Welcome to MedDocs!"
+        },
+        {
+            "location": "/01_MedPortal/",
+            "text": "MedPortal\n\n\nWhat is MedPortal?\n\n\nMedPortal is a fully-integrated \"portal\" in which students, faculty, and staff enter one system that manages the entire educational ecosystem and reporting.  \n\n\nA training video for MedPortal is available below:",
+            "title": "MedPortal"
+        },
+        {
+            "location": "/01_MedPortal/#medportal",
+            "text": "What is MedPortal?  MedPortal is a fully-integrated \"portal\" in which students, faculty, and staff enter one system that manages the entire educational ecosystem and reporting.    A training video for MedPortal is available below:",
+            "title": "MedPortal"
+        },
+        {
+            "location": "/02_MedLearn/",
+            "text": "MedLearn\n\n\nWhat is MedLearn?\n\n\nMedLearn is a new online learning platform for students and faculty at the University of Arizona College of Medicine-Tucson. MedLearn is currently in pilot phases, but is scheduled to go live for AY 2018-2019.",
+            "title": "MedLearn"
+        },
+        {
+            "location": "/02_MedLearn/#medlearn",
+            "text": "What is MedLearn?  MedLearn is a new online learning platform for students and faculty at the University of Arizona College of Medicine-Tucson. MedLearn is currently in pilot phases, but is scheduled to go live for AY 2018-2019.",
+            "title": "MedLearn"
+        },
+        {
+            "location": "/03_MedLearn_Dashboard/",
+            "text": "MedLearn - Dashboard\n\n\nThe dashboard is displayed by default when logging in to MedLearn. If you navigate away from the dashboard, simply click on the MedLearn logo or the dashboard link to return to it.\n\n\n\n\nMy MedLearn (1)\n\n\nMy MedLearn provides students with quick access to commonly used areas of MedLearn. The links within My MedLearn are the same for all students. \n\n\nMy Bookmarks (2)\n\n\nMy Bookmarks allows users to create custom quick links specific to their user account. If you frequently are going to the same page, you can add it as a bookmark, or if you want to remember to return to a certain page in MedLearn you could add it as a bookmark as a reminder, then delete it once you are finished. Your bookmarks are unique to your account, so no one else can see what you have bookmarked in MedLearn.\n\n\nGive Feedback (3)\n\n\nStudents are able to submit feedback for specific courses or for IT. IT feedback might include a suggestion or a bug/issue you've identified. Course feedback is specific to the course you select in the feedback form, and is anonymously reported to the Course Director, Coordinator, and Student Advisory Committee. \n\n\nMedLearn Message Center (4)\n\n\nFaculty and staff are able to post messages containing student information. Once posted, messages are shown on the dashboard within the MedLearn Message Center. Unread messages display by default when you view the dashboard. You can also mark messages as read so that they no longer appear. If you want to review previously read messages click on Previously Read Messages. \n\n\nCalendar (5)\n\n\nLearning events for each of the courses are displayed on the student calendar. Event details (e.g. location, duration, attendance requirements, etc.) and resources are accessed by clicking on the event.\n\n\n\n\nThe calendar defaults to the current week\n\n\nRefer to the date range field\n\n\nUse the arrows to select past and future dates\n\n\nClick on the event to review event details\n\n\nPay special attention to the texts in the Attendance, Podcast, and Professional Attire fields\n\n\nClick on the Event Resources link to access learning materials\n\n\n\n\nRSS Feeds (6)\n\n\nIf you have a favorite website who posts or content you follow, you can add their RSS feed to your MedLearn dashboard. RSS feeds added to the MedLearn dashboard are unique to the user who added them. \n\n\nWhat is an RSS?\n\n\n\"RSS (Rich Site Summary) is a format for delivering regularly changing web content. Many news-related sites, weblogs and other online publishers syndicate their content as an RSS Feed to whoever wants it.\" \n(Source: \nhttp://www.whatisrss.com/\n)",
+            "title": "MedLearn / Dashboard"
+        },
+        {
+            "location": "/03_MedLearn_Dashboard/#medlearn-dashboard",
+            "text": "The dashboard is displayed by default when logging in to MedLearn. If you navigate away from the dashboard, simply click on the MedLearn logo or the dashboard link to return to it.",
+            "title": "MedLearn - Dashboard"
+        },
+        {
+            "location": "/03_MedLearn_Dashboard/#my-medlearn-1",
+            "text": "My MedLearn provides students with quick access to commonly used areas of MedLearn. The links within My MedLearn are the same for all students.",
+            "title": "My MedLearn (1)"
+        },
+        {
+            "location": "/03_MedLearn_Dashboard/#my-bookmarks-2",
+            "text": "My Bookmarks allows users to create custom quick links specific to their user account. If you frequently are going to the same page, you can add it as a bookmark, or if you want to remember to return to a certain page in MedLearn you could add it as a bookmark as a reminder, then delete it once you are finished. Your bookmarks are unique to your account, so no one else can see what you have bookmarked in MedLearn.",
+            "title": "My Bookmarks (2)"
+        },
+        {
+            "location": "/03_MedLearn_Dashboard/#give-feedback-3",
+            "text": "Students are able to submit feedback for specific courses or for IT. IT feedback might include a suggestion or a bug/issue you've identified. Course feedback is specific to the course you select in the feedback form, and is anonymously reported to the Course Director, Coordinator, and Student Advisory Committee.",
+            "title": "Give Feedback (3)"
+        },
+        {
+            "location": "/03_MedLearn_Dashboard/#medlearn-message-center-4",
+            "text": "Faculty and staff are able to post messages containing student information. Once posted, messages are shown on the dashboard within the MedLearn Message Center. Unread messages display by default when you view the dashboard. You can also mark messages as read so that they no longer appear. If you want to review previously read messages click on Previously Read Messages.",
+            "title": "MedLearn Message Center (4)"
+        },
+        {
+            "location": "/03_MedLearn_Dashboard/#calendar-5",
+            "text": "Learning events for each of the courses are displayed on the student calendar. Event details (e.g. location, duration, attendance requirements, etc.) and resources are accessed by clicking on the event.   The calendar defaults to the current week  Refer to the date range field  Use the arrows to select past and future dates  Click on the event to review event details  Pay special attention to the texts in the Attendance, Podcast, and Professional Attire fields  Click on the Event Resources link to access learning materials",
+            "title": "Calendar (5)"
+        },
+        {
+            "location": "/03_MedLearn_Dashboard/#rss-feeds-6",
+            "text": "If you have a favorite website who posts or content you follow, you can add their RSS feed to your MedLearn dashboard. RSS feeds added to the MedLearn dashboard are unique to the user who added them.   What is an RSS?  \"RSS (Rich Site Summary) is a format for delivering regularly changing web content. Many news-related sites, weblogs and other online publishers syndicate their content as an RSS Feed to whoever wants it.\"  (Source:  http://www.whatisrss.com/ )",
+            "title": "RSS Feeds (6)"
+        },
+        {
+            "location": "/04_MedLearn_Curriculum/",
+            "text": "MedLearn - Curriculum\n\n\nMedLearn provides users with an area to search and explore the curriculum. \n\n\nCurriculum Search\n\n\nUsers can perform a curriculum search utilizing Boolean Search operators. Additionally you can expand the search to include files attached to learning events. You can also filter by cohort and/or academic year. \n\n\nCurriculum Explorer\n\n\nThe Curriculum Explorer allows you to view curriculum content as it relates to tag sets. In addition to being able to filter by curriculum tag sets, you can filter your results by course, cohort, academic year, and choose whether you want to explore courses, learning events, and/or assessments. \n\n\nCurriculum Matrix\n\n\nThe Curriculum Matrix displays a matrix indicating where certain tag sets are attached to courses. This only looks at tags attached to courses, not events.",
+            "title": "MedLearn / Curriculum"
+        },
+        {
+            "location": "/04_MedLearn_Curriculum/#medlearn-curriculum",
+            "text": "MedLearn provides users with an area to search and explore the curriculum.",
+            "title": "MedLearn - Curriculum"
+        },
+        {
+            "location": "/04_MedLearn_Curriculum/#curriculum-search",
+            "text": "Users can perform a curriculum search utilizing Boolean Search operators. Additionally you can expand the search to include files attached to learning events. You can also filter by cohort and/or academic year.",
+            "title": "Curriculum Search"
+        },
+        {
+            "location": "/04_MedLearn_Curriculum/#curriculum-explorer",
+            "text": "The Curriculum Explorer allows you to view curriculum content as it relates to tag sets. In addition to being able to filter by curriculum tag sets, you can filter your results by course, cohort, academic year, and choose whether you want to explore courses, learning events, and/or assessments.",
+            "title": "Curriculum Explorer"
+        },
+        {
+            "location": "/04_MedLearn_Curriculum/#curriculum-matrix",
+            "text": "The Curriculum Matrix displays a matrix indicating where certain tag sets are attached to courses. This only looks at tags attached to courses, not events.",
+            "title": "Curriculum Matrix"
+        },
+        {
+            "location": "/05_MedLearn_Courses/",
+            "text": "MedLearn - Courses\n\n\nWhen you click on Courses in the main menu, you will see a list of courses you are enrolled in. You can click on a course to view course details, contacts, objectives, and more. \n\n\nCourse Details\n\n\nThe Course Details section include contact information for your Course Director, Coordinator, and Faculty (if provided). Additionally you will be provided with the course description. \n\n\nCourse Objectives\n\n\nUnder the Course Details section is the Course Objectives section. The course objectives align with the Educational Program Objectives and Competencies established by the University of Arizona College of Medicine-Tucson. \n\n\nCourse Resources\n\n\nYour Course Director and Coordinator will provide you will various resources relating to the course as a whole. Examples might include links to ILMs, a combined PDF of the class notes, pharmacology lists, and more.",
+            "title": "MedLearn / Courses"
+        },
+        {
+            "location": "/05_MedLearn_Courses/#medlearn-courses",
+            "text": "When you click on Courses in the main menu, you will see a list of courses you are enrolled in. You can click on a course to view course details, contacts, objectives, and more.",
+            "title": "MedLearn - Courses"
+        },
+        {
+            "location": "/05_MedLearn_Courses/#course-details",
+            "text": "The Course Details section include contact information for your Course Director, Coordinator, and Faculty (if provided). Additionally you will be provided with the course description.",
+            "title": "Course Details"
+        },
+        {
+            "location": "/05_MedLearn_Courses/#course-objectives",
+            "text": "Under the Course Details section is the Course Objectives section. The course objectives align with the Educational Program Objectives and Competencies established by the University of Arizona College of Medicine-Tucson.",
+            "title": "Course Objectives"
+        },
+        {
+            "location": "/05_MedLearn_Courses/#course-resources",
+            "text": "Your Course Director and Coordinator will provide you will various resources relating to the course as a whole. Examples might include links to ILMs, a combined PDF of the class notes, pharmacology lists, and more.",
+            "title": "Course Resources"
+        },
+        {
+            "location": "/12_MedLearn_Groups/",
+            "text": "Course Groups\n\n\nTo view what groups you are a member of for your courses click on My Course Groups within My MedLearn. \n\n\nYou will see each of your groups for the courses you are enrolled in. Additionally, you will see your group facilitator (if applicable) and group members.",
+            "title": "MedLearn / Course Groups"
+        },
+        {
+            "location": "/12_MedLearn_Groups/#course-groups",
+            "text": "To view what groups you are a member of for your courses click on My Course Groups within My MedLearn.   You will see each of your groups for the courses you are enrolled in. Additionally, you will see your group facilitator (if applicable) and group members.",
+            "title": "Course Groups"
+        },
+        {
+            "location": "/06_MedLearn_Events/",
+            "text": "MedLearn - Learning Events\n\n\nWhen you click on Learning Events in the main menu, you will see a list of events in which you are part of the audience of. On the main screen with the list of events you can apply filters to refine the list of events that displays, additionally you can change your view to be daily, weekly, monthly, or yearly. \n\n\nYou can click on an event to view event details; who the lecturer is; where the event takes place; whether or not the event is podcasted, requires professional dress, or has required attendance; event objectives, and more. \n\n\n\n\nCourse and Event Information (1)\n\n\nAt the top of the event overview page you will see what course the event belongs to in addition to the event title. \n\n\nEvent Description (2)\n\n\nOptionally, the event's teaching faculty, course director and/or coordinator can add an event description to give students an overview of the topic. \n\n\nEvent Details (3)\n\n\nThe event details table provides you with a lot of important information such as:\n\n\n\n\nDate and Time of Event\n\n\nDuration and Event Type (e.g. Lecture, Team-Based Learning, etc.)\n\n\nLocation\n\n\nWhether or not attendance is required\n\n\nIf the event is podcasted or not\n\n\nIf professional attire is necessary\n\n\nIf you need to bring any specific equipment to the event (e.g. iPad, pen/pencil, etc.)\n\n\nWho the lecturer of the event is\n\n\nWho the audience of the event is (if provided)\n\n\n\n\nStudent Information (4)\n\n\nIf the teaching faculty, course director or coordinator has a message to relay to the students about the event, information will be entered in this section. For example they might make note of a guest presenter or if standardized patients will be present. \n\n\nEvent Keywords (5)\n\n\nEvent Keywords include MeSH (Medical Subject Headings) terms that Curricular Affairs has associated with the event for reporting purposes. \n\n\nEvent Specific Objectives (6)\n\n\nEvent Specific Objectives are the objectives that will be covered during the session. The objectives should match those in the notes provided by the teaching faculty, but there could also be additional objectives attached from other tag sets such as Vocabulary. Vocabulary terms identify threads and disciplines that are covered during this event. \n\n\nEvent Resources (7)\n\n\nThe course coordinator will post all notes, slides, readings, and any other event specific resources to this section. Some resources have a timeframe associated with them (e.g. before class, during class, after class). Also, a resource can be marked as required or optional.",
+            "title": "MedLearn / Learning Events"
+        },
+        {
+            "location": "/06_MedLearn_Events/#medlearn-learning-events",
+            "text": "When you click on Learning Events in the main menu, you will see a list of events in which you are part of the audience of. On the main screen with the list of events you can apply filters to refine the list of events that displays, additionally you can change your view to be daily, weekly, monthly, or yearly.   You can click on an event to view event details; who the lecturer is; where the event takes place; whether or not the event is podcasted, requires professional dress, or has required attendance; event objectives, and more.",
+            "title": "MedLearn - Learning Events"
+        },
+        {
+            "location": "/06_MedLearn_Events/#course-and-event-information-1",
+            "text": "At the top of the event overview page you will see what course the event belongs to in addition to the event title.",
+            "title": "Course and Event Information (1)"
+        },
+        {
+            "location": "/06_MedLearn_Events/#event-description-2",
+            "text": "Optionally, the event's teaching faculty, course director and/or coordinator can add an event description to give students an overview of the topic.",
+            "title": "Event Description (2)"
+        },
+        {
+            "location": "/06_MedLearn_Events/#event-details-3",
+            "text": "The event details table provides you with a lot of important information such as:   Date and Time of Event  Duration and Event Type (e.g. Lecture, Team-Based Learning, etc.)  Location  Whether or not attendance is required  If the event is podcasted or not  If professional attire is necessary  If you need to bring any specific equipment to the event (e.g. iPad, pen/pencil, etc.)  Who the lecturer of the event is  Who the audience of the event is (if provided)",
+            "title": "Event Details (3)"
+        },
+        {
+            "location": "/06_MedLearn_Events/#student-information-4",
+            "text": "If the teaching faculty, course director or coordinator has a message to relay to the students about the event, information will be entered in this section. For example they might make note of a guest presenter or if standardized patients will be present.",
+            "title": "Student Information (4)"
+        },
+        {
+            "location": "/06_MedLearn_Events/#event-keywords-5",
+            "text": "Event Keywords include MeSH (Medical Subject Headings) terms that Curricular Affairs has associated with the event for reporting purposes.",
+            "title": "Event Keywords (5)"
+        },
+        {
+            "location": "/06_MedLearn_Events/#event-specific-objectives-6",
+            "text": "Event Specific Objectives are the objectives that will be covered during the session. The objectives should match those in the notes provided by the teaching faculty, but there could also be additional objectives attached from other tag sets such as Vocabulary. Vocabulary terms identify threads and disciplines that are covered during this event.",
+            "title": "Event Specific Objectives (6)"
+        },
+        {
+            "location": "/06_MedLearn_Events/#event-resources-7",
+            "text": "The course coordinator will post all notes, slides, readings, and any other event specific resources to this section. Some resources have a timeframe associated with them (e.g. before class, during class, after class). Also, a resource can be marked as required or optional.",
+            "title": "Event Resources (7)"
+        },
+        {
+            "location": "/10_MedLearn_Grades/",
+            "text": "MedLearn - Your Profile\n\n\nUnder My MedLearn you will have a link to My Gradebooks. Once you click on that link you will see a table of all your enrolled courses and your corresponding grades by competency and your final course grade. \n\n\n\n\nTo view a grade breakdown by assessment for MK and PC click on the percent shown on the main screen. This will take you to a detailed overview of your grade for those competencies. \n\n\n\n\nYou will be unable to view a grade breakdown for behavioral competencies such as PRO, PLI, and IPS. Instead, you will see a pass or fail and the total weight of that competency accounted for thus far.",
+            "title": "MedLearn / Grades"
+        },
+        {
+            "location": "/10_MedLearn_Grades/#medlearn-your-profile",
+            "text": "Under My MedLearn you will have a link to My Gradebooks. Once you click on that link you will see a table of all your enrolled courses and your corresponding grades by competency and your final course grade.    To view a grade breakdown by assessment for MK and PC click on the percent shown on the main screen. This will take you to a detailed overview of your grade for those competencies.    You will be unable to view a grade breakdown for behavioral competencies such as PRO, PLI, and IPS. Instead, you will see a pass or fail and the total weight of that competency accounted for thus far.",
+            "title": "MedLearn - Your Profile"
+        },
+        {
+            "location": "/11_MedLearn_Assignments/",
+            "text": "Assignments\n\n\nSome assessments may require you to upload a document for grading. This are referred to as drop box assignments. To submit a drop box assignment:\n\n\n\n\nClick on My Assignments within My MedLearn\n\n\nClick on the Assignment \n\n\nClick the \n+ Add File\n button to upload your completed assignment\n\n\nClick the \n+ Add Assignment Comment\n button to add relevant comments",
+            "title": "MedLearn / Assignments"
+        },
+        {
+            "location": "/11_MedLearn_Assignments/#assignments",
+            "text": "Some assessments may require you to upload a document for grading. This are referred to as drop box assignments. To submit a drop box assignment:   Click on My Assignments within My MedLearn  Click on the Assignment   Click the  + Add File  button to upload your completed assignment  Click the  + Add Assignment Comment  button to add relevant comments",
+            "title": "Assignments"
+        },
+        {
+            "location": "/08_MedLearn_AE/",
+            "text": "MedLearn - Assessment & Evaluation (aka Surveys)\n\n\nWhen you click on Assessment & Evaluation at the top right corner of the screen, you will be able to complete assessment tasks, view tasks completed on yourself, and view your previously completed tasks. \n\n\n\n\nAssessment Tasks\n\n\nIf you have any surveys to complete they will be listed under Assessment Tasks. To complete the survey click on View Task. A task might have multiple targets, so one task might actually involve completing multiple surveys. Complete the survey form then hit Submit when you are done.\n\n\nTasks Completed on Me\n\n\nDepending on the type of assessment, you might be able to view the results of a survey completed on you by clicking on Tasks Completed on Me. Some results might show the entire form, while others might only show you the free text comments written about you. \n\n\nMy Completed Tasks\n\n\nTo review past surveys you filled out, click on My Completed Tasks, then View Task for the survey you want to review. Completed tasks are not editable.",
+            "title": "MedLearn / Assessment & Evaluation (Surveys)"
+        },
+        {
+            "location": "/08_MedLearn_AE/#medlearn-assessment-evaluation-aka-surveys",
+            "text": "When you click on Assessment & Evaluation at the top right corner of the screen, you will be able to complete assessment tasks, view tasks completed on yourself, and view your previously completed tasks.",
+            "title": "MedLearn - Assessment & Evaluation (aka Surveys)"
+        },
+        {
+            "location": "/08_MedLearn_AE/#assessment-tasks",
+            "text": "If you have any surveys to complete they will be listed under Assessment Tasks. To complete the survey click on View Task. A task might have multiple targets, so one task might actually involve completing multiple surveys. Complete the survey form then hit Submit when you are done.",
+            "title": "Assessment Tasks"
+        },
+        {
+            "location": "/08_MedLearn_AE/#tasks-completed-on-me",
+            "text": "Depending on the type of assessment, you might be able to view the results of a survey completed on you by clicking on Tasks Completed on Me. Some results might show the entire form, while others might only show you the free text comments written about you.",
+            "title": "Tasks Completed on Me"
+        },
+        {
+            "location": "/08_MedLearn_AE/#my-completed-tasks",
+            "text": "To review past surveys you filled out, click on My Completed Tasks, then View Task for the survey you want to review. Completed tasks are not editable.",
+            "title": "My Completed Tasks"
+        },
+        {
+            "location": "/13_MedLearn_Absences/",
+            "text": "Absence Requests\n\n\nThe Attendance Policy is located on the COM-T website at \nhttp://medicine.arizona.edu/students/student-policies-forms\n. \n\n\nPlease familiarize yourself with the policy before submitting requests.\n\n\n\n\nSelect My Absence Requests from My MedLearn\n\n\nAny previously-requested absences will be displayed with their current status\n\n\nPress the \nAdd Absence Request\n button to submit a new request\n\n\nThe \nAdding an Absence Request\n screen will be displayed\n\n\nAdd the \nStart Date\n and \nEnd Date\n and other required details regarding the request\n\n\nThen submit the request",
+            "title": "MedLearn / Absence Requests"
+        },
+        {
+            "location": "/13_MedLearn_Absences/#absence-requests",
+            "text": "The Attendance Policy is located on the COM-T website at  http://medicine.arizona.edu/students/student-policies-forms .   Please familiarize yourself with the policy before submitting requests.   Select My Absence Requests from My MedLearn  Any previously-requested absences will be displayed with their current status  Press the  Add Absence Request  button to submit a new request  The  Adding an Absence Request  screen will be displayed  Add the  Start Date  and  End Date  and other required details regarding the request  Then submit the request",
+            "title": "Absence Requests"
+        },
+        {
+            "location": "/15_MedLearn_DutyHours/",
+            "text": "Duty Hours\n\n\nAdd Duty Hours\n\n\n\n\nClick the \nClerkship\n tab, followed by Duty Hours\n\n\nRefer to the \nRotation\n section\n\n\nClick the \nLog Hours\n button to the right of the clerkship rotation\n\n\nSelect the \nHour Type\n\n\n\u201cOn Duty\u201d to record orientation days, didactics and labs\n\n\n\"Off Duty\" to record days off\n\n\n\"Absence\" to record pre-approved absences\n\n\n\n\n\n\nSelect the \nEncounter Date\n and \nStart Time\n\n\nAdd the number of \nHours\n\n\nNOTE:\n Recorded duty hours cannot exceed 24 hours in any given day. Hours worked after midnight must be recorded on the next calendar day.\n\n\n\n\n\n\nPress the \nSave\n button to save the individual entry\n\n\nYou will be directed to a calendar view indicating the number of hours worked per day\n\n\n\n\nEdit Duty Hours\n\n\n\n\nReturn to the Duty Hours screen\n\n\nClick the rotation name\n\n\nRefer to the listing of duty hour logs (below the calendar view)\n\n\nClick the date/time to be edited\n\n\nUpdate information as needed\n\n\nPress the Save button",
+            "title": "MedLearn / Duty Hours"
+        },
+        {
+            "location": "/15_MedLearn_DutyHours/#duty-hours",
+            "text": "",
+            "title": "Duty Hours"
+        },
+        {
+            "location": "/15_MedLearn_DutyHours/#add-duty-hours",
+            "text": "Click the  Clerkship  tab, followed by Duty Hours  Refer to the  Rotation  section  Click the  Log Hours  button to the right of the clerkship rotation  Select the  Hour Type  \u201cOn Duty\u201d to record orientation days, didactics and labs  \"Off Duty\" to record days off  \"Absence\" to record pre-approved absences    Select the  Encounter Date  and  Start Time  Add the number of  Hours  NOTE:  Recorded duty hours cannot exceed 24 hours in any given day. Hours worked after midnight must be recorded on the next calendar day.    Press the  Save  button to save the individual entry  You will be directed to a calendar view indicating the number of hours worked per day",
+            "title": "Add Duty Hours"
+        },
+        {
+            "location": "/15_MedLearn_DutyHours/#edit-duty-hours",
+            "text": "Return to the Duty Hours screen  Click the rotation name  Refer to the listing of duty hour logs (below the calendar view)  Click the date/time to be edited  Update information as needed  Press the Save button",
+            "title": "Edit Duty Hours"
+        },
+        {
+            "location": "/16_MedLearn_Logbook/",
+            "text": "Logbook\n\n\nAdd Logbook Encounters\n\n\n\n\n\n\nClick the \nClerkship\n tab followed by \nLogbook\n \n\n\nThe \nEncounter Tracking Entries\n screen is displayed\n\n\nClick the \nLog Entry\n button, log types include:\n\n\nPatient\n\n\nClinical Form\n\n\nOR Form\n\n\n\n\n\n\nProcedure\n\n\n\n\n\n\nSelect the \nEncounter Date\n and time\n\n\nSelect the \nLog Type\n\n\nSelect the \nRotation\n\n\nSelect the \nInstitution\n\n\nSelect a \nCase or Procedure\n\n\nSelect a \nParticipation Level\n \n(Patient Cases Only)\n\n\nAdd \nCase Notes\n \n(Patient Cases Only)\n\n\nPress the \nSubmit\n button\n\n\n\n\nEdit Logbook Encounter\n\n\nNOTE:\n  Changes are allowed only to encounters in the currently enrolled rotation.\n\n\n\n\nReturn to the Encounter Tracking Entries screen\n\n\nClick on the entry you wish to edit\n\n\nThe Search field can be used to filter the list of encounters\n\n\nUpdate applicable information\n\n\nPress the Submit button",
+            "title": "MedLearn / Logbook"
+        },
+        {
+            "location": "/16_MedLearn_Logbook/#logbook",
+            "text": "",
+            "title": "Logbook"
+        },
+        {
+            "location": "/16_MedLearn_Logbook/#add-logbook-encounters",
+            "text": "Click the  Clerkship  tab followed by  Logbook    The  Encounter Tracking Entries  screen is displayed  Click the  Log Entry  button, log types include:  Patient  Clinical Form  OR Form    Procedure    Select the  Encounter Date  and time  Select the  Log Type  Select the  Rotation  Select the  Institution  Select a  Case or Procedure  Select a  Participation Level   (Patient Cases Only)  Add  Case Notes   (Patient Cases Only)  Press the  Submit  button",
+            "title": "Add Logbook Encounters"
+        },
+        {
+            "location": "/16_MedLearn_Logbook/#edit-logbook-encounter",
+            "text": "NOTE:   Changes are allowed only to encounters in the currently enrolled rotation.   Return to the Encounter Tracking Entries screen  Click on the entry you wish to edit  The Search field can be used to filter the list of encounters  Update applicable information  Press the Submit button",
+            "title": "Edit Logbook Encounter"
+        },
+        {
+            "location": "/14_MedLearn_MSPE/",
+            "text": "MSPE Noteworthy Characteristics\n\n\nTo enter your MSPE Noteworthy Characteristics click on My MSPE within My MedLearn. When the period to enter your characteristics is open you will be able to enter three characteristics to include in your MSPE. The characteristics entered will be reviewed with your dean. \n\n\nPlease watch the following video to familiarize yourself with the process:\n\n\nCLICK HERE TO VIEW VIDEO",
+            "title": "MedLearn / MSPE Noteworthy Characteristics"
+        },
+        {
+            "location": "/14_MedLearn_MSPE/#mspe-noteworthy-characteristics",
+            "text": "To enter your MSPE Noteworthy Characteristics click on My MSPE within My MedLearn. When the period to enter your characteristics is open you will be able to enter three characteristics to include in your MSPE. The characteristics entered will be reviewed with your dean.   Please watch the following video to familiarize yourself with the process:  CLICK HERE TO VIEW VIDEO",
+            "title": "MSPE Noteworthy Characteristics"
+        },
+        {
+            "location": "/09_MedLearn_Profile/",
+            "text": "MedLearn - Your Profile\n\n\nWhen you click on your name at the top right corner of the screen, you will be able to view your user profile and modify some preferences. \n\n\n\n\nOptionally you can add additional personal information such as a secondary email address, a telephone number, a fax number, and an address. You can also update your privacy preferences and notification preferences.",
+            "title": "MedLearn / Profile"
+        },
+        {
+            "location": "/09_MedLearn_Profile/#medlearn-your-profile",
+            "text": "When you click on your name at the top right corner of the screen, you will be able to view your user profile and modify some preferences.    Optionally you can add additional personal information such as a secondary email address, a telephone number, a fax number, and an address. You can also update your privacy preferences and notification preferences.",
+            "title": "MedLearn - Your Profile"
+        },
+        {
+            "location": "/07_MedLearn_People/",
+            "text": "MedLearn - People Search\n\n\nWhen you click on People Search in the main menu, you will be able to search for people by name, NetID, email address, or ID number. Additionally, you can browse people by group and role or browse by departments.",
+            "title": "MedLearn / People Search"
+        },
+        {
+            "location": "/07_MedLearn_People/#medlearn-people-search",
+            "text": "When you click on People Search in the main menu, you will be able to search for people by name, NetID, email address, or ID number. Additionally, you can browse people by group and role or browse by departments.",
+            "title": "MedLearn - People Search"
+        },
+        {
+            "location": "/iannotate/",
+            "text": "MedLearn and iAnnotate\n\n\nHere is an overview of how to download files from MedLearn and annotate them in iAnnotate.\n\n\n\n\n\n\nIn MedLearn, select the event you want to download resources from either from the Dashboard Calendar or from the Learning Events table.\n\n\n\n\n\n\nClick on the Event Resource that you want to annotate.\n\n\n\n\n\n\nThe file should open in a new tab on your iPad.\n\n\n\n\n\n\nOnce the file is loaded in the new tab tap on the screen and then click on \"More...\"\n\n\n\n\n\n\nOption A: iAnnotate w/ Box Connection (Recommended)\n\n\n5a. In the \"More...\" menu select Box.\n\n\n6a. Login to Box if you aren't already.\n\n\n7a. Then once Box opens select the destination folder, then click upload.\n\n\n8a. Now open iAnnotate.\n\n\n9a. Add Box as a Connection if it isn't already.\n\n\n10a. Open your Box Connection.\n\n\n11a. Go to the folder you saved the MedLearn file to, and click on the file to open it in iAnnotate.\n\n\nOption B: iAnnotate w/ Local Files\n\n\n5b. In the \"More...\" menu select Copy to iAnnotate.\n\n\n6b. The MedLearn file will save to your local folder, and open automatically in iAnnotate.",
+            "title": "MedLearn & iAnnotate"
+        },
+        {
+            "location": "/iannotate/#medlearn-and-iannotate",
+            "text": "Here is an overview of how to download files from MedLearn and annotate them in iAnnotate.    In MedLearn, select the event you want to download resources from either from the Dashboard Calendar or from the Learning Events table.    Click on the Event Resource that you want to annotate.    The file should open in a new tab on your iPad.    Once the file is loaded in the new tab tap on the screen and then click on \"More...\"",
+            "title": "MedLearn and iAnnotate"
+        },
+        {
+            "location": "/iannotate/#option-a-iannotate-w-box-connection-recommended",
+            "text": "5a. In the \"More...\" menu select Box.  6a. Login to Box if you aren't already.  7a. Then once Box opens select the destination folder, then click upload.  8a. Now open iAnnotate.  9a. Add Box as a Connection if it isn't already.  10a. Open your Box Connection.  11a. Go to the folder you saved the MedLearn file to, and click on the file to open it in iAnnotate.",
+            "title": "Option A: iAnnotate w/ Box Connection (Recommended)"
+        },
+        {
+            "location": "/iannotate/#option-b-iannotate-w-local-files",
+            "text": "5b. In the \"More...\" menu select Copy to iAnnotate.  6b. The MedLearn file will save to your local folder, and open automatically in iAnnotate.",
+            "title": "Option B: iAnnotate w/ Local Files"
+        },
+        {
+            "location": "/notability/",
+            "text": "MedLearn and Notability\n\n\nHere is an overview of how to download files from MedLearn and annotate them in Notability.\n\n\n\n\n\n\nIn MedLearn, select the event you want to download resources from either from the Dashboard Calendar or from the Learning Events table.\n\n\n\n\n\n\nClick on the Event Resource that you want to annotate.\n\n\n\n\n\n\nThe file should open in a new tab on your iPad.\n\n\n\n\n\n\nOnce the file is loaded in the new tab tap on the screen and then click on \"More...\"\n\n\n\n\n\n\nOption A: Notability w/ Box Connection (Recommended)\n\n\n5a. In the \"More...\" menu select Box.\n\n\n6a. Login to Box if you aren't already.\n\n\n7a. Then once Box opens select the destination folder, then click upload.\n\n\n8a. Now open Notability.\n\n\n9a. Add Box as an Account if it isn't already.\n\n\n10a. Click the download/import icon in Notability and select Box.\n\n\n11a. Go to the folder you saved the MedLearn file to, and click on the file to open it in Notability.\n\n\n12a. You can either create a new note with this file or add to another note, then click Import and Open.\n\n\nOption B: Notability w/ Local Files\n\n\n5b. In the \"More...\" menu select Import with Notability.\n\n\n6b. The MedLearn file will open Notability, select to create a new note or add to other note.\n\n\n7b. Then click import, then you can open the file.",
+            "title": "MedLearn & Notability"
+        },
+        {
+            "location": "/notability/#medlearn-and-notability",
+            "text": "Here is an overview of how to download files from MedLearn and annotate them in Notability.    In MedLearn, select the event you want to download resources from either from the Dashboard Calendar or from the Learning Events table.    Click on the Event Resource that you want to annotate.    The file should open in a new tab on your iPad.    Once the file is loaded in the new tab tap on the screen and then click on \"More...\"",
+            "title": "MedLearn and Notability"
+        },
+        {
+            "location": "/notability/#option-a-notability-w-box-connection-recommended",
+            "text": "5a. In the \"More...\" menu select Box.  6a. Login to Box if you aren't already.  7a. Then once Box opens select the destination folder, then click upload.  8a. Now open Notability.  9a. Add Box as an Account if it isn't already.  10a. Click the download/import icon in Notability and select Box.  11a. Go to the folder you saved the MedLearn file to, and click on the file to open it in Notability.  12a. You can either create a new note with this file or add to another note, then click Import and Open.",
+            "title": "Option A: Notability w/ Box Connection (Recommended)"
+        },
+        {
+            "location": "/notability/#option-b-notability-w-local-files",
+            "text": "5b. In the \"More...\" menu select Import with Notability.  6b. The MedLearn file will open Notability, select to create a new note or add to other note.  7b. Then click import, then you can open the file.",
+            "title": "Option B: Notability w/ Local Files"
+        },
+        {
+            "location": "/onenote/",
+            "text": "MedLearn and OneNote\n\n\nHere is an overview of how to download files from MedLearn and annotate them in OneNote.\n\n\n\n\n\n\nIn MedLearn, select the event you want to download resources from either from the Dashboard Calendar or from the Learning Events table.\n\n\n\n\n\n\nClick on the Event Resource that you want to annotate.\n\n\n\n\n\n\nThe file should open in a new tab on your iPad.\n\n\n\n\n\n\nOnce the file is loaded in the new tab tap on the screen and then click on \"More...\"\n\n\n\n\n\n\nIn the \"More...\" menu select Import with OneNote.\n\n\n\n\n\n\nSign in to OneNote if you aren't already.\n\n\n\n\n\n\nSelect the Notebook you want the file to import into.\n\n\n\n\n\n\nSelect the Section of the Notebook you want the file to import into.\n\n\n\n\n\n\nChoose to insert the file as either an Attachment or Printout.",
+            "title": "MedLearn & OneNote"
+        },
+        {
+            "location": "/onenote/#medlearn-and-onenote",
+            "text": "Here is an overview of how to download files from MedLearn and annotate them in OneNote.    In MedLearn, select the event you want to download resources from either from the Dashboard Calendar or from the Learning Events table.    Click on the Event Resource that you want to annotate.    The file should open in a new tab on your iPad.    Once the file is loaded in the new tab tap on the screen and then click on \"More...\"    In the \"More...\" menu select Import with OneNote.    Sign in to OneNote if you aren't already.    Select the Notebook you want the file to import into.    Select the Section of the Notebook you want the file to import into.    Choose to insert the file as either an Attachment or Printout.",
+            "title": "MedLearn and OneNote"
+        }
+    ]
+}
