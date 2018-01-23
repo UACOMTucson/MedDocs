@@ -3,7 +3,7 @@
 
     
     <url>
-     <loc>None/</loc>
+     <loc>/</loc>
      <lastmod>2018-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -11,7 +11,7 @@
 
     
     <url>
-     <loc>None/01_MedPortal/</loc>
+     <loc>/01_MedPortal/</loc>
      <lastmod>2018-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -19,7 +19,7 @@
 
     
     <url>
-     <loc>None/02_MedLearn/</loc>
+     <loc>/02_MedLearn/</loc>
      <lastmod>2018-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -27,7 +27,7 @@
 
     
     <url>
-     <loc>None/03_MedLearn_Dashboard/</loc>
+     <loc>/03_MedLearn_Dashboard/</loc>
      <lastmod>2018-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -35,7 +35,7 @@
 
     
     <url>
-     <loc>None/04_MedLearn_Curriculum/</loc>
+     <loc>/04_MedLearn_Curriculum/</loc>
      <lastmod>2018-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -43,7 +43,7 @@
 
     
     <url>
-     <loc>None/05_MedLearn_Courses/</loc>
+     <loc>/05_MedLearn_Courses/</loc>
      <lastmod>2018-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -51,7 +51,7 @@
 
     
     <url>
-     <loc>None/12_MedLearn_Groups/</loc>
+     <loc>/12_MedLearn_Groups/</loc>
      <lastmod>2018-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -59,7 +59,7 @@
 
     
     <url>
-     <loc>None/06_MedLearn_Events/</loc>
+     <loc>/06_MedLearn_Events/</loc>
      <lastmod>2018-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -67,7 +67,7 @@
 
     
     <url>
-     <loc>None/10_MedLearn_Grades/</loc>
+     <loc>/10_MedLearn_Grades/</loc>
      <lastmod>2018-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -75,7 +75,7 @@
 
     
     <url>
-     <loc>None/11_MedLearn_Assignments/</loc>
+     <loc>/11_MedLearn_Assignments/</loc>
      <lastmod>2018-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -83,7 +83,7 @@
 
     
     <url>
-     <loc>None/08_MedLearn_AE/</loc>
+     <loc>/08_MedLearn_AE/</loc>
      <lastmod>2018-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -91,7 +91,7 @@
 
     
     <url>
-     <loc>None/13_MedLearn_Absences/</loc>
+     <loc>/13_MedLearn_Absences/</loc>
      <lastmod>2018-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -99,7 +99,7 @@
 
     
     <url>
-     <loc>None/15_MedLearn_DutyHours/</loc>
+     <loc>/15_MedLearn_DutyHours/</loc>
      <lastmod>2018-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -107,7 +107,7 @@
 
     
     <url>
-     <loc>None/16_MedLearn_Logbook/</loc>
+     <loc>/16_MedLearn_Logbook/</loc>
      <lastmod>2018-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -115,7 +115,7 @@
 
     
     <url>
-     <loc>None/14_MedLearn_MSPE/</loc>
+     <loc>/14_MedLearn_MSPE/</loc>
      <lastmod>2018-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -123,7 +123,7 @@
 
     
     <url>
-     <loc>None/09_MedLearn_Profile/</loc>
+     <loc>/09_MedLearn_Profile/</loc>
      <lastmod>2018-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -131,7 +131,7 @@
 
     
     <url>
-     <loc>None/07_MedLearn_People/</loc>
+     <loc>/07_MedLearn_People/</loc>
      <lastmod>2018-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -139,7 +139,7 @@
 
     
     <url>
-     <loc>None/iannotate/</loc>
+     <loc>/iannotate/</loc>
      <lastmod>2018-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -147,7 +147,7 @@
 
     
     <url>
-     <loc>None/notability/</loc>
+     <loc>/notability/</loc>
      <lastmod>2018-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -155,7 +155,7 @@
 
     
     <url>
-     <loc>None/onenote/</loc>
+     <loc>/onenote/</loc>
      <lastmod>2018-01-22</lastmod>
      <changefreq>daily</changefreq>
     </url>

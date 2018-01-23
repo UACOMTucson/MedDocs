@@ -203,7 +203,7 @@
         {
             "location": "/08_MedLearn_AE/#medlearn-assessment-evaluation-aka-surveys",
             "text": "When you click on Assessment & Evaluation at the top right corner of the screen, you will be able to complete assessment tasks, view tasks completed on yourself, and view your previously completed tasks.",
-            "title": "MedLearn - Assessment & Evaluation (aka Surveys)"
+            "title": "MedLearn - Assessment &amp; Evaluation (aka Surveys)"
         },
         {
             "location": "/08_MedLearn_AE/#assessment-tasks",
@@ -292,12 +292,12 @@
         },
         {
             "location": "/07_MedLearn_People/",
-            "text": "MedLearn - People Search\n\n\nWhen you click on People Search in the main menu, you will be able to search for people by name, NetID, email address, or ID number. Additionally, you can browse people by group and role or browse by departments.",
+            "text": "MedLearn - People Search\n\n\nWhen you click on \nPeople Search\n in the main menu, you will be able to search for people by name, NetID, email address, or ID number. Additionally, you can browse people by group and role or browse by departments.",
             "title": "MedLearn / People Search"
         },
         {
             "location": "/07_MedLearn_People/#medlearn-people-search",
-            "text": "When you click on People Search in the main menu, you will be able to search for people by name, NetID, email address, or ID number. Additionally, you can browse people by group and role or browse by departments.",
+            "text": "When you click on  People Search  in the main menu, you will be able to search for people by name, NetID, email address, or ID number. Additionally, you can browse people by group and role or browse by departments.",
             "title": "MedLearn - People Search"
         },
         {
