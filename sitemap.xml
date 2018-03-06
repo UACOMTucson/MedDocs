@@ -51,7 +51,7 @@
 
     
     <url>
-     <loc>/06_MedLearn_Events/</loc>
+     <loc>/12_MedLearn_Groups/</loc>
      <lastmod>2018-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -59,7 +59,7 @@
 
     
     <url>
-     <loc>/12_MedLearn_Groups/</loc>
+     <loc>/06_MedLearn_Events/</loc>
      <lastmod>2018-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -84,14 +84,6 @@
     
     <url>
      <loc>/08_MedLearn_AE/</loc>
-     <lastmod>2018-03-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/18_MedLearn_Portfolio/</loc>
      <lastmod>2018-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -172,14 +164,6 @@
     
     <url>
      <loc>/onenote/</loc>
-     <lastmod>2018-03-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/MedReports/</loc>
      <lastmod>2018-03-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
