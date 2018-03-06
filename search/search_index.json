@@ -121,16 +121,6 @@
             "title": "Course Resources"
         },
         {
-            "location": "/12_MedLearn_Groups/",
-            "text": "MedLearn - Course Groups\n\n\nTo view what groups you are a member of for your courses click on My Course Groups within My MedLearn. \n\n\nYou will see each of your groups for the courses you are enrolled in. Additionally, you will see your group facilitator (if applicable) and group members.",
-            "title": "MedLearn / Course Groups"
-        },
-        {
-            "location": "/12_MedLearn_Groups/#medlearn-course-groups",
-            "text": "To view what groups you are a member of for your courses click on My Course Groups within My MedLearn.   You will see each of your groups for the courses you are enrolled in. Additionally, you will see your group facilitator (if applicable) and group members.",
-            "title": "MedLearn - Course Groups"
-        },
-        {
             "location": "/06_MedLearn_Events/",
             "text": "MedLearn - Learning Events\n\n\nWhen you click on Learning Events in the main menu, you will see a list of events in which you are part of the audience of. On the main screen with the list of events you can apply filters to refine the list of events that displays, additionally you can change your view to be daily, weekly, monthly, or yearly. \n\n\nYou can click on an event to view event details; who the lecturer is; where the event takes place; whether or not the event is podcasted, requires professional dress, or has required attendance; event objectives, and more. \n\n\n\n\nCourse and Event Information (1)\n\n\nAt the top of the event overview page you will see what course the event belongs to in addition to the event title. \n\n\nEvent Description (2)\n\n\nOptionally, the event's teaching faculty, course director and/or coordinator can add an event description to give students an overview of the topic. \n\n\nEvent Details (3)\n\n\nThe event details table provides you with a lot of important information such as:\n\n\n\n\nDate and Time of Event\n\n\nDuration and Event Type (e.g. Lecture, Team-Based Learning, etc.)\n\n\nLocation\n\n\nWhether or not attendance is required\n\n\nIf the event is podcasted or not\n\n\nIf professional attire is necessary\n\n\nIf you need to bring any specific equipment to the event (e.g. iPad, pen/pencil, etc.)\n\n\nWho the lecturer of the event is\n\n\nWho the audience of the event is (if provided)\n\n\n\n\nStudent Information (4)\n\n\nIf the teaching faculty, course director or coordinator has a message to relay to the students about the event, information will be entered in this section. For example they might make note of a guest presenter or if standardized patients will be present. \n\n\nEvent Keywords (5)\n\n\nEvent Keywords include MeSH (Medical Subject Headings) terms that Curricular Affairs has associated with the event for reporting purposes. \n\n\nEvent Specific Objectives (6)\n\n\nEvent Specific Objectives are the objectives that will be covered during the session. The objectives should match those in the notes provided by the teaching faculty, but there could also be additional objectives attached from other tag sets such as Vocabulary. Vocabulary terms identify threads and disciplines that are covered during this event. \n\n\nEvent Resources (7)\n\n\nThe course coordinator will post all notes, slides, readings, and any other event specific resources to this section. Some resources have a timeframe associated with them (e.g. before class, during class, after class). Also, a resource can be marked as required or optional.",
             "title": "MedLearn / Learning Events"
@@ -176,6 +166,16 @@
             "title": "Event Resources (7)"
         },
         {
+            "location": "/12_MedLearn_Groups/",
+            "text": "MedLearn - Course Groups\n\n\nTo view what groups you are a member of for your courses click on My Course Groups within My MedLearn. \n\n\nYou will see each of your groups for the courses you are enrolled in. Additionally, you will see your group facilitator (if applicable) and group members.",
+            "title": "MedLearn / Course Groups"
+        },
+        {
+            "location": "/12_MedLearn_Groups/#medlearn-course-groups",
+            "text": "To view what groups you are a member of for your courses click on My Course Groups within My MedLearn.   You will see each of your groups for the courses you are enrolled in. Additionally, you will see your group facilitator (if applicable) and group members.",
+            "title": "MedLearn - Course Groups"
+        },
+        {
             "location": "/10_MedLearn_Grades/",
             "text": "MedLearn - Grades\n\n\nUnder My MedLearn you will have a link to My Gradebooks. Once you click on that link you will see a table of all your enrolled courses and your corresponding grades by competency and your final course grade. \n\n\n\n\nTo view a grade breakdown by assessment for MK and PC click on the percent shown on the main screen. This will take you to a detailed overview of your grade for those competencies. \n\n\n\n\nYou will be unable to view a grade breakdown for behavioral competencies such as PRO, PLI, and IPS. Instead, you will see a pass or fail and the total weight of that competency accounted for thus far.",
             "title": "MedLearn / Grades"
@@ -219,6 +219,16 @@
             "location": "/08_MedLearn_AE/#my-completed-tasks",
             "text": "To review past surveys you filled out, click on My Completed Tasks, then View Task for the survey you want to review. Completed tasks are not editable.",
             "title": "My Completed Tasks"
+        },
+        {
+            "location": "/18_MedLearn_Portfolio/",
+            "text": "MedLearn - ePortfolio\n\n\nComing Soon!",
+            "title": "MedLearn / ePortfolio"
+        },
+        {
+            "location": "/18_MedLearn_Portfolio/#medlearn-eportfolio",
+            "text": "Coming Soon!",
+            "title": "MedLearn - ePortfolio"
         },
         {
             "location": "/13_MedLearn_Absences/",
@@ -369,6 +379,16 @@
             "location": "/onenote/#medlearn-and-onenote",
             "text": "Here is an overview of how to download files from MedLearn and annotate them in OneNote.    In MedLearn, select the event you want to download resources from either from the Dashboard Calendar or from the Learning Events table.    Click on the Event Resource that you want to annotate.    The file should open in a new tab on your iPad.    Once the file is loaded in the new tab tap on the screen and then click on \"More...\"    In the \"More...\" menu select Import with OneNote.    Sign in to OneNote if you aren't already.    Select the Notebook you want the file to import into.    Select the Section of the Notebook you want the file to import into.    Choose to insert the file as either an Attachment or Printout.",
             "title": "MedLearn and OneNote"
+        },
+        {
+            "location": "/MedReports/",
+            "text": "MedReports\n\n\nWhat is MedReports?\n\n\nMedReports is our educational reporting system. MedReports provides flexible reports for COM-T's various educational systems such as ArizonaMed, MedLearn, and OASIS. Access to each report is restricted to specific user groups. \n\n\nWhat reports do students have access to?\n\n\nCurrently, only Student Advisory Committee members have access to the Course Feedback report. This is the report that displays anonymous feedback provided by students in regards to their enrolled courses. Feedback is submitted through MedLearn, but the report is accessed through MedReports.",
+            "title": "MedReports"
+        },
+        {
+            "location": "/MedReports/#medreports",
+            "text": "What is MedReports?  MedReports is our educational reporting system. MedReports provides flexible reports for COM-T's various educational systems such as ArizonaMed, MedLearn, and OASIS. Access to each report is restricted to specific user groups.   What reports do students have access to?  Currently, only Student Advisory Committee members have access to the Course Feedback report. This is the report that displays anonymous feedback provided by students in regards to their enrolled courses. Feedback is submitted through MedLearn, but the report is accessed through MedReports.",
+            "title": "MedReports"
         }
     ]
 }
