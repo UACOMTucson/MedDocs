@@ -1,4 +1,4 @@
-#Welcome to MedDocs!
+#Welcome to MedDocs for Students!
 
 **What is MedDocs?**
 
