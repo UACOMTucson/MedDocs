@@ -7,11 +7,12 @@ pages:
 - MedLearn / Dashboard: "03_MedLearn_Dashboard.md"
 - MedLearn / Curriculum: "04_MedLearn_Curriculum.md"
 - MedLearn / Courses: "05_MedLearn_Courses.md"
-- MedLearn / Course Groups: "12_MedLearn_Groups.md"
 - MedLearn / Learning Events: "06_MedLearn_Events.md"
+- MedLearn / Course Groups: "12_MedLearn_Groups.md"
 - MedLearn / Grades: "10_MedLearn_Grades.md"
 - MedLearn / Assignments: "11_MedLearn_Assignments.md"
 - MedLearn / Assessment & Evaluation (Surveys): "08_MedLearn_AE.md"
+- MedLearn / ePortfolio: "18_MedLearn_Portfolio.md"
 - MedLearn / Absence Requests: "13_MedLearn_Absences.md"
 - MedLearn / Duty Hours: "15_MedLearn_DutyHours.md"
 - MedLearn / Logbook: "16_MedLearn_Logbook.md"
@@ -22,5 +23,6 @@ pages:
 - MedLearn & iAnnotate: "iannotate.md"
 - MedLearn & Notability: "notability.md"
 - MedLearn & OneNote: "onenote.md"
+- MedReports: "MedReports.md"
 
 theme: readthedocs
