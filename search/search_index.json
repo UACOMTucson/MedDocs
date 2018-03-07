@@ -2,13 +2,13 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to MedDocs!\n\n\nWhat is MedDocs?\n\n\nMedDocs is a repository of resources for College of Medicine-Tucson educational applications and systems. MedDocs contains user guides, illustrations, and video demonstrations. \n\n\nWhat applications does MedDocs currently support?\n\n\nCurrently, MedDocs has resources for MedPortal, MedLearn, and MedReports. MedDocs will continue to expand. \n\n\n\n\nWhat if I need additional help?\n\n\nPlease contact the IT Service Desk. If they are unable to assist you they will forward your request to the Project/Operations Team. \nHere is the link to the COM-T ITS Website\n.",
+            "text": "Welcome to MedDocs for Students!\n\n\nWhat is MedDocs?\n\n\nMedDocs is a repository of resources for College of Medicine-Tucson educational applications and systems. MedDocs contains user guides, illustrations, and video demonstrations. \n\n\nWhat applications does MedDocs currently support?\n\n\nCurrently, MedDocs has resources for MedPortal, MedLearn, and MedReports. MedDocs will continue to expand. \n\n\n\n\nWhat if I need additional help?\n\n\nPlease contact the IT Service Desk. If they are unable to assist you they will forward your request to the Project/Operations Team. \nHere is the link to the COM-T ITS Website\n.",
             "title": "Welcome"
         },
         {
-            "location": "/#welcome-to-meddocs",
+            "location": "/#welcome-to-meddocs-for-students",
             "text": "What is MedDocs?  MedDocs is a repository of resources for College of Medicine-Tucson educational applications and systems. MedDocs contains user guides, illustrations, and video demonstrations.   What applications does MedDocs currently support?  Currently, MedDocs has resources for MedPortal, MedLearn, and MedReports. MedDocs will continue to expand.    What if I need additional help?  Please contact the IT Service Desk. If they are unable to assist you they will forward your request to the Project/Operations Team.  Here is the link to the COM-T ITS Website .",
-            "title": "Welcome to MedDocs!"
+            "title": "Welcome to MedDocs for Students!"
         },
         {
             "location": "/01_MedPortal/",
