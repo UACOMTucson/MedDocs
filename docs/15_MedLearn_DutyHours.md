@@ -1,4 +1,4 @@
-# Duty Hours
+# MedLearn - Duty Hours
 
 ## Add Duty Hours
 

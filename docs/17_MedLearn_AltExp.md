@@ -1,6 +1,6 @@
-# Alternative Experiences
+# MedLearn - Alternative Experiences
 
-![Alt Exp Request](./images/student-altexp.png)
+![Alt Exp Request](./images/student-altexp.PNG)
 
 ## Request an Alternative Experience
 
@@ -14,4 +14,4 @@
 
 ## View Status of Request
 
-* To view the status of your request at any time click on the **Clerkship** tab followed by **Alternative Experience**. 
+* To view the status of your request at any time click on **Clerkship** followed by **Alternative Experience**. 

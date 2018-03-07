@@ -1,4 +1,4 @@
-# Logbook
+# MedLearn - Logbook
 ## Add Logbook Encounters
 ![Patient Ecounters](./images/student-logbook.png)
 

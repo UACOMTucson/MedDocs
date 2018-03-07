@@ -1,5 +1,3 @@
-![MedDocs](./images/meddocs.png)
-
 #Welcome to MedDocs!
 
 **What is MedDocs?**
@@ -14,4 +12,4 @@ Currently, MedDocs has resources for MedPortal, MedLearn, and MedReports. MedDoc
 
 **What if I need additional help?**
 
-Please contact the IT Service Desk. If they are unable to assist you they will forward your request to the Project/Operations Team. [Here is the link to the COM ITS Website](http://medicine.arizona.edu/faculty-staff/offices/information-technology-services).
+Please contact the IT Service Desk. If they are unable to assist you they will forward your request to the Project/Operations Team. [Here is the link to the COM-T ITS Website](http://medicine.arizona.edu/faculty-staff/offices/information-technology-services).

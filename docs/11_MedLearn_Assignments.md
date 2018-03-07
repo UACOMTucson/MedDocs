@@ -1,4 +1,4 @@
-# Assignments
+# MedLearn - Assignments
 Some assessments may require you to upload a document for grading. This are referred to as drop box assignments. To submit a drop box assignment:
 
 * Click on My Assignments within My MedLearn

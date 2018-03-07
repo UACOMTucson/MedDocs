@@ -1,6 +1,4 @@
-# Absence Requests
-
-**Note:** For the pilots you will continue to use ArizonaMed for requesting absences. 
+# MedLearn - Absence Requests
 
 The Attendance Policy is located on the COM-T website at [http://medicine.arizona.edu/students/student-policies-forms](http://medicine.arizona.edu/students/student-policies-forms). 
 

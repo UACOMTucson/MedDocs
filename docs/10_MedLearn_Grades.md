@@ -1,4 +1,4 @@
-#MedLearn - Your Profile
+#MedLearn - Grades
 
 Under My MedLearn you will have a link to My Gradebooks. Once you click on that link you will see a table of all your enrolled courses and your corresponding grades by competency and your final course grade. 
 

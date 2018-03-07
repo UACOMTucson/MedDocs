@@ -1,4 +1,4 @@
-# Course Groups
+# MedLearn - Course Groups
 
 To view what groups you are a member of for your courses click on My Course Groups within My MedLearn. 
 

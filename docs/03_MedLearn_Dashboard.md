@@ -31,6 +31,8 @@ Learning events for each of the courses are displayed on the student calendar. E
 * Pay special attention to the texts in the Attendance, Podcast, and Professional Attire fields
 * Click on the Event Resources link to access learning materials
 
+Additionally, you can subscribe to your MedLearn calendar. Subscribe by URL, rather than download, to receive updates as schedules are updated. 
+
 
 ## RSS Feeds (6)
 

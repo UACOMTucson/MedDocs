@@ -2,4 +2,4 @@
 
 **What is MedLearn?**
 
-MedLearn is a new online learning platform for students and faculty at the University of Arizona College of Medicine-Tucson. MedLearn is currently in pilot phases, but is scheduled to go live for AY 2018-2019. 
+MedLearn is a new online learning platform for students, faculty, and staff at the University of Arizona College of Medicine-Tucson. MedLearn is UACOM-T's branded and customized version of [Entrada](https://entrada.org/). 
