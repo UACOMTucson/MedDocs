@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to MedDocs!\n\n\nWhat is MedDocs?\n\n\nMedDocs is a repository of resources for College of Medicine-Tucson educational applications and systems. MedDocs contains user guides, illustrations, and video demonstrations. \n\n\nWhat applications does MedDocs currently support?\n\n\nCurrently, MedDocs has resources for MedPortal, MedLearn, and MedReports. MedDocs will continue to expand. \n\n\n\n\nWhat if I need additional help?\n\n\nPlease contact the IT Service Desk. If they are unable to assist you they will forward your request to the Project/Operations Team. \nHere is the link to the COM ITS Website\n.",
+            "text": "Welcome to MedDocs!\n\n\nWhat is MedDocs?\n\n\nMedDocs is a repository of resources for College of Medicine-Tucson educational applications and systems. MedDocs contains user guides, illustrations, and video demonstrations. \n\n\nWhat applications does MedDocs currently support?\n\n\nCurrently, MedDocs has resources for MedPortal, MedLearn, and MedReports. MedDocs will continue to expand. \n\n\n\n\nWhat if I need additional help?\n\n\nPlease contact the IT Service Desk. If they are unable to assist you they will forward your request to the Project/Operations Team. \nHere is the link to the COM-T ITS Website\n.",
             "title": "Welcome"
         },
         {
             "location": "/#welcome-to-meddocs",
-            "text": "What is MedDocs?  MedDocs is a repository of resources for College of Medicine-Tucson educational applications and systems. MedDocs contains user guides, illustrations, and video demonstrations.   What applications does MedDocs currently support?  Currently, MedDocs has resources for MedPortal, MedLearn, and MedReports. MedDocs will continue to expand.    What if I need additional help?  Please contact the IT Service Desk. If they are unable to assist you they will forward your request to the Project/Operations Team.  Here is the link to the COM ITS Website .",
+            "text": "What is MedDocs?  MedDocs is a repository of resources for College of Medicine-Tucson educational applications and systems. MedDocs contains user guides, illustrations, and video demonstrations.   What applications does MedDocs currently support?  Currently, MedDocs has resources for MedPortal, MedLearn, and MedReports. MedDocs will continue to expand.    What if I need additional help?  Please contact the IT Service Desk. If they are unable to assist you they will forward your request to the Project/Operations Team.  Here is the link to the COM-T ITS Website .",
             "title": "Welcome to MedDocs!"
         },
         {
@@ -22,17 +22,17 @@
         },
         {
             "location": "/02_MedLearn/",
-            "text": "MedLearn\n\n\nWhat is MedLearn?\n\n\nMedLearn is a new online learning platform for students and faculty at the University of Arizona College of Medicine-Tucson. MedLearn is currently in pilot phases, but is scheduled to go live for AY 2018-2019.",
+            "text": "MedLearn\n\n\nWhat is MedLearn?\n\n\nMedLearn is a new online learning platform for students, faculty, and staff at the University of Arizona College of Medicine-Tucson. MedLearn is UACOM-T's branded and customized version of \nEntrada\n.",
             "title": "MedLearn"
         },
         {
             "location": "/02_MedLearn/#medlearn",
-            "text": "What is MedLearn?  MedLearn is a new online learning platform for students and faculty at the University of Arizona College of Medicine-Tucson. MedLearn is currently in pilot phases, but is scheduled to go live for AY 2018-2019.",
+            "text": "What is MedLearn?  MedLearn is a new online learning platform for students, faculty, and staff at the University of Arizona College of Medicine-Tucson. MedLearn is UACOM-T's branded and customized version of  Entrada .",
             "title": "MedLearn"
         },
         {
             "location": "/03_MedLearn_Dashboard/",
-            "text": "MedLearn - Dashboard\n\n\nThe dashboard is displayed by default when logging in to MedLearn. If you navigate away from the dashboard, simply click on the MedLearn logo or the dashboard link to return to it.\n\n\n\n\nMy MedLearn (1)\n\n\nMy MedLearn provides students with quick access to commonly used areas of MedLearn. The links within My MedLearn are the same for all students. \n\n\nMy Bookmarks (2)\n\n\nMy Bookmarks allows users to create custom quick links specific to their user account. If you frequently are going to the same page, you can add it as a bookmark, or if you want to remember to return to a certain page in MedLearn you could add it as a bookmark as a reminder, then delete it once you are finished. Your bookmarks are unique to your account, so no one else can see what you have bookmarked in MedLearn.\n\n\nGive Feedback (3)\n\n\nStudents are able to submit feedback for specific courses or for IT. IT feedback might include a suggestion or a bug/issue you've identified. Course feedback is specific to the course you select in the feedback form, and is anonymously reported to the Course Director, Coordinator, and Student Advisory Committee. \n\n\nMedLearn Message Center (4)\n\n\nFaculty and staff are able to post messages containing student information. Once posted, messages are shown on the dashboard within the MedLearn Message Center. Unread messages display by default when you view the dashboard. You can also mark messages as read so that they no longer appear. If you want to review previously read messages click on Previously Read Messages. \n\n\nCalendar (5)\n\n\nLearning events for each of the courses are displayed on the student calendar. Event details (e.g. location, duration, attendance requirements, etc.) and resources are accessed by clicking on the event.\n\n\n\n\nThe calendar defaults to the current week\n\n\nRefer to the date range field\n\n\nUse the arrows to select past and future dates\n\n\nClick on the event to review event details\n\n\nPay special attention to the texts in the Attendance, Podcast, and Professional Attire fields\n\n\nClick on the Event Resources link to access learning materials\n\n\n\n\nRSS Feeds (6)\n\n\nIf you have a favorite website who posts or content you follow, you can add their RSS feed to your MedLearn dashboard. RSS feeds added to the MedLearn dashboard are unique to the user who added them. \n\n\nWhat is an RSS?\n\n\n\"RSS (Rich Site Summary) is a format for delivering regularly changing web content. Many news-related sites, weblogs and other online publishers syndicate their content as an RSS Feed to whoever wants it.\" \n(Source: \nhttp://www.whatisrss.com/\n)",
+            "text": "MedLearn - Dashboard\n\n\nThe dashboard is displayed by default when logging in to MedLearn. If you navigate away from the dashboard, simply click on the MedLearn logo or the dashboard link to return to it.\n\n\n\n\nMy MedLearn (1)\n\n\nMy MedLearn provides students with quick access to commonly used areas of MedLearn. The links within My MedLearn are the same for all students. \n\n\nMy Bookmarks (2)\n\n\nMy Bookmarks allows users to create custom quick links specific to their user account. If you frequently are going to the same page, you can add it as a bookmark, or if you want to remember to return to a certain page in MedLearn you could add it as a bookmark as a reminder, then delete it once you are finished. Your bookmarks are unique to your account, so no one else can see what you have bookmarked in MedLearn.\n\n\nGive Feedback (3)\n\n\nStudents are able to submit feedback for specific courses or for IT. IT feedback might include a suggestion or a bug/issue you've identified. Course feedback is specific to the course you select in the feedback form, and is anonymously reported to the Course Director, Coordinator, and Student Advisory Committee. \n\n\nMedLearn Message Center (4)\n\n\nFaculty and staff are able to post messages containing student information. Once posted, messages are shown on the dashboard within the MedLearn Message Center. Unread messages display by default when you view the dashboard. You can also mark messages as read so that they no longer appear. If you want to review previously read messages click on Previously Read Messages. \n\n\nCalendar (5)\n\n\nLearning events for each of the courses are displayed on the student calendar. Event details (e.g. location, duration, attendance requirements, etc.) and resources are accessed by clicking on the event.\n\n\n\n\nThe calendar defaults to the current week\n\n\nRefer to the date range field\n\n\nUse the arrows to select past and future dates\n\n\nClick on the event to review event details\n\n\nPay special attention to the texts in the Attendance, Podcast, and Professional Attire fields\n\n\nClick on the Event Resources link to access learning materials\n\n\n\n\nAdditionally, you can subscribe to your MedLearn calendar. Subscribe by URL, rather than download, to receive updates as schedules are updated. \n\n\nRSS Feeds (6)\n\n\nIf you have a favorite website who posts or content you follow, you can add their RSS feed to your MedLearn dashboard. RSS feeds added to the MedLearn dashboard are unique to the user who added them. \n\n\nWhat is an RSS?\n\n\n\"RSS (Rich Site Summary) is a format for delivering regularly changing web content. Many news-related sites, weblogs and other online publishers syndicate their content as an RSS Feed to whoever wants it.\" \n(Source: \nhttp://www.whatisrss.com/\n)",
             "title": "MedLearn / Dashboard"
         },
         {
@@ -62,7 +62,7 @@
         },
         {
             "location": "/03_MedLearn_Dashboard/#calendar-5",
-            "text": "Learning events for each of the courses are displayed on the student calendar. Event details (e.g. location, duration, attendance requirements, etc.) and resources are accessed by clicking on the event.   The calendar defaults to the current week  Refer to the date range field  Use the arrows to select past and future dates  Click on the event to review event details  Pay special attention to the texts in the Attendance, Podcast, and Professional Attire fields  Click on the Event Resources link to access learning materials",
+            "text": "Learning events for each of the courses are displayed on the student calendar. Event details (e.g. location, duration, attendance requirements, etc.) and resources are accessed by clicking on the event.   The calendar defaults to the current week  Refer to the date range field  Use the arrows to select past and future dates  Click on the event to review event details  Pay special attention to the texts in the Attendance, Podcast, and Professional Attire fields  Click on the Event Resources link to access learning materials   Additionally, you can subscribe to your MedLearn calendar. Subscribe by URL, rather than download, to receive updates as schedules are updated.",
             "title": "Calendar (5)"
         },
         {
@@ -222,22 +222,22 @@
         },
         {
             "location": "/18_MedLearn_Portfolio/",
-            "text": "MedLearn - ePortfolio\n\n\nComing Soon!",
+            "text": "MedLearn - ePortfolio",
             "title": "MedLearn / ePortfolio"
         },
         {
             "location": "/18_MedLearn_Portfolio/#medlearn-eportfolio",
-            "text": "Coming Soon!",
+            "text": "",
             "title": "MedLearn - ePortfolio"
         },
         {
             "location": "/13_MedLearn_Absences/",
-            "text": "MedLearn - Absence Requests\n\n\nNote:\n For the pilots you will continue to use ArizonaMed for requesting absences. \n\n\nThe Attendance Policy is located on the COM-T website at \nhttp://medicine.arizona.edu/students/student-policies-forms\n. \n\n\nPlease familiarize yourself with the policy before submitting requests.\n\n\n\n\nSelect My Absence Requests from My MedLearn\n\n\nAny previously-requested absences will be displayed with their current status\n\n\nPress the \nAdd Absence Request\n button to submit a new request\n\n\nThe \nAdding an Absence Request\n screen will be displayed\n\n\nAdd the \nStart Date\n and \nEnd Date\n and other required details regarding the request\n\n\nThen submit the request",
+            "text": "MedLearn - Absence Requests\n\n\nThe Attendance Policy is located on the COM-T website at \nhttp://medicine.arizona.edu/students/student-policies-forms\n. \n\n\nPlease familiarize yourself with the policy before submitting requests.\n\n\n\n\nSelect My Absence Requests from My MedLearn\n\n\nAny previously-requested absences will be displayed with their current status\n\n\nPress the \nAdd Absence Request\n button to submit a new request\n\n\nThe \nAdding an Absence Request\n screen will be displayed\n\n\nAdd the \nStart Date\n and \nEnd Date\n and other required details regarding the request\n\n\nThen submit the request",
             "title": "MedLearn / Absence Requests"
         },
         {
             "location": "/13_MedLearn_Absences/#medlearn-absence-requests",
-            "text": "Note:  For the pilots you will continue to use ArizonaMed for requesting absences.   The Attendance Policy is located on the COM-T website at  http://medicine.arizona.edu/students/student-policies-forms .   Please familiarize yourself with the policy before submitting requests.   Select My Absence Requests from My MedLearn  Any previously-requested absences will be displayed with their current status  Press the  Add Absence Request  button to submit a new request  The  Adding an Absence Request  screen will be displayed  Add the  Start Date  and  End Date  and other required details regarding the request  Then submit the request",
+            "text": "The Attendance Policy is located on the COM-T website at  http://medicine.arizona.edu/students/student-policies-forms .   Please familiarize yourself with the policy before submitting requests.   Select My Absence Requests from My MedLearn  Any previously-requested absences will be displayed with their current status  Press the  Add Absence Request  button to submit a new request  The  Adding an Absence Request  screen will be displayed  Add the  Start Date  and  End Date  and other required details regarding the request  Then submit the request",
             "title": "MedLearn - Absence Requests"
         },
         {
@@ -322,12 +322,12 @@
         },
         {
             "location": "/07_MedLearn_People/",
-            "text": "MedLearn - People Search\n\n\nWhen you click on \nPeople Search\n in the main menu, you will be able to search for people by name, NetID, email address, or ID number. Additionally, you can browse people by group and role or browse by departments.",
+            "text": "MedLearn - People Search\n\n\nWhen you click on People Search in the main menu, you will be able to search for people by name, NetID, email address, or ID number. Additionally, you can browse people by group and role or browse by departments.",
             "title": "MedLearn / People Search"
         },
         {
             "location": "/07_MedLearn_People/#medlearn-people-search",
-            "text": "When you click on  People Search  in the main menu, you will be able to search for people by name, NetID, email address, or ID number. Additionally, you can browse people by group and role or browse by departments.",
+            "text": "When you click on People Search in the main menu, you will be able to search for people by name, NetID, email address, or ID number. Additionally, you can browse people by group and role or browse by departments.",
             "title": "MedLearn - People Search"
         },
         {
