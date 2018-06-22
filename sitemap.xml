@@ -1,188 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    
     <url>
      <loc>/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-06-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>/01_MedPortal/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-06-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>/02_MedLearn/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-06-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>/03_MedLearn_Dashboard/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-06-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>/04_MedLearn_Curriculum/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-06-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>/05_MedLearn_Courses/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-06-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>/06_MedLearn_Events/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-06-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>/12_MedLearn_Groups/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-06-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>/10_MedLearn_Grades/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-06-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>/11_MedLearn_Assignments/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-06-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>/08_MedLearn_AE/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-06-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
-    <url>
-     <loc>/18_MedLearn_Portfolio/</loc>
-     <lastmod>2018-03-07</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
     <url>
      <loc>/13_MedLearn_Absences/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-06-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>/15_MedLearn_DutyHours/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-06-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>/16_MedLearn_Logbook/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-06-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>/17_MedLearn_AltExp/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-06-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>/14_MedLearn_MSPE/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-06-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>/09_MedLearn_Profile/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-06-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>/07_MedLearn_People/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-06-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>/iannotate/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-06-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>/notability/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-06-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>/onenote/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-06-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
     <url>
      <loc>/MedReports/</loc>
-     <lastmod>2018-03-07</lastmod>
+     <lastmod>2018-06-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
 </urlset>

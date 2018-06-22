@@ -221,16 +221,6 @@
             "title": "My Completed Tasks"
         },
         {
-            "location": "/18_MedLearn_Portfolio/",
-            "text": "MedLearn - ePortfolio",
-            "title": "MedLearn / ePortfolio"
-        },
-        {
-            "location": "/18_MedLearn_Portfolio/#medlearn-eportfolio",
-            "text": "",
-            "title": "MedLearn - ePortfolio"
-        },
-        {
             "location": "/13_MedLearn_Absences/",
             "text": "MedLearn - Absence Requests\n\n\nThe Attendance Policy is located on the COM-T website at \nhttp://medicine.arizona.edu/students/student-policies-forms\n. \n\n\nPlease familiarize yourself with the policy before submitting requests.\n\n\n\n\nSelect My Absence Requests from My MedLearn\n\n\nAny previously-requested absences will be displayed with their current status\n\n\nPress the \nAdd Absence Request\n button to submit a new request\n\n\nThe \nAdding an Absence Request\n screen will be displayed\n\n\nAdd the \nStart Date\n and \nEnd Date\n and other required details regarding the request\n\n\nThen submit the request",
             "title": "MedLearn / Absence Requests"
@@ -242,7 +232,7 @@
         },
         {
             "location": "/15_MedLearn_DutyHours/",
-            "text": "MedLearn - Duty Hours\n\n\nAdd Duty Hours\n\n\n\n\nClick the \nClerkship\n tab, followed by Duty Hours\n\n\nRefer to the \nRotation\n section\n\n\nClick the \nLog Hours\n button to the right of the clerkship rotation\n\n\nSelect the \nHour Type\n\n\n\u201cOn Duty\u201d to record orientation days, didactics and labs\n\n\n\"Off Duty\" to record days off\n\n\n\"Absence\" to record pre-approved absences\n\n\n\n\n\n\nSelect the \nEncounter Date\n and \nStart Time\n\n\nAdd the number of \nHours\n\n\nNOTE:\n Recorded duty hours cannot exceed 24 hours in any given day. Hours worked after midnight must be recorded on the next calendar day.\n\n\n\n\n\n\nPress the \nSave\n button to save the individual entry\n\n\nYou will be directed to a calendar view indicating the number of hours worked per day\n\n\n\n\nEdit Duty Hours\n\n\n\n\nReturn to the Duty Hours screen\n\n\nClick the rotation name\n\n\nRefer to the listing of duty hour logs (below the calendar view)\n\n\nClick the date/time to be edited\n\n\nUpdate information as needed\n\n\nPress the Save button",
+            "text": "MedLearn - Duty Hours\n\n\nAdd Duty Hours\n\n\n\n\nClick the \nClerkship\n tab, followed by \nDuty Hours\n\n\nClick the name of the clerkship rotation to access the calendar view\n\n\nClick the \nLog Hours\n button to add duty hours\n\n\nSelect the \nHour Type\n\n\nRemember to log your \nOff Duty\n and \nAbsence\n days as well as days you are \nOn Duty\n\n\n\n\n\n\nSelect the \nEncounter Date\n and start time\n\n\nAdd the number of \nHours\n\n\nNOTE:\n Recorded duty hours cannot exceed 24 hours in any given day. Hours worked after midnight must be recorded on the next calendar day.\n\n\n\n\n\n\nPress the \nSave\n button to save the individual entry\n\n\nYou will be directed to a calendar view indicating the number of hours worked per day\n\n\n\n\nEdit Duty Hours\n\n\n\n\nReturn to the \nDuty Hours\n screen\n\n\nClick the clerkship rotation name\n\n\nRefer to the listing of duty hour logs (below the calendar view)\n\n\nClick the date/time to be edited\n\n\nUpdate information as needed\n\n\nPress the \nSave\n button",
             "title": "MedLearn / Duty Hours"
         },
         {
@@ -252,17 +242,17 @@
         },
         {
             "location": "/15_MedLearn_DutyHours/#add-duty-hours",
-            "text": "Click the  Clerkship  tab, followed by Duty Hours  Refer to the  Rotation  section  Click the  Log Hours  button to the right of the clerkship rotation  Select the  Hour Type  \u201cOn Duty\u201d to record orientation days, didactics and labs  \"Off Duty\" to record days off  \"Absence\" to record pre-approved absences    Select the  Encounter Date  and  Start Time  Add the number of  Hours  NOTE:  Recorded duty hours cannot exceed 24 hours in any given day. Hours worked after midnight must be recorded on the next calendar day.    Press the  Save  button to save the individual entry  You will be directed to a calendar view indicating the number of hours worked per day",
+            "text": "Click the  Clerkship  tab, followed by  Duty Hours  Click the name of the clerkship rotation to access the calendar view  Click the  Log Hours  button to add duty hours  Select the  Hour Type  Remember to log your  Off Duty  and  Absence  days as well as days you are  On Duty    Select the  Encounter Date  and start time  Add the number of  Hours  NOTE:  Recorded duty hours cannot exceed 24 hours in any given day. Hours worked after midnight must be recorded on the next calendar day.    Press the  Save  button to save the individual entry  You will be directed to a calendar view indicating the number of hours worked per day",
             "title": "Add Duty Hours"
         },
         {
             "location": "/15_MedLearn_DutyHours/#edit-duty-hours",
-            "text": "Return to the Duty Hours screen  Click the rotation name  Refer to the listing of duty hour logs (below the calendar view)  Click the date/time to be edited  Update information as needed  Press the Save button",
+            "text": "Return to the  Duty Hours  screen  Click the clerkship rotation name  Refer to the listing of duty hour logs (below the calendar view)  Click the date/time to be edited  Update information as needed  Press the  Save  button",
             "title": "Edit Duty Hours"
         },
         {
             "location": "/16_MedLearn_Logbook/",
-            "text": "MedLearn - Logbook\n\n\nAdd Logbook Encounters\n\n\n\n\n\n\nClick the \nClerkship\n tab followed by \nLogbook\n \n\n\nThe \nEncounter Tracking Entries\n screen is displayed\n\n\nClick the \nLog Entry\n button, log types include:\n\n\nPatient\n\n\nClinical Form\n\n\nOR Form\n\n\n\n\n\n\nProcedure\n\n\n\n\n\n\nSelect the \nEncounter Date\n and time\n\n\nSelect the \nLog Type\n\n\nSelect the \nRotation\n\n\nSelect the \nInstitution\n\n\nSelect a \nCase or Procedure\n\n\nSelect a \nParticipation Level\n \n(Patient Cases Only)\n\n\nAdd \nCase Notes\n \n(Patient Cases Only)\n\n\nPress the \nSubmit\n button\n\n\n\n\nEdit Logbook Encounter\n\n\nNOTE:\n  Changes are allowed only to encounters in the currently enrolled rotation.\n\n\n\n\nReturn to the Encounter Tracking Entries screen\n\n\nClick on the entry you wish to edit\n\n\nThe Search field can be used to filter the list of encounters\n\n\nUpdate applicable information\n\n\nPress the Submit button",
+            "text": "MedLearn - Logbook\n\n\nLog Patient Cases, Procedures and/or HP Feedback (A.K.A. Encounters)\n\n\n\n\nClick the \nClerkship\n tab followed by \nLogbook\n\n\nThe \nEncounter Tracking\n screen will be displayed\n\n\nSelect a Clerkship Course\n from the dropdown\n\n\nOnly the clerkship rotations you are enrolled in will be available for selection\n\n\n\n\n\n\nThe list of required case types will be displayed\n\n\nExpand each required case type by clicking the \n+\n\n\nThe first column shows the total number of each case required\n\n\nThe second column shows the total number of each case remaining\n\n\nThe number will turn green when the required number of cases have been logged\n\n\n\n\n\n\nClick on a case to \nAdd/Edit Entry\n\n\nEnter the required fields\n\n\nClick the fields to display dropdown values\n\n\n\n\n\n\nPress the \nSave\n button to save the logbook entry",
             "title": "MedLearn / Logbook"
         },
         {
@@ -271,28 +261,23 @@
             "title": "MedLearn - Logbook"
         },
         {
-            "location": "/16_MedLearn_Logbook/#add-logbook-encounters",
-            "text": "Click the  Clerkship  tab followed by  Logbook    The  Encounter Tracking Entries  screen is displayed  Click the  Log Entry  button, log types include:  Patient  Clinical Form  OR Form    Procedure    Select the  Encounter Date  and time  Select the  Log Type  Select the  Rotation  Select the  Institution  Select a  Case or Procedure  Select a  Participation Level   (Patient Cases Only)  Add  Case Notes   (Patient Cases Only)  Press the  Submit  button",
-            "title": "Add Logbook Encounters"
-        },
-        {
-            "location": "/16_MedLearn_Logbook/#edit-logbook-encounter",
-            "text": "NOTE:   Changes are allowed only to encounters in the currently enrolled rotation.   Return to the Encounter Tracking Entries screen  Click on the entry you wish to edit  The Search field can be used to filter the list of encounters  Update applicable information  Press the Submit button",
-            "title": "Edit Logbook Encounter"
+            "location": "/16_MedLearn_Logbook/#log-patient-cases-procedures-andor-hp-feedback-aka-encounters",
+            "text": "Click the  Clerkship  tab followed by  Logbook  The  Encounter Tracking  screen will be displayed  Select a Clerkship Course  from the dropdown  Only the clerkship rotations you are enrolled in will be available for selection    The list of required case types will be displayed  Expand each required case type by clicking the  +  The first column shows the total number of each case required  The second column shows the total number of each case remaining  The number will turn green when the required number of cases have been logged    Click on a case to  Add/Edit Entry  Enter the required fields  Click the fields to display dropdown values    Press the  Save  button to save the logbook entry",
+            "title": "Log Patient Cases, Procedures and/or HP Feedback (A.K.A. Encounters)"
         },
         {
             "location": "/17_MedLearn_AltExp/",
-            "text": "MedLearn - Alternative Experiences\n\n\n\n\nRequest an Alternative Experience\n\n\n\n\nClick the \nClerkship\n tab followed by \nAlternative Experience\n \n\n\nThe \nAlternative Experience Requests\n screen is displayed\n\n\nClick the \nNew Request\n button\n\n\nEnter the rotation, alternative experience, and explanation for the request. \n\n\n\n\n\n\nAfter submitting your request it will be forwarded to your clerkship coordinator. They can then either approve or deny the request. \n\n\nIf Approved:\n Log your alternative experience in the logbook with an explanation that you satisfied the requirement through a pre-approved alternative experience. \n\n\nIf Denied:\n You will still need to complete the originally required logbook experiences, and cannot satisfy a requirement with the requested alternative experience. \n\n\n\n\n\n\n\n\nView Status of Request\n\n\n\n\nTo view the status of your request at any time click on \nClerkship\n followed by \nAlternative Experience\n.",
+            "text": "MedLearn - Request Alternative Experiences\n\n\nRequest an Alternative Experience\n\n\nAlternative experiences and sites vary dependent upon the selected rotation.\n\n Click the \nClerkship\n tab followed by \nAlternative Experience\n\n\n The \nAlternative Experience Requests\n screen is displayed\n\n Press the \nNew Request\n button\n\n Select the \nCourse\n, \nSite\n, \nAlternative Experience\n\n\n Add an \nExplanation\n for the request\n\n Press \nSubmit\n\nAfter submitting your request it will be forwarded to your clerkship coordinator. They can then either approve or deny the request.\n    * \nIf Approved:\n Log your alternative experience in the logbook with an explanation that you satisfied the requirement through a pre-approved alternative experience\n    * \nIf Denied:\n You will still need to complete the originally required logbook experiences, and cannot satisfy a requirement with the requested alternative experience\n\n\nView Status of Request\n\n\n\n\nTo view the status of your request at any time click on \nClerkship\n followed by \nAlternative Experience\n.",
             "title": "MedLearn / Alternative Experience"
         },
         {
-            "location": "/17_MedLearn_AltExp/#medlearn-alternative-experiences",
+            "location": "/17_MedLearn_AltExp/#medlearn-request-alternative-experiences",
             "text": "",
-            "title": "MedLearn - Alternative Experiences"
+            "title": "MedLearn - Request Alternative Experiences"
         },
         {
             "location": "/17_MedLearn_AltExp/#request-an-alternative-experience",
-            "text": "Click the  Clerkship  tab followed by  Alternative Experience    The  Alternative Experience Requests  screen is displayed  Click the  New Request  button  Enter the rotation, alternative experience, and explanation for the request.     After submitting your request it will be forwarded to your clerkship coordinator. They can then either approve or deny the request.   If Approved:  Log your alternative experience in the logbook with an explanation that you satisfied the requirement through a pre-approved alternative experience.   If Denied:  You will still need to complete the originally required logbook experiences, and cannot satisfy a requirement with the requested alternative experience.",
+            "text": "Alternative experiences and sites vary dependent upon the selected rotation.  Click the  Clerkship  tab followed by  Alternative Experience   The  Alternative Experience Requests  screen is displayed  Press the  New Request  button  Select the  Course ,  Site ,  Alternative Experience   Add an  Explanation  for the request  Press  Submit \nAfter submitting your request it will be forwarded to your clerkship coordinator. They can then either approve or deny the request.\n    *  If Approved:  Log your alternative experience in the logbook with an explanation that you satisfied the requirement through a pre-approved alternative experience\n    *  If Denied:  You will still need to complete the originally required logbook experiences, and cannot satisfy a requirement with the requested alternative experience",
             "title": "Request an Alternative Experience"
         },
         {
