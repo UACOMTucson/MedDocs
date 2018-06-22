@@ -1,28 +1,17 @@
 # MedLearn - Logbook
-## Add Logbook Encounters
-![Patient Ecounters](./images/student-logbook.png)
+## Log Patient Cases, Procedures and/or HP Feedback (A.K.A. Encounters)
 
-* Click the **Clerkship** tab followed by **Logbook** 
-* The **Encounter Tracking Entries** screen is displayed
-* Click the **Log Entry** button, log types include:
-    * Patient
-        * Clinical Form
-        * OR Form
-    * Procedure
-* Select the **Encounter Date** and time
-* Select the **Log Type**
-* Select the **Rotation**
-* Select the **Institution**
-* Select a **Case or Procedure**
-* Select a **Participation Level** _(Patient Cases Only)_
-* Add **Case Notes** _(Patient Cases Only)_
-* Press the **Submit** button
 
-## Edit Logbook Encounter
-_**NOTE:**  Changes are allowed only to encounters in the currently enrolled rotation._
-
-* Return to the Encounter Tracking Entries screen
-* Click on the entry you wish to edit
-  * The Search field can be used to filter the list of encounters
-* Update applicable information
-* Press the Submit button
+* Click the **Clerkship** tab followed by **Logbook**
+* The **Encounter Tracking** screen will be displayed
+* **Select a Clerkship Course** from the dropdown
+    * Only the clerkship rotations you are enrolled in will be available for selection
+* The list of required case types will be displayed
+* Expand each required case type by clicking the **+**
+* The first column shows the total number of each case required
+* The second column shows the total number of each case remaining
+    * The number will turn green when the required number of cases have been logged
+* Click on a case to **Add/Edit Entry**
+* Enter the required fields
+    * Click the fields to display dropdown values
+* Press the **Save** button to save the logbook entry
