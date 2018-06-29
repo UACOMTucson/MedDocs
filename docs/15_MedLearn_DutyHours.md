@@ -1,6 +1,6 @@
 # MedLearn - Duty Hours
 
-https://arizona.box.com/s/pw13j4l1vigs68759wzr9g80bxdso1e2
+[To Access Video](https://arizona.box.com/s/pw13j4l1vigs68759wzr9g80bxdso1e2)
 
 ## Add Duty Hours
 

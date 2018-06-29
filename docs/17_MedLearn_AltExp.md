@@ -1,6 +1,6 @@
 # MedLearn - Request Alternative Experiences
 
-https://arizona.box.com/s/k35uyeo9evsqnms33itwcf3l9u7qhroa
+[To Access Video](https://arizona.box.com/s/k35uyeo9evsqnms33itwcf3l9u7qhroa)
 
 ## Request an Alternative Experience
 Alternative experiences and sites vary dependent upon the selected rotation.
