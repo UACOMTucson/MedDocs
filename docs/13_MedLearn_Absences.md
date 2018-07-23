@@ -1,8 +1,10 @@
 # MedLearn - Absence Requests
 
-The Attendance Policy is located on the COM-T website at [http://medicine.arizona.edu/students/student-policies-forms](http://medicine.arizona.edu/students/student-policies-forms). 
+The Attendance Policy is located on the COM-T website at [http://medicine.arizona.edu/students/student-policies-forms](http://medicine.arizona.edu/students/student-policies-forms).
 
 Please familiarize yourself with the policy before submitting requests.
+
+[To Access Video](https://arizona.box.com/s/zzne2egck0i4ldygkqxnqxdhb3ir7h79)
 
 * Select My Absence Requests from My MedLearn
 * Any previously-requested absences will be displayed with their current status

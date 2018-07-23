@@ -13,7 +13,7 @@ Students may be excused from mandatory classroom and clinical activities for cau
   * Status
   * Comments
 
-  
+
   ![Absences Main](./images/AbsencesMain_Coordinator.png)
 
 ###	Enter Absences
