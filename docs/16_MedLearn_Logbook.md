@@ -1,7 +1,10 @@
 # MedLearn - Logbook
 ## Log Patient Cases, Procedures and/or HP Feedback (A.K.A. Encounters)
 
-[To Access Video](https://arizona.box.com/s/ekt4pczjw116e7a6wo0fz3mmyqmpjtl9)
+Video Tutorial:
+
+  <iframe src="https://arizona.app.box.com/embed/s/ekt4pczjw116e7a6wo0fz3mmyqmpjtl9" width="600" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe> 
+
 
 * Click the **Clerkship** tab followed by **Logbook**
 * The **Encounter Tracking** screen will be displayed
