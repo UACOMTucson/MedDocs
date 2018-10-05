@@ -6,15 +6,15 @@ You can click on an event to view event details; who the lecturer is; where the 
 
 ![Events](./images/student-event.png)
 
-## Course and Event Information (1)
+## Course and Event Information
 
 At the top of the event overview page you will see what course the event belongs to in addition to the event title. 
 
-## Event Description (2)
+## Event Description
 
 Optionally, the event's teaching faculty, course director and/or coordinator can add an event description to give students an overview of the topic. 
 
-## Event Details (3)
+## Event Details
 
 The event details table provides you with a lot of important information such as:
 
@@ -28,18 +28,18 @@ The event details table provides you with a lot of important information such as
 * Who the lecturer of the event is
 * Who the audience of the event is (if provided)
 
-## Student Information (4)
+## Student Information
 
 If the teaching faculty, course director or coordinator has a message to relay to the students about the event, information will be entered in this section. For example they might make note of a guest presenter or if standardized patients will be present. 
 
-## Event Keywords (5)
+## Event Keywords
 
 Event Keywords include MeSH (Medical Subject Headings) terms that Curricular Affairs has associated with the event for reporting purposes. 
 
-## Event Specific Objectives (6)
+## Event Specific Objectives
 
 Event Specific Objectives are the objectives that will be covered during the session. The objectives should match those in the notes provided by the teaching faculty, but there could also be additional objectives attached from other tag sets such as Vocabulary. Vocabulary terms identify threads and disciplines that are covered during this event. 
 
-## Event Resources (7)
+## Event Resources
 
 The course coordinator will post all notes, slides, readings, and any other event specific resources to this section. Some resources have a timeframe associated with them (e.g. before class, during class, after class). Also, a resource can be marked as required or optional. 
