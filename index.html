@@ -7,24 +7,25 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="None">
   
-  <link rel="shortcut icon" href="./img/favicon.ico">
+  <link rel="shortcut icon" href="img/favicon.ico">
   <title>Welcome - MedDocs for Students</title>
   <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
 
-  <link rel="stylesheet" href="./css/theme.css" type="text/css" />
-  <link rel="stylesheet" href="./css/theme_extra.css" type="text/css" />
-  <link rel="stylesheet" href="./css/highlight.css">
+  <link rel="stylesheet" href="css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="css/theme_extra.css" type="text/css" />
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
   
   <script>
     // Current page data
     var mkdocs_page_name = "Welcome";
     var mkdocs_page_input_path = "index.md";
-    var mkdocs_page_url = "/";
+    var mkdocs_page_url = null;
   </script>
   
-  <script src="./js/jquery-2.1.1.min.js"></script>
-  <script src="./js/modernizr-2.8.3.min.js"></script>
-  <script type="text/javascript" src="./js/highlight.pack.js"></script> 
+  <script src="js/jquery-2.1.1.min.js" defer></script>
+  <script src="js/modernizr-2.8.3.min.js" defer></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
   
 </head>
 
@@ -38,7 +39,7 @@
         <a href="." class="icon icon-home"> MedDocs for Students</a>
         <div role="search">
   <form id ="rtd-search-form" class="wy-form" action="./search.html" method="get">
-    <input type="text" name="q" placeholder="Search docs" />
+    <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
   </form>
 </div>
       </div>
@@ -200,7 +201,7 @@
 <p>MedDocs is a repository of resources for College of Medicine-Tucson educational applications and systems. MedDocs contains user guides, illustrations, and video demonstrations. </p>
 <p><strong>What applications does MedDocs currently support?</strong></p>
 <p>Currently, MedDocs has resources for MedPortal, MedLearn, and MedReports. MedDocs will continue to expand. </p>
-<p><img alt="logos" src="./images/logos.png" /></p>
+<p><img alt="logos" src="images/logos.png" /></p>
 <p><strong>What if I need additional help?</strong></p>
 <p>Please contact the IT Service Desk. If they are unable to assist you they will forward your request to the Project/Operations Team. <a href="http://medicine.arizona.edu/faculty-staff/offices/information-technology-services">Here is the link to the COM-T ITS Website</a>.</p>
               
@@ -243,14 +244,13 @@
     </span>
 </div>
     <script>var base_url = '.';</script>
-    <script src="./js/theme.js"></script>
-      <script src="./search/require.js"></script>
-      <script src="./search/search.js"></script>
+    <script src="js/theme.js" defer></script>
+      <script src="search/main.js" defer></script>
 
 </body>
 </html>
 
 <!--
-MkDocs version : 0.17.4
-Build Date UTC : 2018-07-23 19:12:04
+MkDocs version : 1.0.4
+Build Date UTC : 2018-10-05 16:32:33
 -->

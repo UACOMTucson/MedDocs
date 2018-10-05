@@ -13,18 +13,19 @@
 
   <link rel="stylesheet" href="../css/theme.css" type="text/css" />
   <link rel="stylesheet" href="../css/theme_extra.css" type="text/css" />
-  <link rel="stylesheet" href="../css/highlight.css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
   
   <script>
     // Current page data
     var mkdocs_page_name = "MedLearn / Learning Events";
     var mkdocs_page_input_path = "06_MedLearn_Events.md";
-    var mkdocs_page_url = "/06_MedLearn_Events/";
+    var mkdocs_page_url = null;
   </script>
   
-  <script src="../js/jquery-2.1.1.min.js"></script>
-  <script src="../js/modernizr-2.8.3.min.js"></script>
-  <script type="text/javascript" src="../js/highlight.pack.js"></script> 
+  <script src="../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
   
 </head>
 
@@ -38,7 +39,7 @@
         <a href=".." class="icon icon-home"> MedDocs for Students</a>
         <div role="search">
   <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
-    <input type="text" name="q" placeholder="Search docs" />
+    <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
   </form>
 </div>
       </div>
@@ -86,19 +87,19 @@
     
         <ul>
         
-            <li><a class="toctree-l3" href="#course-and-event-information-1">Course and Event Information (1)</a></li>
+            <li><a class="toctree-l3" href="#course-and-event-information">Course and Event Information</a></li>
         
-            <li><a class="toctree-l3" href="#event-description-2">Event Description (2)</a></li>
+            <li><a class="toctree-l3" href="#event-description">Event Description</a></li>
         
-            <li><a class="toctree-l3" href="#event-details-3">Event Details (3)</a></li>
+            <li><a class="toctree-l3" href="#event-details">Event Details</a></li>
         
-            <li><a class="toctree-l3" href="#student-information-4">Student Information (4)</a></li>
+            <li><a class="toctree-l3" href="#student-information">Student Information</a></li>
         
-            <li><a class="toctree-l3" href="#event-keywords-5">Event Keywords (5)</a></li>
+            <li><a class="toctree-l3" href="#event-keywords">Event Keywords</a></li>
         
-            <li><a class="toctree-l3" href="#event-specific-objectives-6">Event Specific Objectives (6)</a></li>
+            <li><a class="toctree-l3" href="#event-specific-objectives">Event Specific Objectives</a></li>
         
-            <li><a class="toctree-l3" href="#event-resources-7">Event Resources (7)</a></li>
+            <li><a class="toctree-l3" href="#event-resources">Event Resources</a></li>
         
         </ul>
     
@@ -217,11 +218,11 @@
 <p>When you click on Learning Events in the main menu, you will see a list of events in which you are part of the audience of. On the main screen with the list of events you can apply filters to refine the list of events that displays, additionally you can change your view to be daily, weekly, monthly, or yearly. </p>
 <p>You can click on an event to view event details; who the lecturer is; where the event takes place; whether or not the event is podcasted, requires professional dress, or has required attendance; event objectives, and more. </p>
 <p><img alt="Events" src="../images/student-event.png" /></p>
-<h2 id="course-and-event-information-1">Course and Event Information (1)</h2>
+<h2 id="course-and-event-information">Course and Event Information</h2>
 <p>At the top of the event overview page you will see what course the event belongs to in addition to the event title. </p>
-<h2 id="event-description-2">Event Description (2)</h2>
+<h2 id="event-description">Event Description</h2>
 <p>Optionally, the event's teaching faculty, course director and/or coordinator can add an event description to give students an overview of the topic. </p>
-<h2 id="event-details-3">Event Details (3)</h2>
+<h2 id="event-details">Event Details</h2>
 <p>The event details table provides you with a lot of important information such as:</p>
 <ul>
 <li>Date and Time of Event</li>
@@ -234,13 +235,13 @@
 <li>Who the lecturer of the event is</li>
 <li>Who the audience of the event is (if provided)</li>
 </ul>
-<h2 id="student-information-4">Student Information (4)</h2>
+<h2 id="student-information">Student Information</h2>
 <p>If the teaching faculty, course director or coordinator has a message to relay to the students about the event, information will be entered in this section. For example they might make note of a guest presenter or if standardized patients will be present. </p>
-<h2 id="event-keywords-5">Event Keywords (5)</h2>
+<h2 id="event-keywords">Event Keywords</h2>
 <p>Event Keywords include MeSH (Medical Subject Headings) terms that Curricular Affairs has associated with the event for reporting purposes. </p>
-<h2 id="event-specific-objectives-6">Event Specific Objectives (6)</h2>
+<h2 id="event-specific-objectives">Event Specific Objectives</h2>
 <p>Event Specific Objectives are the objectives that will be covered during the session. The objectives should match those in the notes provided by the teaching faculty, but there could also be additional objectives attached from other tag sets such as Vocabulary. Vocabulary terms identify threads and disciplines that are covered during this event. </p>
-<h2 id="event-resources-7">Event Resources (7)</h2>
+<h2 id="event-resources">Event Resources</h2>
 <p>The course coordinator will post all notes, slides, readings, and any other event specific resources to this section. Some resources have a timeframe associated with them (e.g. before class, during class, after class). Also, a resource can be marked as required or optional. </p>
               
             </div>
@@ -286,9 +287,8 @@
     </span>
 </div>
     <script>var base_url = '..';</script>
-    <script src="../js/theme.js"></script>
-      <script src="../search/require.js"></script>
-      <script src="../search/search.js"></script>
+    <script src="../js/theme.js" defer></script>
+      <script src="../search/main.js" defer></script>
 
 </body>
 </html>
