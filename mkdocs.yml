@@ -1,6 +1,6 @@
 site_name: MedDocs for Students
 
-pages:
+nav:
 - Welcome: "index.md"
 - MedPortal: "01_MedPortal.md"
 - MedLearn: "02_MedLearn.md"
