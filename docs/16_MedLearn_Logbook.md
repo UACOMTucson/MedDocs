@@ -3,7 +3,9 @@
 
 Video Tutorial:
 
-  <iframe src="https://arizona.app.box.com/embed/s/ekt4pczjw116e7a6wo0fz3mmyqmpjtl9" width="600" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe> 
+  <video width="80%" controls="controls">
+<source src="https://arizona.box.com/shared/static/ekt4pczjw116e7a6wo0fz3mmyqmpjtl9.mp4" type="video/mp4">
+</video>
 
 
 * Click the **Clerkship** tab followed by **Logbook**

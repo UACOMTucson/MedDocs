@@ -1,6 +1,8 @@
 # MedLearn - Dashboard
 
-[To Access Video](https://arizona.box.com/s/mmng5mos6kokxureeyf9yfuwm8f5xxbi)
+  <video width="80%" controls="controls">
+<source src="https://arizona.box.com/shared/static/mmng5mos6kokxureeyf9yfuwm8f5xxbi.mp4" type="video/mp4">
+</video>
 
 The dashboard is displayed by default when logging in to MedLearn. If you navigate away from the dashboard, simply click on the MedLearn logo or the dashboard link to return to it.
 

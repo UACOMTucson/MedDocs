@@ -1,6 +1,8 @@
 # MedLearn - Duty Hours
 
-[To Access Video](https://arizona.box.com/s/pw13j4l1vigs68759wzr9g80bxdso1e2)
+<video width="80%" controls="controls">
+<source src="https://arizona.box.com/shared/static/pw13j4l1vigs68759wzr9g80bxdso1e2.mp4" type="video/mp4">
+</video>
 
 ## Add Duty Hours
 
