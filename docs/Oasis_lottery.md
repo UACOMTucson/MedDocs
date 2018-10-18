@@ -9,7 +9,7 @@ OASIS Clerkship Lottery
 
 ##What is the OASIS Clerkship Lottery?
 
-The OASIS Clerkship lottery is used to assign the 3rd rotation schedule. Students are asked to rank all possible schedules, called grids, in order from most to least preferred. This lottery is run twice a year to determine the Fall and Spring semester schedules. The system is then run at a designated time wherein it tries to give everyone the highest choice possible while accommodating the whole class. 
+The OASIS Clerkship lottery is used to assign the rotation schedule for the clerkship phase. Students are asked to rank all possible schedules, called grids, in order from most to least preferred. This lottery is run twice a year to determine the Fall and Spring semester schedules. The system is then run at a designated time wherein it tries to give everyone their highest choice possible while accommodating the entire class. 
 
 ##When is the lottery run?
 
@@ -17,4 +17,4 @@ Please refer to the second year scheduling meeting for the details on the open a
 
 ##Can I change grids if I do not like my schedule? 
 
-The lottery system is used to ensure fairness and try to maximize student satisfaction. Due to the limited amount of slots in each rotation date, the lottery results are final. 
+The lottery system is used to ensure fairness and try to maximize student satisfaction. Due to the limited amount of slots in each rotation date, the lottery results are final. During the first week after results are published, you are allowed to swap with a classmate if you both agree to do so.
