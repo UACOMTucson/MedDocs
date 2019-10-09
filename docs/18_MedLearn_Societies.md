@@ -36,3 +36,11 @@ Uploading a History & Physical Write-up
 * To upload, click the plus sign and select a file on your computer
 
 **Note:** After 24 hours, you will not be able to delete an uploaded file.
+
+
+##Benchmark
+<video width="80%" controls="controls">
+<source src="https://arizona.box.com/shared/static/01vyxyr18tt4oaxle56drutxuuyff0qt.mp4" type="video/mp4">
+</video>
+
+On the benchmark screen, students are able to self-assess on their growth and performance in Doctor and Patient across semesters, as well as see their mentors' feedback. 
