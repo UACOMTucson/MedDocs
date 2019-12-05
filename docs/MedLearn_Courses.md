@@ -1,5 +1,7 @@
 #MedLearn - Courses
 
+![Student Course Page](./images/student-courses.png)
+
 When you click on Courses in the main menu, you will see a list of courses you are enrolled in. You can click on a course to view course details, contacts, objectives, and more. 
 
 ## Course Details

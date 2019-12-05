@@ -1,5 +1,8 @@
 # MedLearn - Curriculum Search
 
+![Curriculum Search](./images/student-curriculumsearch.png)
+
+
 MedLearn gives students the ability to search the curriculum by topic to access learning materials/resources.  The search combs all learning materials, notes, PDFs, etc. for the topic.  **Please NOTE:**  Learning materials/resources are displayed for the entire curriculum.  Students have access only to the materials/resources from the courses in which they are enrolled.  
 
 Using **Advanced Options** will deliver more specific search results.

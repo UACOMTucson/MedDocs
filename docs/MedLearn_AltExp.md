@@ -3,9 +3,10 @@
 <video width="80%" controls="controls">
 <source src="https://arizona.box.com/shared/static/k35uyeo9evsqnms33itwcf3l9u7qhroa.mp4" type="video/mp4">
 </video>
-
+<br/>
 ## Request an Alternative Experience
-Alternative experiences and sites vary dependent upon the selected rotation.
+Alternative experiences and sites vary dependent upon the selected rotation.  
+
 * Click the **Clerkship** tab followed by **Alternative Experience**
 * The **Alternative Experience Requests** screen is displayed
 * Press the **New Request** button

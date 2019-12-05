@@ -27,8 +27,9 @@ In the Benchmarks & Advising tab students are able to view any advising comments
 
 
 ##Clinical Labs
-* Clinical labs for the entire academic year are entered into MedLearn at the beginning of the academic year and are available to view under the “Clinical Labs” link in the Societies navigation bar.
-* For each lab, your mentor will note whether you were prepared for the lab and can add additional comments for you.   
+Clinical labs for the entire academic year are entered into MedLearn at the beginning of the year and are available to view under the “Clinical Labs” link in the Societies navigation bar.   
+   
+For each lab, your mentor will note whether you were prepared for the lab and may enter any additional comments they have.   
 
 
 ##History & Physical
@@ -42,8 +43,8 @@ Uploading a History & Physical Write-up
 
 
 ##Reflections
-* In the reflections screen you will see all of the assigned reflections assignments and the due date for each as well as any files that your mentor has uploaded for that date.
-* To upload, click the plus sign and select a file on your computer
+In the reflections screen you will see all of the assigned reflections assignments and the due date for each as well as any files that your mentor has uploaded for that date.
+To upload, click the plus sign and select a file on your computer
 
 **Note:** After 24 hours, you will not be able to delete an uploaded file.
 
