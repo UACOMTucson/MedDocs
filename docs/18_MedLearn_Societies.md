@@ -15,6 +15,12 @@ Viewing Comments for Bedside Visit Evaluations
 * The matrix will update to display that date’s evaluation
 *Click the speech bubble in the bottom right corner of the Area/Level Column 
 
+##Bedside Competencies
+<video width="80%" controls="controls">
+<source src="https://arizona.box.com/shared/static/01vyxyr18tt4oaxle56drutxuuyff0qt.mp4" type="video/mp4">
+</video>
+
+On the Bedside Competencies screen, students are able to self-assess on their growth and performance in Doctor and Patient across semesters, as well as see their mentors' feedback. 
 
 ##History & Physical
 Uploading a History & Physical Write-up 
@@ -37,10 +43,6 @@ Uploading a History & Physical Write-up
 
 **Note:** After 24 hours, you will not be able to delete an uploaded file.
 
+##Benchmarks & Advising
+* In the Benchmarks & Advising tab students are able to view any advising comments and files uploaded by their mentor along with the date of the meeting.
 
-##Benchmark
-<video width="80%" controls="controls">
-<source src="https://arizona.box.com/shared/static/01vyxyr18tt4oaxle56drutxuuyff0qt.mp4" type="video/mp4">
-</video>
-
-On the benchmark screen, students are able to self-assess on their growth and performance in Doctor and Patient across semesters, as well as see their mentors' feedback. 
