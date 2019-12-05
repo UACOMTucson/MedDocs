@@ -1,5 +1,9 @@
 #MedLearn - Assessment & Evaluation (aka Surveys)
 
+<video width="80%" controls="controls">
+<source src="https://arizona.box.com/shared/static/ud3cjji3tku459kdccsg14mzb2128jlk.mp4" type="video/mp4">
+</video> <br /><br />
+
 When you click on Assessment & Evaluation at the top right corner of the screen, you will be able to complete assessment tasks, view tasks completed on yourself, and view your previously completed tasks. 
 
 ![Tasks](./images/all-assesstasks.png)

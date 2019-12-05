@@ -1,40 +1,43 @@
-#MedLearn - Assessment & Evaluation (aka Surveys)
+##Assessment and Evaluation
 
-[To Access Video](https://arizona.box.com/s/ud3cjji3tku459kdccsg14mzb2128jlk)
+When you click on Assessment & Evaluation at the top right corner of the screen, you will be able to complete assessment tasks, view tasks completed for yourself, and view your previously completed tasks.  
 
-When you click on Assessment & Evaluation at the top right corner of the screen, you will be able to complete assessment tasks, view tasks completed on yourself, and view your previously completed tasks.
+![Tasks](./images/all-assesstasks.png)
+
 * Refer to the top, right portion of the screen
 * Click the Assessment & Evaluation link to be directed to student assessments
 * Click the corresponding tab to view
     * **Assessment Tasks** – Course/instructor evaluations you must complete
     * **Tasks Completed on Me** – Results of assessments completed about you
     * **My completed Tasks** – Assessment tasks you have completed
+<br /><br />
 
+## View Pending Assessment Tasks
 
-![Tasks](./images/all-assesstasks.png)
-
-## Complete Assessment Tasks
+<video width="80%" controls="controls">
+<source src="https://arizona.box.com/shared/static/ud3cjji3tku459kdccsg14mzb2128jlk.mp4" type="video/mp4">
+</video> <br />
 
 * Click **Assessment Tasks**
 * Assessments to complete are displayed
-* Click **View Task**
+* Click **View Task** from the displayed list
 * Complete the fillable form
-* Press **Save as a Draft** to complete later or **Submit**
+* Press (a) **Save as a Draft** to complete later or (b) **Submit**
 
-## View Assessments Completed on you
+## View Assessments Completed on You
 
-Depending on the type of assessment, you might be able to view the results of a survey completed on you. Some results show the entire form, while others only show you the free text comments written about you
+For some assessments you are able to view the contents of a survey completed on you. Some results show the entire form, while others only show the free text comments. 
+
 * Click **Tasks Completed on Me**
 * To download a PDF version
     * Click the **Download PDF** box or
     * Press **Select All** followed by **Download PDF**
 
-## View Your Completed Tasks
+## View Your Previously Completed Tasks
 
-To review past surveys you filled out:
+Students are able to review previously completed surveys from the **My Completed Tasks** tab.  
 
 * Click on **My Completed Tasks**
 * Click **View Task** to review an individual survey
 * Click the **Download PDF** or **Select All** followed by **Download PDF** to download and review multiple surveys
 
-Completed tasks are not editable.

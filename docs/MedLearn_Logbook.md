@@ -1,13 +1,12 @@
 # MedLearn - Logbook
-## Log Patient Cases, Procedures and/or HP Feedback (A.K.A. Encounters)
+## Encounter Tracking
 
-Video Tutorial:
-
-  <video width="80%" controls="controls">
+<video width="80%" controls="controls">
 <source src="https://arizona.box.com/shared/static/ekt4pczjw116e7a6wo0fz3mmyqmpjtl9.mp4" type="video/mp4">
-</video>
+</video><br /><br />
 
 
+## Entering a New Encounter
 * Click the **Clerkship** tab followed by **Logbook**
 * The **Encounter Tracking** screen will be displayed
 * **Select a Clerkship Course** from the dropdown
