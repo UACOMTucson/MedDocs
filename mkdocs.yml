@@ -26,6 +26,9 @@ nav:
 - MedLearn & OneNote: "onenote.md"
 - MedReports: "MedReports.md"
 - OASIS / Third Year Lottery: "Oasis_lottery.md"
+- CUP: "CUP_Intro.md"
+- Cup Organizer: "cup_organizer.md"
+- Cup Student: "cup_student.md"
 
 theme:
     name: readthedocs
