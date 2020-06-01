@@ -2,7 +2,11 @@
 <h1>Cup Organizer Guide</h1>
 <body>
     <h2>1. Upgrading Account to an Organizer</h2>
-    <iframe src="https://arizona.app.box.com/embed/s/jbcjuozif8egyuixezyaen1lhdvviq3x?sortColumn=date&view=list" width="650" height="450" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+    <video width="80%" controls="controls">
+    <source
+    src="https://arizona.box.com/shared/static/jbcjuozif8egyuixezyaen1lhdvviq3x.mp4"
+    type="video/mp4">
+    </video>
     <p>Organizers must upgrade their Signup.com accounts to become organizers under the plan that the College of Medicine CUP clinic is subscribed to. In order to upgrade your account you will recieve an email with a promotion code that you will use to upgrade your account. Please follow these instructions to upgrade your account:</p>
     <ol>
     <li><b>Open</b> a browser and navigate to <a href="https://signup.com/" target="_blank">Signup.com</a></li>
@@ -20,7 +24,11 @@
         <li>You are now upgraded to an organizer for the College of Medicine CUP Clinic</li>
     </ol>
     <h2>2. Creating a Sign-up</h2>
-    <iframe src="https://arizona.app.box.com/embed/s/2711m693jgd6naxh7sg64xqeomt6lckd?sortColumn=date&view=list" width="650" height="450" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+    <video width="80%" controls="controls">
+    <source
+    src="https://arizona.box.com/shared/static/2711m693jgd6naxh7sg64xqeomt6lckd.mp4"
+    type="video/mp4">
+    </video>
     <p>As a Program Orgainzer the first step is to set up a sign-up. A sign-up represents an individual event. This event represents an instance of the Shubitz Clinic however, it can represent any event that is scheduled for the CUP Clinic. <br /><br />To create a sign-up please follow these steps:</p>
     <ol>
         <li>From the dashboard in your account</li>
@@ -68,7 +76,11 @@
         <p>You will now be asked to create spots</p><br />
     </ol>
         <h3>2.1 Create Spots for a Sign-up</h3>
-        <iframe src="https://arizona.app.box.com/embed/s/oslesr16gr7z6c4d6sql7bi8fv132210?sortColumn=date&view=list" width="650" height="450" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+        <video width="80%" controls="controls">
+        <source
+        src="https://arizona.box.com/shared/static/oslesr16gr7z6c4d6sql7bi8fv132210.mp4"
+        type="video/mp4">
+        </video>
         <p>Each signup needs spots to be created. These spots can be thought of as the positions that a student will sign up for. Each Sign-up should have one or more spots to be utilized for the event.<br /><br /> Creating the spots can be done while the Sign-up is created. To create spots follow these steps:</p>
         <ol>
             <li>After creating the Sign-up you will be navigated to a screen with a calendar</li>
@@ -111,7 +123,11 @@
         <h2>3. Managing your Sign-ups</h2>
         <p>After creating your signup there are a few configurations that you must complete before the Signup is ready to be listed for participants to see and signup for spots. Most of these items are required but some are not. The opttional configurations will be noted.</p>
         <h3>3.1 Email Preferences (Mandatory)</h3>
-        <iframe src="https://arizona.app.box.com/embed/s/2mwl1y8ujcn5gk19o1k4by8pxbsbx2v0?sortColumn=date&view=list" width="650" height="450" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+        <video width="80%" controls="controls">
+        <source
+        src="https://arizona.box.com/shared/static/2mwl1y8ujcn5gk19o1k4by8pxbsbx2v0.mp4"
+        type="video/mp4">
+        </video>
         <p>As an organizer you are able to set email preferences such as the ability to send automatic messages to participants who signed up for a spot a couple days prior to the event to remind them of their sign-up. You can also notify participants when spots have changes, to adding extra details to reminders.<br />To edit/set your email preferences please follow these steps:</p>
         <ol>
             <li><b>From</b> the Dashboard</li>
@@ -129,7 +145,11 @@
             ![SignupEPref3](./images/SignupEPref3.png)
             </ol>
             <h3>3.2 Premium Locking (Mandatory)</h3>
-            <iframe src="https://arizona.app.box.com/embed/s/ax8rfm6ypbam36m0n7eg96jgg9qctuf1?sortColumn=date&view=list" width="650" height="450" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+            <video width="80%" controls="controls">
+            <source
+            src="https://arizona.box.com/shared/static/ax8rfm6ypbam36m0n7eg96jgg9qctuf1.mp4"
+            type="video/mp4">
+            </video>
         <p>As an organizer you have the ability to lock down your Sign-up. You can tell theprogram when you want the Sign-up to open and allow participants to sign up for spots. You can also decide when the Sign-up will close and send email reminders notifying participants of when these dates will take place a few days prior to the dates taking effect. For the CUP Clinic Spots you must set the Sign-up to Lock 1 week prior to the activity date. The reminder must be set to send 2 days prior to the event locking date. (Ex: Signup takes place on March 10th 2020, Set locking date to March 3rd 2020, Send reminder on March 1st 2020.)<br />To set premium locking features please follow these steps:</p>
         <ol>
             <li><b>From</b> the Dashboard</li>
@@ -167,7 +187,11 @@
             ![SignupLock5](./images/SignupLock5.png)
         </ol>
             <h3>3.3 Publish to Group (Mandatory)</h3>
-            <iframe src="https://arizona.app.box.com/embed/s/orvit30p5snydu4ia6u4o2cqudnousbf?sortColumn=date&view=list" width="650" height="450" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+            <video width="80%" controls="controls">
+            <source
+            src="https://arizona.box.com/shared/static/orvit30p5snydu4ia6u4o2cqudnousbf.mp4"
+            type="video/mp4">
+            </video>
             <p>Publishing to the MedCats Group is mandatory as all Sign-ups must be present on the group page for all participants to sign-up to.<br />To Publish the Sign-up to the group page follow these steps:</p>
             <ol>
                 <li><b>From</b> the Dashboard</li>
@@ -182,7 +206,11 @@
                 ![SignupGroup3](./images/SignupGroup3.png)
             </ol>
             <h3>3.11 Check-in (Mandatory)</h3>
-            <iframe src="https://arizona.app.box.com/embed/s/vvb3jkww716uoh1eblu2zwsey7m53pim?sortColumn=date&view=list" width="650" height="450" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+            <video width="80%" controls="controls">
+            <source
+            src="https://arizona.box.com/shared/static/vvb3jkww716uoh1eblu2zwsey7m53pim.mp4"
+            type="video/mp4">
+            </video>
             <p>Signup.com allows Organizers to check in participants.<br />To Check in participants for your Signup Event</p>
             <ol>
                 <li><b>Hover</b> your mouse over My Tools in the menu</li>
@@ -231,7 +259,11 @@
                 ![SignupDeplicate5](./images/SignupDuplicate5.png)
             </ol>
             <h3>3.5 Assistant Organizers (Optional)</h3>
-            <iframe src="https://arizona.app.box.com/embed/s/q5ghh8ba9bvmh1jc19k2mcpu8qdoyvfn?sortColumn=date&view=list" width="650" height="450" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+            <video width="80%" controls="controls">
+            <source
+            src="https://arizona.box.com/shared/static/q5ghh8ba9bvmh1jc19k2mcpu8qdoyvfn.mp4"
+            type="video/mp4">
+            </video>
             <p>Assistant Organizers are individuals that you can assign privilages to so they will be able to manage and edit a signup that you created. Signup.com allows each signup the ability to have up to 15 Assistant Organizers. This section will explain the process on how to assign Assistant Organizers. A seperate user guide will be created for Assistant Organizers.<br />To assign an Assistant Organizer to your signup follow these steps:</p>
             <ol>
                 <li><b>From</b> the Dashboard</li>
@@ -249,7 +281,11 @@
                 ![SignupAssist3](./images/SignupAssist3.png)
             </ol>
             <h3>3.6 View Participants</h3>
-            <iframe src="https://arizona.app.box.com/embed/s/treua6tic78ta4nhknkpy40uh7xgiksu?sortColumn=date&view=list" width="650" height="450" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+            <video width="80%" controls="controls">
+            <source
+            src="https://arizona.box.com/shared/static/treua6tic78ta4nhknkpy40uh7xgiksu.mp4"
+            type="video/mp4">
+            </video>
             <p>To view all participants no matter what spot they signed up for:</p>
             <ol>
             <li><b>Click</b> Participants in the menu</li><br />
@@ -257,7 +293,11 @@
             <li>A list of participants will populate with the status of their invitations/signups</li>
             </ol>
             <h3>3.7 View Participants Per Spot</h3>
-            <iframe src="https://arizona.app.box.com/embed/s/gl0hnuxobxp9gz7g12dvx1a7r1bbbkvp?sortColumn=date&view=list" width="650" height="450" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+            <video width="80%" controls="controls">
+            <source
+            src="https://arizona.box.com/shared/static/gl0hnuxobxp9gz7g12dvx1a7r1bbbkvp.mp4"
+            type="video/mp4">
+            </video>
             <p>To view individual participants in a single spot</p>
             <ol>
             <li><b>Click</b> Spot in the menu</li>
@@ -266,7 +306,11 @@
             ![SignupViewParticipant1-1](./images/SignupViewParticipants1-1.png)
             </ol>
             <h3>3.8 Manage Participants in Each Spot</h3>
-            <iframe src="https://arizona.app.box.com/embed/s/km2s2v5a2n4cooftzofw7f9dwj943ded?sortColumn=date&view=list" width="650" height="450" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+            <video width="80%" controls="controls">
+            <source
+            src="https://arizona.box.com/shared/static/km2s2v5a2n4cooftzofw7f9dwj943ded.mp4"
+            type="video/mp4">
+            </video>
             <p>Signup.com gives you the ability to manage participants in each spot. For example, you can edit a participant for a spot such as delete them or assign an individual to a spot.<br />To Delete an individual from a spot:</p>
             <ol>
             <li><b>Click</b> Spot in the Menu</li>
@@ -289,7 +333,11 @@
             ![SignupManagePerson6](./images/SignupManagePerson6.png)
             </ol>
             <h3>3.9 Messaging (Optional)</h3>
-              <iframe src="https://arizona.app.box.com/embed/s/7ij7uyq2n8oso1rm7qcp3d6lrzso1yka?sortColumn=date&view=list" width="650" height="450" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe> 
+             <video width="80%" controls="controls">
+              <source
+              src="https://arizona.box.com/shared/static/7ij7uyq2n8oso1rm7qcp3d6lrzso1yka.mp4"
+              type="video/mp4">
+              </video>
             <p>Signup.com allows Organizers to send customized emails to all participants who have signed up for spots within the Signup.<br />To Send messages to all participants:</p>
             <ol>
             <li><b>Click</b> the Messages item in the menu</li>
@@ -311,7 +359,11 @@
             ![SignupMessage3](./images/SignupMessage3.png)
             </ol>
             <h3>3.10 Reporting (Optional)</h3>
-            <iframe src="https://arizona.app.box.com/embed/s/bnt4zlapt1opv8rwvwgc395bv3nneh47?sortColumn=date&view=list" width="650" height="450" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+            <video width="80%" controls="controls">
+            <source
+            src="https://arizona.box.com/shared/static/bnt4zlapt1opv8rwvwgc395bv3nneh47.mp4"
+            type="video/mp4">
+            </video>
             <p>Signup.com allows Organizers to gather reports. Assistant Organizers can access these reports from a Signup Level only.<br />To Generate reports for a Signup:</p>
             <ol>
             <li><b>Click</b> Reports in the Menu</li><br />
