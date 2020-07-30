@@ -60,5 +60,14 @@ type="video/mp4">
 <li><b>Confirm</b> your removal</li><br />
 ![StudentRemove3](./images/StudentRemove3.png)
 </ol> 
+<h2>4. Find the organizer for your event</h2>
+<p>If there is any questions regarding the event that you signed up for or if you need to contact the organizer for any reason please follow these instructions on how to get the information for your organizer:</p>
+<ol>
+<li><b>Log into</b> Signup.com</li>
+<li><b>Scroll</b> down and <b>select</b> the event you signed up for in the My Invitations section</li></br>
+![SignupOrganizer1](./images/SignupOrganizer1.png)
+<li><b>Click</b> the index card in the left hand menu</li></br>
+![SignupOrganizer2](./images/SignupOrganizer2.png)
+</li>The organizer's contact information will be listed</li>
 </body>
 </html>
