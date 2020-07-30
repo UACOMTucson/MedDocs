@@ -205,7 +205,7 @@
                 <li><b>Click</b> OK</li><br />
                 ![SignupGroup3](./images/SignupGroup3.png)
             </ol>
-            <h3>3.11 Check-in (Mandatory)</h3>
+            <h3>3.4 Check-in (Mandatory)</h3>
             <video width="80%" controls="controls">
             <source
             src="https://arizona.box.com/shared/static/vvb3jkww716uoh1eblu2zwsey7m53pim.mp4"
@@ -220,7 +220,7 @@
                 <li><b>Click</b> Next on the next screen</li><br />
                 ![SignupReport2](./images/SignupReport2.png)
                 <li><b>Select</b> the signup that will need to be checked in</li> 
-                <li><b>Click Next</li><br />
+                <li><b>Click</b> Next</li><br />
                 ![SignupCheckin2](./images/SignupCheckin2.png)
                 <li><b>Click</b> Next leaving the options unchecked on the next screen</li><br />
                 ![SignupCheckin3](./images/SignupCheckin3.png)
@@ -231,7 +231,31 @@
                 ![SignupCheckin4](./images/SignupCheckin4.png)
                 <li><b>Repeat</b> for each participant.</li>
             </ol>
-            <h3>3.4 Duplicating signups (Optional)</h3>
+            <h3>3.5 Commenting Changes for Special Circumstances (Mandatory - Only if special circumstances need to be considered)</h3>
+            <p>Each registrant for a signup has the ability to comment in any issues that may arise from a particular event. If anything changes that the Organizer needs to comment they can do so within the signup itself so the person who is providing the reports for hours can make any adjustments as needed.</p>
+            <p>To comment a signup please complete the following:</p>
+            <ol>
+                <li><b>Log into</b> Signup.com</li>
+                <li>On the Dashboard <b>select</b> the event that needs to be commented</li></br>
+                ![SignupComment1](./images/SignupComment1.png)
+                <li><b>Click</b> the Participants Tab</li>
+                <li><b>Click</b> the Participant that needs to be commented on</li><br />
+                ![SignupComment2](./images/SignupComment1.png)
+                <li><b>Click</b> the comment icon for the appropriate spot that the participant needs to have commented</li></br>
+                ![SignupComment3](./images/SignupComment3.png)
+                <li><b>Add</b> the comment that needs to be notated in the Comments Box</li>
+                <li><b>Click</b> add</li></br>
+                ![SignupComment4](./images/SignupComment4.png)
+                <li><b>Notice</b> the comment has been added</li>
+                <li><b>Click</b> the X at the top right corner of the comment box</li><br />
+                ![SignupComment5](./images/SignupComment5.png)
+                <li><b>Click</b> Save in the Participant Details box</li><br />
+                ![SignupComment6](./images/SignupComment6.png)
+                <li>The participant has been commented</li>
+                </ol>
+                <p>You can use this field in the event that you need to explain anything that needs to be communicated with the person who will be responsible for pulling the correct report for student hours.
+                </p>
+            <h3>3.6 Duplicating signups (Optional)</h3>
             <p>Duplicating signups allows the entire signup to be duplicated, this includes duplicating the spots and most settings within the original signup. The oprion is perfect for enforcing locking rules for recurring spots that occure once a month.<br />To duplicate a signup:</p>
             <ol>
                 <li><b>Click</b> the Dashboard</li>
@@ -258,7 +282,7 @@
                 <li><b>Click</b> update</li><br />
                 ![SignupDeplicate5](./images/SignupDuplicate5.png)
             </ol>
-            <h3>3.5 Assistant Organizers (Optional)</h3>
+            <h3>3.7 Assistant Organizers (Optional)</h3>
             <video width="80%" controls="controls">
             <source
             src="https://arizona.box.com/shared/static/q5ghh8ba9bvmh1jc19k2mcpu8qdoyvfn.mp4"
@@ -280,7 +304,7 @@
                 <li><b>Repeat</b> steps 6 – 8</li><br />
                 ![SignupAssist3](./images/SignupAssist3.png)
             </ol>
-            <h3>3.6 View Participants</h3>
+            <h3>3.8 View Participants</h3>
             <video width="80%" controls="controls">
             <source
             src="https://arizona.box.com/shared/static/treua6tic78ta4nhknkpy40uh7xgiksu.mp4"
@@ -292,7 +316,7 @@
             ![SignupViewParticipant1](./images/SignupViewParticipants1.png)
             <li>A list of participants will populate with the status of their invitations/signups</li>
             </ol>
-            <h3>3.7 View Participants Per Spot</h3>
+            <h3>3.9 View Participants Per Spot</h3>
             <video width="80%" controls="controls">
             <source
             src="https://arizona.box.com/shared/static/gl0hnuxobxp9gz7g12dvx1a7r1bbbkvp.mp4"
@@ -305,7 +329,7 @@
             <li><b>Notice</b> each spot is listed with the participant who is assigned to the spot</li><br />
             ![SignupViewParticipant1-1](./images/SignupViewParticipants1-1.png)
             </ol>
-            <h3>3.8 Manage Participants in Each Spot</h3>
+            <h3>3.10 Manage Participants in Each Spot</h3>
             <video width="80%" controls="controls">
             <source
             src="https://arizona.box.com/shared/static/km2s2v5a2n4cooftzofw7f9dwj943ded.mp4"
@@ -332,7 +356,7 @@
             <li>They will be assigned to the spot and an email invitation will be sent to them</li><br />
             ![SignupManagePerson6](./images/SignupManagePerson6.png)
             </ol>
-            <h3>3.9 Messaging (Optional)</h3>
+            <h3>3.11 Messaging (Optional)</h3>
              <video width="80%" controls="controls">
               <source
               src="https://arizona.box.com/shared/static/7ij7uyq2n8oso1rm7qcp3d6lrzso1yka.mp4"
@@ -358,7 +382,7 @@
             <li><b>Click</b> Send to send</li><br />
             ![SignupMessage3](./images/SignupMessage3.png)
             </ol>
-            <h3>3.10 Reporting (Optional)</h3>
+            <h3>3.12 Reporting (Optional)</h3>
             <video width="80%" controls="controls">
             <source
             src="https://arizona.box.com/shared/static/bnt4zlapt1opv8rwvwgc395bv3nneh47.mp4"
