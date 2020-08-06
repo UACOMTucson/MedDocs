@@ -30,13 +30,14 @@ type="video/mp4">
 <h2>2. Signing up for CUP Clinic Spots</h2>
 <p>When CUP Clinic sign-ups are available you will access the events by clicking on a link in MedCats. The Link will navigate you to signup.com with a list of all available spots for the CUP clinic.<br /> To register a spot:</p>
 <ol>
-<li><b>Click</b> the link to be navigated to Sign-up.com</li>
+<li><b>Click</b> the link to be navigated to Sign-up.com</li></br>
+![SignupMedCatsLink](./images/SignupMedCatsLink.png)
 <li>You will find all Sign-ups available for the CUP Clinic</li>
 <li><b>Click</b> View next to each Sign-up to view available spots</b><br /><br />
 ![StudentSpot1](./images/StudentSpot1.png)
-<li>Once you find a spot to sign up for Click the Green Sign Up button</li><br />
+<li>Once you find a spot to sign up for <b>Click</b> the Green Sign Up button</li><br />
 ![StudentSpot2](./images/StudentSpot2.png)
-<li>Sign in with your NetID@email.arizona.edu and <b>Click</b> Continue</li><br />
+<li><b>Sign in</b> with your NetID@email.arizona.edu and <b>Click</b> Continue</li><br />
 ![StudentSpot3](./images/StudentSpot3.png)
 <li><b>Confirm</b> your email</li><br />
 ![StudentSpot4](./images/StudentSpot4.png)
