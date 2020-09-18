@@ -230,6 +230,7 @@
                 <li><b>Click</b> Done</li><br />
                 ![SignupCheckin4](./images/SignupCheckin4.png)
                 <li><b>Repeat</b> for each participant.</li>
+                <p><b>Important Note</b> It is very important that you checkin the participants <b>DURING</b> the event. If the participant is not checked into the event they will be assumed to have missed the event and will not get credit for it. If you miss the checkin Organizers <b>MUST</b> check these participants in within 24hrs of the event. If not you will need to contact Hildi Williams to fix the issue.</p> 
             </ol>
             <h3>3.5 Commenting Changes for Special Circumstances (Mandatory - Only if special circumstances need to be considered)</h3>
             <p>Each registrant for a signup has the ability to comment in any issues that may arise from a particular event. If anything changes that the Organizer needs to comment they can do so within the signup itself so the person who is providing the reports for hours can make any adjustments as needed.</p>
@@ -394,5 +395,32 @@
             ![SignupReport1](./images/SignupReport1.png)
             <li><b>Select</b> a report to generate.</li>
             </ol>
+            <h3>3.13 Adding Participants to an event if the event has already passed</h3>
+            <p>Adding participants after an event is not a very good practice as all participants should have signed up for the event and the record will be created in Signup.com so hours can be given to the person who participated. However, we realize mistakes happen and as such Organizers can add participants to an event after it has taken place.<br /><br > There is a limited timelimit to complete these steps. Reports are pulled at the beginning of the month for the month prior. Example: Events for May are pulled in June. If a participant is added at the beginning of the month after an event happened the person will still not get credit as the report for that month has already been pulled. However, if the person is not registered for an event and that registration is added during the same month they will be counted as the report will pull the added person.<br /><br />If you miss this time window you will have to contact Hildi Williams to correct the issue. <b>Easy way to handle this is to not let it happen in the first place!</b> <br /><br />To add a person to an event that has already happened please follow these steps:<p>
+            <ol>
+            <li><b>Log Into</b> Signup.com</li>
+            <li><b>Click</b> on your dashboard tab</li>
+            <li><b>Click</b> on the event that you need to add the person to</li><br />
+            ![SignupAdd1](./images/SignupAdd1.png)
+            <li><b>Click</b> the Spots tab</li>
+            <li><b>Click</b> the List View for the spots</li>
+            <li><b>Find</b> the event date in the list and expand it.</li>
+            <li><b>Click</b> assign</li><br />
+            ![SignupAdd2](./images/SignupAdd2.png)
+            <li><b>Click</b> the Assign this spot field</li>
+            <li><b>Select</b> Add new Participant</li><br />
+            ![SignupAdd3](./images/SignupAdd3.png)
+            <li>The form will populate</li>
+            <li><b>Enter</b> the Name</li>
+            <li><b>Enter</b> the Email</li>
+            <li><b>Enter</b> the NetID - <b>This is important Enter the netID, if you don’t know it you can get it from the email address as the email is netid@email.arizona.edu</b></li>
+            <li><b>Click</b> done</li>
+            <li>They will be added to the event</li><br />
+            ![SignupAdd4](./images/SignupAdd4.png)
+            <li><b>Click</b> Comment in the event</li>
+            <li><b>Enter</b> a comment</li>
+            <li><b>Click</b> Add</li><br />
+            ![SignupAdd5](./images/SignupAdd5.png)
+            <li>The process is complete</li>
 </body>
 </html>
