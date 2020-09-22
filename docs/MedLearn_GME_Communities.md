@@ -7,7 +7,7 @@
 <h3>Log in via direct link to the Shelter</h3>
 <p>The Shelter will be housed in an area of MedLearn called communities. One of the ways to log into the Shelter would be via the direct link. To log into the Shelter via the direct link:</p>
 <ol>
-<li><b>Navigate</b> to <b>TBD</b></li>
+<li><b>Navigate</b> to <a href="https://medlearn.medicine.arizona.edu/community/onlinesheltersite">Online Shelter Site</a></li>
 <li><b>Click</b> login via UA NetId WebAuth</li>
 <li>You will see the homepage for the Shelter Community</li>
 ![GME_1](./images/GME_1.jpg)
@@ -20,7 +20,7 @@
 <li><b>Login</b> with your NetID and Password</li>
 <li><b>Click</b> the Communities tab</li>
 ![GME_2](./images/GME_2.jpg)
-<li><b>Click (link TBH)</b> in the My Communities menu</li>
+<li><b>Click <a href="https://medlearn.medicine.arizona.edu/community/onlinesheltersite">here</a></b> in the My Communities menu</li>
 ![GME_3](./images/GME_3.jpg)
 <li>You will see the homepage for the Shelter Community</li>
 ![GME_1](./images/GME_1.jpg)
