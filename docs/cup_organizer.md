@@ -75,6 +75,7 @@
         ![SignupCreate11](./images/SignupCreate11.png)
         <p>You will now be asked to create spots</p><br />
     </ol>
+    <p><b>Please note:</b> If you are needing to assign assistant organizers to your event please follow the instructions in Section 3.7 of this guide. <b>THIS IS VERY IMPORTANT: YOU MUST FIRST CREATE THE EVENT AS AN ORGANIZER IN THE COLLEGE OF MEDICINE ORGANIZATION THEN YOU CAN ASSIGN ASSISTANT ORGANIZERS.</b> If the primary organizer is not in the College of Medicine Organization for Signup.com we will not have any record of students signing up for the event and the hours will not be reflected at all.</p>
         <h3>2.1 Create Spots for a Sign-up</h3>
         <video width="80%" controls="controls">
         <source
@@ -115,7 +116,7 @@
         <p>This spot is used if you would like to add a these to your signup. By default nothing needs to be done on this page. Just <b>click</b> skip.</p><br />
         ![Themes1](./images/Themes1.png)<br />
         <h3>2.3 Invite People to your signup</h3>
-        <p>As a CUP Clinic Signup there wiould be no need to "Invite" participants as the calendar will be accessed from MedCats with all signups listed in a group page. If you would like to invite specific people or post the signup to Social Media you will be able to create a link to do that. However, this will not be completed from the page below. This ability will be discussed later in another section of this guide.</p>
+        <p>As a CUP Clinic Signup there is no need to "Invite" participants as the calendar will be accessed from MedCats with all signups listed in a group page. <b>PLEASE DO NOT GIVE STUDENTS INDIVIDUAL EVENT LINKS</b>.</p>
         <ul>
         <li><b>Click</b> done to finish creating your signup.</li><br />
         ![Invite1](./images/Invite1.png)
@@ -173,7 +174,7 @@
             <li>Open Date Check Box needs to be enabled for this section to be editable</li>
             </ul>
             <li><b>Check</b> the Opening Reminder box</li>
-            <li><b>Set</b> a send date</li> 
+            <li><b>Set</b> a send date</li>
             <li><b>Write</b> your message</li><br />
             ![SignupLock4](./images/SignupLock4.png)
             <li>If you want to set a Closing Reminder
@@ -181,7 +182,7 @@
             <li>Close Date Check Box needs to be enabled for this section to be editable</li>
             </ul>
             <li><b>Check</b> the Closing Reminder box</li>
-            <li><b>Set</b> a send date</li> 
+            <li><b>Set</b> a send date</li>
             <li><b>Write</b> your message</li>
             <li><b>Click</b> Save to set the preference</li><br />
             ![SignupLock5](./images/SignupLock5.png)
@@ -192,7 +193,7 @@
             src="https://arizona.box.com/shared/static/orvit30p5snydu4ia6u4o2cqudnousbf.mp4"
             type="video/mp4">
             </video>
-            <p>Publishing to the MedCats Group is mandatory as all Sign-ups must be present on the group page for all participants to sign-up to.<br />To Publish the Sign-up to the group page follow these steps:</p>
+            <p><b>Publishing to the MedCats Group is mandatory</b> as all Sign-ups must be present on the group page for all participants to sign-up to.<br />To Publish the Sign-up to the group page follow these steps:</p>
             <ol>
                 <li><b>From</b> the Dashboard</li>
                 <li><b>Find</b> your Sign-up (Ex. 2020-02 Shubitz Clinic)</li>
@@ -205,6 +206,7 @@
                 <li><b>Click</b> OK</li><br />
                 ![SignupGroup3](./images/SignupGroup3.png)
             </ol>
+            <p><b>NOTE:</b> This is the approved way to share the invitation for the event. This sight will show all events for every CUP Clinic that students can sign up for. Give students the link to this site to sign up for the event <a href="https://signup.com/Group/407029700153678030/" target="_blank">College of Medicine CUP Events</a>. There is no need to give students direct invites to specific events.</p>
             <h3>3.4 Check-in (Mandatory)</h3>
             <video width="80%" controls="controls">
             <source
@@ -219,7 +221,7 @@
                 <li><b>Click</b> Continue</li>
                 <li><b>Click</b> Next on the next screen</li><br />
                 ![SignupReport2](./images/SignupReport2.png)
-                <li><b>Select</b> the signup that will need to be checked in</li> 
+                <li><b>Select</b> the signup that will need to be checked in</li>
                 <li><b>Click</b> Next</li><br />
                 ![SignupCheckin2](./images/SignupCheckin2.png)
                 <li><b>Click</b> Next leaving the options unchecked on the next screen</li><br />
@@ -230,7 +232,7 @@
                 <li><b>Click</b> Done</li><br />
                 ![SignupCheckin4](./images/SignupCheckin4.png)
                 <li><b>Repeat</b> for each participant.</li>
-                <p><b>Important Note</b> It is very important that you checkin the participants <b>DURING</b> the event. If the participant is not checked into the event they will be assumed to have missed the event and will not get credit for it. If you miss the checkin Organizers <b>MUST</b> check these participants in within 24hrs of the event. If not you will need to contact Hildi Williams to fix the issue.</p> 
+                <p><b>Important Note</b> It is very important that you checkin the participants <b>DURING</b> the event. If the participant is not checked into the event they will be assumed to have missed the event and will not get credit for it. If you miss the checkin Organizers <b>MUST</b> check these participants in within 24hrs of the event. If not you will need to contact Hildi Williams to fix the issue.</p>
             </ol>
             <h3>3.5 Commenting Changes for Special Circumstances (Mandatory - Only if special circumstances need to be considered)</h3>
             <p>Each registrant for a signup has the ability to comment in any issues that may arise from a particular event. If anything changes that the Organizer needs to comment they can do so within the signup itself so the person who is providing the reports for hours can make any adjustments as needed.</p>
@@ -366,7 +368,7 @@
             <p>Signup.com allows Organizers to send customized emails to all participants who have signed up for spots within the Signup.<br />To Send messages to all participants:</p>
             <ol>
             <li><b>Click</b> the Messages item in the menu</li>
-            <li><b>Click</b> Select Email Participants</li><br /> 
+            <li><b>Click</b> Select Email Participants</li><br />
             ![SignupMessage1](./images/SignupMessage1.png)
             <li>You have the option to send to individual participants or by a specific group
             <ul>
