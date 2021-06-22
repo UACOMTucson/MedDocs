@@ -14,4 +14,4 @@ Under the Course Details section is the Course Objectives section. The course ob
 
 ## Course Resources
 
-Your Course Director and Coordinator will provide you will various resources relating to the course as a whole. Examples might include links to ILMs, a combined PDF of the class notes, pharmacology lists, and more. 
+Your Course Director and Coordinator will provide you with various resources relating to the course as a whole. Examples might include links to ILMs, a combined PDF of the class notes, pharmacology lists, and more. 
