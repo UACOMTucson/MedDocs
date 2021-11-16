@@ -30,6 +30,7 @@ nav:
 - CUP: "CUP_Intro.md"
 - Cup Organizer: "cup_organizer.md"
 - Cup Student: "cup_student.md"
+- Banner Cerner MFA: "Banner_Cerner_MFA.md"
 
 theme:
     name: readthedocs
