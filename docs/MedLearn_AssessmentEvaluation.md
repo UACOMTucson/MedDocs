@@ -2,7 +2,7 @@
 
 When you click on Assessment & Evaluation at the top right corner of the screen, you will be able to complete assessment tasks, view tasks completed for yourself, and view your previously completed tasks.  
 
-![Tasks](./images/all-assesstasks.png)
+![Tasks](./images/MedLearn/all-assesstasks.png)
 
 * Refer to the top, right portion of the screen
 * Click the Assessment & Evaluation link to be directed to student assessments

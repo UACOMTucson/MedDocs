@@ -11,7 +11,7 @@ In some instances ILMs will be required as part of a student's course. If an ILM
 * Scroll to the bottom of the page
 * Required ILMs are listed under the "My Required ILMs" heading
 
-![Required](./images/student-requiredILM.png)
+![Required](./images/MedLearn/student-requiredILM.png)
 <br/>
 
 ## View all available ILM's
@@ -19,4 +19,4 @@ In some instances ILMs will be required as part of a student's course. If an ILM
 * Click the ILM's tab from the navigation bar
 * Click a course from the ILM list to see affiliated offerings
 
-![ILM](./images/student-ilm.png)
+![ILM](./images/MedLearn/student-ilm.png)

@@ -1,6 +1,6 @@
 #Noteworthy Characteristics
 
-![Default Dashboard](./images/student-noteworthy.png)
+![Default Dashboard](./images/MedLearn/student-noteworthy.png)
 <br /><br />
 
 When the period to enter your characteristics is open you will be able to enter three characteristics to include in your MSPE. The characteristics entered will be reviewed with your dean.

@@ -1,4 +1,4 @@
-![iAnnotate Logo](./images/iannotate.png)
+![iAnnotate Logo](./images/MedLearn/iannotate.png)
 
 # MedLearn and iAnnotate
 

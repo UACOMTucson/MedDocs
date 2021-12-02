@@ -6,7 +6,7 @@
 
 The dashboard is displayed by default when logging in to MedLearn. If you navigate away from the dashboard, simply click on the MedLearn logo or the dashboard link to return to it.
 
-![Dashboard](./images/student-dashboard.png)
+![Dashboard](./images/MedLearn/student-dashboard.png)
 
 ##1. My MedLearn
 

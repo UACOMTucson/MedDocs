@@ -1,7 +1,7 @@
 # MedLearn - Societies
 
 
-![Societies](./images/student-societies.png)
+![Societies](./images/MedLearn/student-societies.png)
 
 
 
@@ -34,15 +34,15 @@ For each lab, your mentor will note whether you were prepared for the lab and ma
 
 ##History & Physical
 ###Uploading a History & Physical Write-up 
-<ul>
-    <li>Select the “History & Physical” option in the “My Societies” Navigation menu on the left hand bar</li>
-    <li>Here you can see all assigned H&P Write-ups, any documents uploaded by your mentor for each, and the visit and due date</li></br>
-    ![societies HP Column](/images/2_HP_Column.png)
-    <li>To upload, select the plus sign under the “Upload Write-up” column</li></br>
-    ![Choose File](./images/3_Choose_File.png)
-    <li>Click choose file and select your file you wish to upload</li></br>
-    ![Upload HP](./images/4_upload_hp.png)
-</ul>
+
+1. Select the “History & Physical” option in the “My Societies” Navigation menu on the left hand bar
+2. Here you can see all assigned H&P Write-ups, any documents uploaded by your mentor for each, and the visit and due date<br />
+![societies HP Column](/images/MedLearn/2_HP_Column.png)
+3. To upload, select the plus sign under the “Upload Write-up” column<br />
+![Choose File](./images/MedLearn/3_Choose_File.png)
+4. Click choose file and select your file you wish to upload
+![Upload HP](./images/MedLearn/4_upload_hp.png)
+
 
 **Note:** You can only delete an uploaded file if within 24 hours of your original upload
 

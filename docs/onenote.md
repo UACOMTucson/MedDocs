@@ -1,4 +1,4 @@
-![OneNote Logo](./images/onenote.png)
+![OneNote Logo](./images/MedLearn/onenote.png)
 
 # MedLearn and OneNote
 

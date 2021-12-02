@@ -13,49 +13,49 @@ These instructions will guide you through the Microsoft Authenticator app on you
 
 1. **Go to** <a href="https://mysignins.microsoft.com/security-info" target="_blank">Https://mysignins.microsoft.com/security-info</a>
 2. Select **+ Add Method**
-![1BannerMFA](./images/1BannerMFA.jpg)
+![1BannerMFA](./images/BannerCerner/1BannerMFA.jpg)
 3. Select **Authenticator App** from the drop down menu
-![2BannerMFA](./images/2BannerMFA.jpg)
+![2BannerMFA](./images/BannerCerner/2BannerMFA.jpg)
 4. On your personal device, download the Microsoft Authenticator app from the app store
     - For Android Devices - <a href="https://play.google.com/store/apps/details?id=com.azure.authenticator" target="_blank">https://play.google.com/store/apps/details?id=com.azure.authenticator</a>
     - For iOS Devices - <a href="https://apps.apple.com/us/app/microsoft-authenticator/id983156458" target="_blank">https://apps.apple.com/us/app/microsoft-authenticator/id983156458</a>
 5. After downloading the app, pres **Next** on your computer screen
-![3BannerMFA](./images/3BannerMFA.jpg)
+![3BannerMFA](./images/BannerCerner/3BannerMFA.jpg)
 6. On your personal device, follow the prompts on the screen to add an account in the Microsoft Authenticator App
     - Press **Add New Account**
     - Select **Work or School Account**
-![4BannerMFA](./images/4BannerMFA.jpg)
+![4BannerMFA](./images/BannerCerner/4BannerMFA.jpg)
     - Select **Scan QR Code** <br />
-![5BannerMFA](./images/5BannerMFA.jpg) 
+![5BannerMFA](./images/BannerCerner/5BannerMFA.jpg) 
 7. On your computer screen you will see the QR code unique to your registration
 8. Using your device's camera, place the QR image in the view finder to allow the app to scan the code
-![6BannerMFA](./images/6BannerMFA.jpg)
+![6BannerMFA](./images/BannerCerner/6BannerMFA.jpg)
 9. Click **Next** on your computer after you scan the QR code
-![7BannerMFA](./images/7BannerMFA.jpg)
+![7BannerMFA](./images/BannerCerner/7BannerMFA.jpg)
 10. A test notification will be sent to your personal device. Press **Approve** on your device to acknowledge the authentication test request
-![8BannerMFA](./images/8BannerMFA.jpg)
+![8BannerMFA](./images/BannerCerner/8BannerMFA.jpg)
 11. Click **Next** on your computer screen to complete the registration process
 
 ### If you have the Microsoft Authenticator app downloaded on your personal device and have a registered Banner account:
 1. Go to <a href="https://mysignins.microsoft.com/security-info" target="_blank">https://mysignins.microsoft.com/security-info</a>
 2. Select **+ Add method**
-![9BannerMFA](./images/9BannerMFA.jpg)
+![9BannerMFA](./images/BannerCerner/9BannerMFA.jpg)
 3. Select **Authenticator app** from the drop down menu
-![10BannerMFA](./images/10BannerMFA.jpg)
+![10BannerMFA](./images/BannerCerner/10BannerMFA.jpg)
 4. Press **Next** on your computer screen
-![11BannerMFA](./images/11BannerMFA.jpg)
+![11BannerMFA](./images/BannerCerner/11BannerMFA.jpg)
 5. Open the Microsoft Authenticator app
 6. Select your registered Banner account
-![12BannerMFA](./images/12BannerMFA.jpg)
+![12BannerMFA](./images/BannerCerner/12BannerMFA.jpg)
 7. Select **Set up 2-step verification**
-![13BannerMFA](./images/13BannerMFA.jpg)
+![13BannerMFA](./images/BannerCerner/13BannerMFA.jpg)
 8. On your computer screen you will see the QR code unique to your registration
 9. Using your device's camera, place the QR image in the view finder to allow the app to scan the code
-![14BannerMFA](./images/14BannerMFA.jpg)
+![14BannerMFA](./images/BannerCerner/14BannerMFA.jpg)
 10. Click **Next** on your computer after you scan the QR code
-![15BannerMFA](./images/15BannerMFA.jpg)
+![15BannerMFA](./images/BannerCerner/15BannerMFA.jpg)
 11. A test notification will be sent to your personal device. Press **Approve** on your device to acknowledge the authentication test request
-![16BannerMFA](./images/16BannerMFA.jpg)
+![16BannerMFA](./images/BannerCerner/16BannerMFA.jpg)
 12. Click **Next** on your computer screen to complete the registration process
 
 **Please be aware that this process is internal to Banner. The College of Medicine - Tucson IT Department does not have access to Banner's Azure MFA environment and as such cannot provide support for this process. If you need assistance please contact Banner IT at (520)694-4357.**

@@ -1,4 +1,4 @@
-![Notability Logo](./images/notability.png)
+![Notability Logo](./images/MedLearn/notability.png)
 
 # MedLearn and Notability
 

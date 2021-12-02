@@ -4,7 +4,7 @@ The Commitment to Underserved People (CUP) program at the University of Arizona 
 
 Medical Students who sign up and work these clinics are awarded hours for their time as requirements for classes and distinctions attached to their Medical Degrees. This sign-up process will be managed via [Signup.com](https://www.signup.com) . 
 
-![SignupFrontPage](./images/SignupFrontPage.jpg)
+![SignupFrontPage](./images/CUP/SignupFrontPage.jpg)
 
 This online document will be split into two sections:
 

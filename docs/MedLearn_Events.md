@@ -4,7 +4,7 @@ When you click on Learning Events in the main menu, you will see a list of event
 
 You can click on an event to view event details; who the lecturer is; where the event takes place; whether or not the event is podcasted, requires professional dress, or has required attendance; event objectives, and more. 
 
-![Events](./images/student-event.png)
+![Events](./images/MedLearn/student-event.png)
 
 ## Course and Event Information
 
