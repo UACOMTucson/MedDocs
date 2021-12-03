@@ -18,4 +18,4 @@ To edit an existing assessment:
 * When editing an existing assessment, you can edit the same fields as when you create an assessment from scratch.
 * Click **Save** after making any changes.
 
-![Grades Main](./images/GradesMain_Coordinator.png)
+![Grades Main](./images/MedLearn/GradesMain_Coordinator.png)

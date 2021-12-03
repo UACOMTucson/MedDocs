@@ -31,4 +31,4 @@ To remove all final course grades:
 * Confirm the desired action by clicking the **Are You Sure?** button
  * If you do not wish to confirm the action, click anywhere else on the screen
 
-![here](./images/Coordinator-ApplyFinalCourseGradeScreen.png)
+![here](./images/MedLearn/Coordinator-ApplyFinalCourseGradeScreen.png)

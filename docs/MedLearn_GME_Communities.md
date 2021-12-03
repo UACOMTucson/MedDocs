@@ -94,7 +94,7 @@ As a community member you will be allowed to post new threads to discussions. To
 As a community member you will be allowed to reply to discussion posts. To reply to a post:
 
 1. **Click** reply to post
-![GME_13](./images/GME_13.jpg)
+![GME_13](./images/GME/GME_13.jpg)
 2. **Enter** your post in the Post Body
 3. **Check** “Hide my name from other community members” so you can conserve anonymity
 4. **Decide** if you want to receive e-mails when people reply to this thread

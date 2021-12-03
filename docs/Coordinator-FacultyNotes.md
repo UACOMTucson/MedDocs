@@ -5,7 +5,7 @@ Block directors and coordinators have the ability to add  learning event-specifi
 * Click the **Learning Events** tab
 * Search for a specific learning event
 
-![Learning Event](./images/LearningEvents_Coordinator.png)
+![Learning Event](./images/MedLearn/LearningEvents_Coordinator.png)
 
 * Click the **Faculty Notes** tab
 * Press the **Add Faculty Note** button

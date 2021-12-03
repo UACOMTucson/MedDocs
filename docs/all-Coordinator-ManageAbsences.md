@@ -14,7 +14,7 @@ Students may be excused from mandatory classroom and clinical activities for cau
   * Comments
 
 
-  ![Absences Main](./images/AbsencesMain_Coordinator.png)
+  ![Absences Main](./images/MedLearn/AbsencesMain_Coordinator.png)
 
 ###	Enter Absences
 * Press the **Add Absence Request** button

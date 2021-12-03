@@ -5,7 +5,7 @@ hanges to events including: a description of the change, who made the change, da
 * Click the **Learning Events** tab
 * Search for a specific learning event
 
-![Learning Event](./images/LearningEvents_Coordinator.png)
+![Learning Event](./images/MedLearn/LearningEvents_Coordinator.png)
 
 Select the **History** tab
 

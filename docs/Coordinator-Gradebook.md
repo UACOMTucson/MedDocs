@@ -15,4 +15,4 @@ The second method is via the Course Setup dialog:
 * Select **Administrator View** from the left menu
 * Click the **Gradebook** tab
 
-![Grades Main](./images/GradesMain_Coordinator.png)
+![Grades Main](./images/MedLearn/GradesMain_Coordinator.png)

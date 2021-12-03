@@ -1,5 +1,5 @@
 ## Select (Search) Learning events
-![Events Main](./images/EventsMain_Coordinator.png)
+![Events Main](./images/MedLearn/EventsMain_Coordinator.png)
 
 * Return to the main screen
 * Click the **Learning Events** tab

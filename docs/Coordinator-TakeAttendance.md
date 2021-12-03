@@ -3,7 +3,7 @@
 * Click the **Learning Events** tab
 * Search for a specific learning event
 
-![Learning Event](./images/LearningEvents_Coordinator.png)
+![Learning Event](./images/MedLearn/LearningEvents_Coordinator.png)
 
 The default method of taking attendance is to manually indicate students who are in attendance
 

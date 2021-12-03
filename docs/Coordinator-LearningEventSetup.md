@@ -3,7 +3,7 @@
 * Click the **Learning Events** tab
 * Search for a specific learning event
 
-![Learning Event](./images/LearningEvents_Coordinator.png)
+![Learning Event](./images/MedLearn/LearningEvents_Coordinator.png)
 
 * Click the **Setup** tab
 * You can edit the event title, date and time, location, event type, and other fields

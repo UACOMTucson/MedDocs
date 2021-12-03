@@ -3,7 +3,7 @@
 * Click the **Learning Events** tab
 * Search for a specific learning event
 
-![Learning Event](./images/LearningEvents_Coordinator.png)
+![Learning Event](./images/MedLearn/LearningEvents_Coordinator.png)
 
 * Click the **Content** tab
 * Set-up information is displayed

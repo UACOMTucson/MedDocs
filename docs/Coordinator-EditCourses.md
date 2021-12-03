@@ -1,6 +1,6 @@
 ## Edit Courses
 
-![Courses Main](./images/CoursesMain_Coordinator.png)
+![Courses Main](./images/MedLearn/CoursesMain_Coordinator.png)
 
 Editing courses is used to add the course director, course coordinator, associated faculty, MeSH Keywords, course objectives, additional tags (e.g. Vocabulary), enrollment, course description, director’s message, and course resources:
 

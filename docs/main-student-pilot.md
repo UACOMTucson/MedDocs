@@ -6,7 +6,7 @@ The dashboard is displayed by default when logging in to MedLearn.  If you navig
 
 **Please NOTE:**  Dashboard and Assessment & Evaluation functions in MedLearn will only show learning events and course-related functions that are specific to the pilot course.  Continue to use ArizonaMed for functions related to other courses.
 
-![Default Dashboard](./images/Intro_Student.png)
+![Default Dashboard](./images/MedLearn/Intro_Student.png)
 
 #### 1.1 Notices
 Faculty and staff are able to post messages for student information.  Once posted, messages are shown on the dashboard.
@@ -28,7 +28,7 @@ Learning events for each of the courses are displayed on the student calendar.  
   * Pay special attention to the texts in the **Attendance** and **Professional Attire** fields
 * Click on the **Event Resources** link to access learning materials
 
-  ![Review Learning Event](./images/ReviewLearningEvent_Student.png)
+  ![Review Learning Event](./images/MedLearn/ReviewLearningEvent_Student.png)
 
 #### 1.3 View Enrolled Courses
 * Click the **Courses** tab
@@ -58,7 +58,7 @@ Students are able to submit feedback for specified courses directly from their d
 ### 2  Student Profile
 Individual student-related information is maintained in the student profile.
 
-![Student Profile](./images/Profile_Student.png)
+![Student Profile](./images/MedLearn/Profile_Student.png)
 
 * Refer to the top, right portion of the screen
 * Click your name to be directed to your profile
@@ -69,7 +69,7 @@ Individual student-related information is maintained in the student profile.
 
 #### 2.1 View Grades
 
-![View Grades](./images/ViewGrades_Student.png)
+![View Grades](./images/MedLearn/ViewGrades_Student.png)
 
 * Click the **My Gradebooks** link in the left menu
 * A list of courses and corresponding grades is displayed
@@ -103,7 +103,7 @@ The Attendance Policy is located on the COM-T website at http://medicine.arizona
 
 ### 3  Submit Assessments and Evaluations
 
-![Submit Assessments and Evaluations](./images/AssessmentsEvaluations_Student.png)
+![Submit Assessments and Evaluations](./images/MedLearn/AssessmentsEvaluations_Student.png)
 
 * Refer to the top, right portion of the screen
 * Click the **Assessment & Evaluation** link to be directed to student assessments

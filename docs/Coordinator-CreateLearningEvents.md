@@ -2,7 +2,7 @@
 
 * Return to the main screen
 
-![Learning Event](./images/LearningEvents_Coordinator.png)
+![Learning Event](./images/MedLearn/LearningEvents_Coordinator.png)
 
 * Click the **Learning Events** tab
 * Select **Administrator View** from the left menu

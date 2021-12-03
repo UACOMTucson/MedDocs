@@ -4,7 +4,7 @@
 Click the **Admin** tab > **Manage UA Absences**
 * The **Absence Requests** screen will open
 
-![Absences Main](./images/AbsencesMain_Coordinator.png)
+![Absences Main](./images/MedLearn/AbsencesMain_Coordinator.png)
 
 * Press the **Add Absence Request** button
 * The **Adding an Absence Request** screen will be displayed

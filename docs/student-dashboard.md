@@ -3,7 +3,7 @@ The dashboard is displayed by default when logging in to MedLearn.  If you navig
 
 **Please NOTE:** MedLearn will only show learning events and course-related items that are specific to the pilot course.  Continue to use ArizonaMed for functions related to other courses.
 
-![Default Dashboard](./images/Intro_Student.png)
+![Default Dashboard](./images/MedLearn/Intro_Student.png)
 
 ## Notices
 Faculty and staff are able to post messages for student information.  Once posted, messages are shown on the dashboard.
@@ -25,7 +25,7 @@ Learning events for each of the courses are displayed on the student calendar.  
   * Pay special attention to the texts in the **Attendance** and **Professional Attire** fields
 * Click on the **Event Resources** link to access learning materials
 
-  ![Review Learning Event](./images/ReviewLearningEvent_Student.png)
+  ![Review Learning Event](./images/MedLearn/ReviewLearningEvent_Student.png)
 
 ## Submit Course Feedback
 Students are able to submit feedback for specified courses directly from their dashboard.

@@ -1,7 +1,7 @@
 # Student Profile
 Individual student-related information is maintained in the student profile.
 
-![Student Profile](./images/Profile_Student.png)
+![Student Profile](./images/MedLearn/Profile_Student.png)
 
 * Refer to the top, right portion of the screen
 * Click your name to be directed to your profile

@@ -4,7 +4,7 @@
 * Select **Administrator View** from the left menu
 * Click the **Gradebook** tab
 
-![Grades Main](./images/GradesMain_Coordinator.png)
+![Grades Main](./images/MedLearn/GradesMain_Coordinator.png)
 
 ### Update Passing Score
 * Enter the passing score for each competency assessed in the course necessary to pass. For most courses this will be 70%.

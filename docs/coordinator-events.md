@@ -1,3 +1,3 @@
 # Events
 
-![Events Main](./images/EventsMain_Coordinator.png)
+![Events Main](./images/MedLearn/EventsMain_Coordinator.png)

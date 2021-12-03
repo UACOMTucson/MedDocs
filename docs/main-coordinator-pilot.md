@@ -4,14 +4,14 @@
 ### 1  Dashboard
 Thank you for participating in the MedLearn pilot.  We have created an icon within MedPortal to help you access everything you need for the pilot.  Simply click on the icon “Fall 2017 Nervous System MedLearn Pilot”.  You will find icons to help you navigate to courses, events, assignments, gradebook, surveys, absence requests and important messages.  As well as a link to help you return to ArizonaMed.  The project team encourages you to submit course and system feedback through MedLearn.
 
-![MedLearn Feedback](./images/Intro_Coordinator.png)
+![MedLearn Feedback](./images/MedLearn/Intro_Coordinator.png)
 
 **Please NOTE:** You will only have access to information specific to the pilot course in MedLearn.  Continue to use ArizonaMed for functions related to other courses.
 
 ### 2 Courses
 MedLearn provides two views of course details:  The Learner View (default) and the Administrator View.  Both are selected from the Display Style box in the left menu.
 
-![Courses Main](./images/CoursesMain_Coordinator.png)
+![Courses Main](./images/MedLearn/CoursesMain_Coordinator.png)
 
 #### 2.1 Edit Courses
 Editing courses is used to add the course director, course coordinator, associated faculty, MeSH Keywords, course objectives, additional tags (e.g. Vocabulary), enrollment, course description, director’s message, and course resources:
@@ -53,7 +53,7 @@ Editing courses is used to add the course director, course coordinator, associat
 
 ### 3  Events
 
-![Events Main](./images/EventsMain_Coordinator.png)
+![Events Main](./images/MedLearn/EventsMain_Coordinator.png)
 
 #### 3.1 Select a Learning Event
 * Click the **Learning Events** tab
@@ -65,7 +65,7 @@ Editing courses is used to add the course director, course coordinator, associat
 * The list of events will be displayed
 * Click on the event name to modify/view any of the event details (content, faculty notes, etc.)
 
-![Learning Event](./images/LearningEvents_Coordinator.png)
+![Learning Event](./images/MedLearn/LearningEvents_Coordinator.png)
 
 #### 3.2 Learning Event Setup
 * Click the **Setup** tab
@@ -151,7 +151,7 @@ Event **Statistics** show who and how many times an event has been viewed.
 * Select **Administrator View** from the left menu
 * Click the **Gradebook** tab
 
-![Grades Main](./images/GradesMain_Coordinator.png)
+![Grades Main](./images/MedLearn/GradesMain_Coordinator.png)
 
 #### 6.1 Update Passing Score
 * Enter the passing score for each competency assessed in the course necessary to pass. For most courses this will be 70%.
@@ -228,7 +228,7 @@ Students may be excused from mandatory classroom and clinical activities for cau
   * Status
   * Comments
 
-  ![Absences Main](./images/AbsencesMain_Coordinator.png)
+  ![Absences Main](./images/MedLearn/AbsencesMain_Coordinator.png)
 
 #### 7.1	Enter Absences
 * Press the **Add Absence Request** button

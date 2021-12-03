@@ -3,7 +3,7 @@
 * Click your name to be directed to your profile
 * Click the **My Gradebooks** link in the left menu
 
-![View Grades](./images/ViewGrades_Student.png)
+![View Grades](./images/MedLearn/ViewGrades_Student.png)
 
 * A list of courses and corresponding grades is displayed
 * Click the **MK** and/or **PC** links to see a breakdown of the Medical Knowledge and Patient Care
