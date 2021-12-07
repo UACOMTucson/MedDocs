@@ -1,38 +1,21 @@
 # MedLearn - Dashboard
 
   <video width="80%" controls="controls">
-<source src="https://arizona.box.com/shared/static/mmng5mos6kokxureeyf9yfuwm8f5xxbi.mp4" type="video/mp4">
+<source src="https://arizona.box.com/shared/static/0qa3bnh3k5rq4ufbnsw9g4712v3m67xh.mov" type="video/mp4">
 </video>
 
 The dashboard is displayed by default when logging in to MedLearn. If you navigate away from the dashboard, simply click on the MedLearn logo or the dashboard link to return to it.
 
-![Dashboard](./images/MedLearn/student-dashboard.png)
+![Dashboard](./images/MedLearn/New_Dashboard_1.jpg)
 
-##1. My MedLearn
+##1. Message Center
 
-My MedLearn provides students with quick access to commonly used areas of MedLearn. The links within My MedLearn are the same for all students.
+The Message Center displays all messages for students. To acknowledge these messages check the box next to the message and click Mark as Read. This will clear the message center. If you would like to look at previous messages click the Previously Read Messages to navigate to the messages area in MedLearn.
 
-##2. My Bookmarks
+##2. Upcoming Events
 
-My Bookmarks allows users to create custom quick links specific to their user account. If you frequently are going to the same page, you can add it as a bookmark, or if you want to remember to return to a certain page in MedLearn you could add it as a bookmark as a reminder, then delete it once you are finished. Your bookmarks are unique to your account, so no one else can see what you have bookmarked in MedLearn.
+Upcoming Events list all events for the current day as well as the next business day. This list is updated hourly. Clicking the event name will navigate students to the specific event with all details as well as links to download event resources. Clicking on the course link will navigate students to the course page with all information and links to course resources. If the event is podcasted the link to Zoom will be listed in the location column. Click the link to be placed into the course. 
 
-##3. Give Feedback
+##3. Upcoming Assignments
 
-Students are able to submit feedback for specific courses or for IT. IT feedback might include a suggestion or a bug/issue you've identified. Course feedback is specific to the course you select in the feedback form, and is anonymously reported to the Course Director, Coordinator, and Student Advisory Committee.
-
-##4. MedLearn Message Center
-
-Faculty and staff are able to post messages containing student information. Once posted, messages are shown on the dashboard within the MedLearn Message Center. Unread messages display by default when you view the dashboard. You can also mark messages as read so that they no longer appear. If you want to review previously read messages click on Previously Read Messages.
-
-##5. Calendar
-
-Learning events for each of the courses are displayed on the student calendar. Event details (e.g. location, duration, attendance requirements, etc.) and resources are accessed by clicking on the event.
-
-* The calendar defaults to the current week
-* Refer to the date range field
-* Use the arrows to select past and future dates
-* Click on the event to review event details
-* Pay special attention to the texts in the Attendance, Podcast, and Professional Attire fields
-* Click on the Event Resources link to access learning materials
-
-Additionally, you can subscribe to your MedLearn calendar. Subscribe by URL, rather than download, to receive updates as schedules are updated.
+The upcoming assignments section will list all assignments due up to the past due date. Clicking on the assignment will navigate the student to the assignment upload page in MedLearn. If there is a document already uploaded the document title will display under the Uploads column. If no document is uploaded the column will be blank. For societies assignments click the Societies link in the Area column to be navigated to My Societies to complete your assignment.
